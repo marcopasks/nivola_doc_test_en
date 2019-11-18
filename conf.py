@@ -173,8 +173,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Yucca', 'Nivola Documentation',
-     author, 'Yucca', 'One line description of project.',
+    (master_doc, 'Nivola', 'Nivola Documentation',
+     author, 'Nivola', 'One line description of project.',
      'Miscellaneous'),
 ]
 
