@@ -1,5 +1,3 @@
-.. _Introduzione:
-
 **Cosa è Nivola?**
 ******************
 
