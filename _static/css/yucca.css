@@ -14,7 +14,7 @@
 
 
 
-.yucca-logo{background: transparent url(../img/logoyucca.png) no-repeat center;min-width: 190px;height: 130px; display: block; margin-bottom: 2em;}
+.yucca-logo{background: transparent url(../img/logonivola.png) no-repeat center;min-width: 190px;height: 130px; display: block; margin-bottom: 2em;}
 #yucca-header{text-align: right; padding: 1.618em 3.236em;}
 #yucca-header a{color: #212529; font-size: 1.2em; font-weight: bold;}
 #yucca-header #username{margin-left: 2.2em}
@@ -22,7 +22,7 @@
 #yucca-footer{margin-top: 1.618em; padding: 1.618em 3.236em;background-color: #ecf1ed;}
 #yucca-footer .footer-info{display: flex;}
 #yucca-footer .footer-banner{flex-grow: 1;}
-#yucca-footer .footer-intro {flex-grow: 1;background-position: top left 15px; background: url(../img/logo_sdn_bw.png) no-repeat; padding-top: 45px; padding-left: 0px; }
+#yucca-footer .footer-intro {flex-grow: 1;background-position: top left 15px; background: url(../img/logonivola_header_3.png) no-repeat; padding-top: 45px; padding-left: 0px; }
 
 #yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png);}
 #yucca-footer .footer-banner .logo-csi {background-image: url(../img/logo_csipiemonte_footer.png);}
@@ -45,14 +45,14 @@
 .wy-grid-for-nav{position: inherit;}
 
 #yucca-header{background-color: #ecf1ed;}
-#yucca-header .brand-navbar .navbar-brand {background: transparent url(../img/logoyucca_header.png) no-repeat center;width: 424px;height: 67px; display: block;}
+#yucca-header .brand-navbar .navbar-brand {background: transparent url(../img/logonivola_header.png) no-repeat center;width: 424px;height: 67px; display: block;}
 
 #yucca-footer{background-color: #343d3c;color: #fff;text-align: center;font-size: 1.75rem;padding: 48px 3.75rem;}
 #yucca-footer div{text-align: left;}
 #yucca-footer a{text-decoration: none;}
 #yucca-footer p{margin-bottom: 1.25rem;}
 #yucca-footer .row{display: flex; flex-wrap: wrap;}
-#yucca-footer .footer-info {background-position: top left 15px; background: url(../img/logo_sdn_bw.png) no-repeat; padding-top: 90px; padding-left: 15px; }
+#yucca-footer .footer-info {background-position: top left 15px; background: url(../img/logonivola_header_3.png) no-repeat; padding-top: 90px; padding-left: 15px; }
 #yucca-footer .footer-info, #yucca-footer .footer-banner {flex: 0 0 50%; max-width: 50%;}
 #yucca-footer a:link, #yucca-footer a:active, #yucca-footer a:visited {color: #fff; font-size: 1.3125rem;}
 #yucca-footer .footer-banner {padding-top: 32px; justify-content: flex-end; display: flex;}
