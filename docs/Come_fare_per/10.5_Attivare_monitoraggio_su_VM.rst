@@ -1,0 +1,68 @@
+.. _nuovo_dataset:
+
+**Creare un nuovo dataset**
+***************************
+
+Nella sezione DATASET della pagina di gestione è possibile visualizzare l’elenco di tutti i dataset già presenti o crearne di nuovi.
+
+.. image:: img/Creazione_Dataset1.jpg
+
+Cliccando su **NUOVO** saranno visualizzati vari step in cui verrà richiesto di inserire le informazioni relative al nuovo dataset. 
+
+.. image:: img/Creazione_Dataset2.jpg
+
+.. image:: img/Creazione_Dataset3.jpg
+
+Sarà possibile accedere ad ogni step solo se verranno compilati tutti i campi obbligatori nello step precedente.
+
+I campi obbligatori sono evidenziati da un  *  posto accanto alla descrizione del campo e sono i seguenti:
+
+- Step 1
+
+    - Nome
+
+    - AmbitoStep 1
+    - Sottodominio 
+
+- Step 2 
+
+    - tutti i campi relativi al richiedente 
+
+- Step 3 
+
+   - Tag (è necessario inserirne almeno uno)
+   - Campi DCAT : nome del titolare, nome organizzazione, e-mail organizzazione (visualizzati solo nel caso di dataset pubblicato) 
+
+E’ inoltre obbligatorio inserire i componenti del dataset (STEP 4 e 5)
+
+Gli step 4 e 5 riguardano la definizione della struttura delle colonne del dataset che si sta creando. 
+
+E’ possibile definire tale struttura mediante 3 modalità: 
+
+- DEFINIZIONE DELLE COLONNE CON ALLEGATI: permette di definire le colonne allegando filmati, immagini o file binari
+
+- DEFINIZIONE DELLE COLONNE SENZA ALLEGATI: permette di definire le colonne del dataset senza allegati
+
+- DEFINIZIONE DELLE COLONNE MEDIANTE UPLOAD DEL CSV : permette di definire le colonne del dataset mediante il caricamento di file csv
+
+.. image:: img/reazione_Dataset4.jpg
+
+Di default il dataset verrà creato come pubblicato e sarà di conseguenza visibile sullo Store. 
+
+Per renderlo non pubblicato è necessario effettuare il check su “Non pubblicare” nello step 1. In questo modo il dataset non sarà visibile sullo Store, non sarà presente l’api odata corrispondente e di conseguenza il data explorer.
+
+Un dataset non pubblicato viene automaticamente considerato privato e nella sezione Visibilità e condivisione nello Step 3 sarà possibile ma non obbligatorio selezionare una o più aree di lavoro con cui condividerlo. In questo modo sarà visibile solo al tenant che l’ha creato e alle eventuali aree di lavoro con cui è stato condiviso.
+
+.. image:: img/Creazione_Dataset5.jpg
+
+Nel caso di dataset pubblicato sarà invece possibile sceglierne la visibilità ed in caso di visibilità pubblica il dato sarà automaticamente considerato opendata e sarà possibile ma non obbligatorio compilare i campi autore, lingua, data di aggiornamento e frequenza di aggiornamento. Il dataset pubblico sarà visibile a tutte le aree di lavoro
+
+
+.. image:: img/Creazione_Dataset6.jpg
+
+
+
+
+
+
+

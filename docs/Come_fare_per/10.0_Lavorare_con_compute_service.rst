@@ -1,0 +1,52 @@
+.. _Introduzione:
+
+**Cosa è Nivola?**
+*****************
+Nivola è una piattaforma completamente open source
+che semplifica l’utilizzo dei servizi cloud da parte della pubblica amministrazione.
+Nivola è realizzata dal CSI Piemonte e mette a disposizione potenza di calcolo, storage, rete e database e molto altro. Il risultato è quello di offrire a ogni amministrazione la completa autonomia nella creazione del proprio sistema informativo e nella migrazione delle applicazioni, in assoluta sicurezza. I servizi sono facilmente scalabili, senza spese di licenza e di gestione dell’hardware.  Ogni ente può quindi creare in autonomia il proprio sistema informativo, pagando esclusivamente in base all’utilizzo, attraverso sistemi di rilevazione dei consumi .
+
+
+
+
+Accesso al Portale
+-------------------
+
+Per accedere allo **user portal** (interfaccia di gestione di Nivola) è necessario inserire, nel proprio browser, la seguente URL: https://portal.nivolapiemonte.it/.
+
+
+L’accesso allo user portal avviene mediante autenticazione. Attualmente sono previste tre tipologie di autenticazione :
+
+- CSI (credenziali di CSI Piemonte)
+
+.. image:: img/AccessoPortaleCSI.png
+
+- Azienda (credenziali di di SPID o Sistema Piemonte per la pubblica amministrazione)
+
+.. image:: img/AccessoPortaleAzienda.png
+
+- Pubblica amministrazione (credenziali di SPID o RUPAR)
+
+.. image:: img/AccessoPortalePA.png
+
+Servizi
+-------
+La piattaforma espone diversi Servizi, utilizzabili a seconda del ruolo con cui si accede:
+
+1. Compute: è possibile creare, clonare stoppare, attivare e cancellare le Virtual Machine.
+
+2. Database: consente di Permette di fruire di servizi di database su differenti tecnologie e con differenti flavors (caratteristiche del servizio in termini di CPU, RAM e disco) e mette a disposizione due modalità di fruizione:
+
+    1. DBMS platform as a services, accesso ad una base dati dedicata in cui si ha a possibilità di gestire il servizio in modo autonomo, tramite un’interfaccia con privilegi amministrativi;
+
+    2. Database schema as a services, accesso ad uno schema dove l’utilizzatore può intervenire solo sulla definizione della struttura della base dati, ma non ha privilegi amministrativi sul data base, che sono demandati al CSI Piemonte.
+
+
+3. Storage: permette di accedere a uno spazio disco con protocolli NFS e CIFS  ed è integrato con gli altri servizi previsti dalla piattaforma o con altri servizi installati dal consumer.
+
+4. Reti e Sicurezza: insieme di funzioni per la gestione delle risorse di rete, della sicurezza, della microsegmentazione, di bilanciamento applicativo sia locale che geografico, di gestione dei nomi DNS statici e dinamici.:
+
+    1. Virtual Private Cloud (VPC).
+    
+    2. Security Group.
+
