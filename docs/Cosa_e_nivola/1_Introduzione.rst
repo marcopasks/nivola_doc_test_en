@@ -1,5 +1,5 @@
 **Cosa è Nivola?**
-##################
+******************
 
 **Nivola** è una piattaforma completamente open source
 che semplifica l’utilizzo dei servizi cloud da parte della pubblica amministrazione.
