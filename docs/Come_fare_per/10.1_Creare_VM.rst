@@ -1,77 +1,52 @@
-.. _accesso_api:
+.. _Creare_VM:
 
-**Ricercare a accedere tramite API ai dataset esistenti**
-*********************************************************
-Con l’attuale versione è possibile accedere ai dataset memorizzati in modo persistente sulla piattaforma attraverso il richiamo di API REST aderenti al protocollo **odata v2**. I dettagli sulla specifiche implementate sono disponibili qui. 
+**Creare Virtual machine (VM)**
+*******************************
+La funzione del **servizio compute** è attivabile dalla parte sinistra dello schermo, cliccando sulla freccia
+a destra della funzione, apparirà  **VM** e a seguito di un clic il sistema popolerà la
+parte destra del video con l'**Elenco delle VM**.
 
-Attualmente sono esposti tramite API tre tipologie di dataset:
-    
-- bulk: dataset censiti tramite interfaccia di gestione e caricati con upload di file (a breve altri protocolli per il caricamento massivo).
-- stream: dataset popolati a partire dagli eventi inviati alla piattaforma tramite smart objects*
-- social: dataset popolati a partire da ricerche twitter schedulate sulla piattaforma*
+.. image:: img/ElencoVM.png
 
-***Nota:** solo gli stream per cui è stato scelto di effettuare il salvataggio dati (flag salva dati) generano un dataset interrogabile via API.
+1. Fare clic sul pulsante:
 
-Discovery e ricerca dei dataset disponibili
--------------------------------------------
+.. image:: img/Add_VM.png
 
-La ricerca di un dataset può essere eseguita in due diverse modalità:
+2. Inserire il **Nome della virtual machine**
 
-- tramite tab gestione
-- tramite store.
+3. Scegliere il **TEMPLATE** da cui generare la virtual machine facendo un clic su uno degli OS propposti come pulsanti
+e successivamente sul pulsante **VAI TIPO VM**
 
-lo user portal consente di eseguire una discovery **mirata sul dato** in quanto permette di impostare diversi criteri di ricerca, anche complessi e, oltre a fornire le URL di accesso ai servizi, consente pure di scaricare i dati in formato **csv (comma separated value)**.
+.. image:: img/Tipo_VM.png
 
-Sia utilizzando lo user portal che lo store, nell’elenco saranno visualizzati solamente i dataset per cui l’utente ha visibilità secondo la logica:
+4.Specificare il type, la CPU, la RAM e il Disco sfruttando il **CheckBox** in testa ad ogni riga esposta
+dal portale e di seguito cliccare il pulsante **VAI A DISCO**
 
-- Un dataset pubblico è visibile a tutti gli utenti
-- Un dataset privato è visibile agli utenti appartenenti al tenant sotto cui è stato creato.
-- Un dataset privato è visibile agli utenti appartenenti ai tenant a cui è stato condiviso
+.. image:: img/Risorse_VM.png
 
+5. Indicare Dimensione del disco e nel caso servisse usare il pulsante **AGGIUNGI DISCO AGGIUNTIVO** per aggiungere
+un disco alla VM e proseguire cliccando su **VAI A NETWORK E SECURITY**
 
-**Discovery tramite User Portal**
+.. image:: img/Disco_VM.png
 
-Eseguire l'accesso allo User Portal come descritto nel relativo tutorial. Comparirà la home page della piattaforma. Cliccare sul bottone **Gestione**.
+6. Sfruttando i menù a tendina posti a fianco delle informazioni inserire: **Region, Availability Zone,
+Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**.
 
-.. image:: img/API1.png
+.. image:: img/Network_Security_VM.png
 
-Sulla schermata che compare selezionare **Dataset**. Verrà visualizzata una tabella contenente tutti i dataset.
+7. Nel caso servissero, assegnare dei tag alla virtual machine scrivendo la stringa seguito da invio.
+Nel caso fosse necessario, è possibile cancellare quanto precedentemente inserito utilizzando la **"X"**
+a fianco dei tags. Al termine premere **VAI A RIEPILOGO**.
 
-.. image:: img/API2.png
+.. image:: img/Tags_VM.png
 
-E' possibile filtrare i dataset per nome o codice oppure, cliccando sulla tendina **Filtra** , impostare ulteriori filtri (ambiti tematici, area di lavoro, gruppo). Dalla medesima tendina si può inoltre decidere se visualizzare anche i dataset disinstallati o non pubblicati
+8. Controllare le opzioni inserite ed esposte dal sistema e premere **CONFERMA E CREA LA VIRTUAL MACHINE**
+per procedere alla creazione della VM.
 
-.. image:: img/API3.png
+.. image:: img/Riepilogo_VM.png
 
-fare click sul **nome** del dataset per visualizzarne la schermata di dettaglio.
-
-.. image:: img/API4.png
-
-
-.. image:: img/API5.png
-
-
-**Discovery tramite Store**
-
-Eseguire l'access allo **Store** cliccando su **Store dei dati**
-
-.. image:: img/API6.png
-
-Inserire i criteri di ricerca.
-
-.. image:: img/API7.png
-
-Comparirà l'elenco dei risultati
-
-.. image:: img/API8.png
-
-Cliccando su **Dati** verrà visualizzata l'anteprima dei dati, sotto la qualw è riportata la **query OData** utilizzata per l'anteprima.
-
-.. image:: img/API9.png
-
-Da questa pagina è inoltre possibile scaricare i dati in formato CSV.
-
-.. image:: img/API10.png
+9. Attendere qualche secondo e il server creato comparirà nell’**ELENCO VM**.
+Lo stato iniziale della VM sarà **acceso** e pronta all’utilizzo.
 
 
 
