@@ -2,8 +2,6 @@
 ########################
 
 
-.. image:: img/Yucca_Overview.png
-
 
 .. toctree::
    :maxdepth: 2

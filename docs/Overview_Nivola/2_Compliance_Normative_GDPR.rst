@@ -1,4 +1,4 @@
-**Compliance Normativa e GDPR?**
+**Compliance Normativa e GDPR**
 ********************************
 
 Lo sviluppo della piattaforma **Nivola** è stato condotto tenendo in grande considerazione tre aspetti fondamentali:

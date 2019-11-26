@@ -1,6 +1,6 @@
 .. _Introduzione:
 
-**Cosa è Nivola?**
+**Lavorare con Compute Service**
 ******************
 Nivola è una piattaforma completamente open source
 che semplifica l’utilizzo dei servizi cloud da parte della pubblica amministrazione.

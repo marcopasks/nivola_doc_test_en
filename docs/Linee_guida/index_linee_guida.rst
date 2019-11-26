@@ -1,8 +1,5 @@
-**Overview Piattaforma**
+**Linee Guida**
 ########################
-
-
-.. image:: img/Yucca_Overview.png
 
 
 .. toctree::
