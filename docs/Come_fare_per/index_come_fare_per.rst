@@ -16,7 +16,7 @@ In questa sezione si trovano una serie di tutorial per iniziare fin da subito ad
    10.5_Attivare_monitoraggio_su_VM.rst
    20.0_Accedere_ai_log.rst
    30.0_Accedere_al_monitoraggio.rst
-   40.0_Rilevare_costi_e_consumi.rst
+   40.0_Consultate_costi_e_consumi.rst
    50.0_Attivare_il_supporto.rst
 
 
