@@ -1,4 +1,5 @@
-Condizioni Generali di Fornitura
+**Condizioni generali di formitura**
+************************************
 
 Le Condizioni Generali di Fornitura descrivono i diritti/doveri sia del
 cliente sia del CSI Piemonte in quanto fornitore dei servizi Cloud

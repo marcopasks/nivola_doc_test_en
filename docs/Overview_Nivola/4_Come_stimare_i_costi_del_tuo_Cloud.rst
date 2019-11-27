@@ -1,6 +1,9 @@
-Come stimare i costi del tuo Cloud
+**Come stimare i costi del tuo cloud**
+**************************************
 
-Il configuratore permette di iniziare a consultare i servizi attivabili
+**Configuratore Nivola**
+
+Il **Configuratore** permette di iniziare a consultare i servizi attivabili
 sulla piattaforma, con possibilità di settaggio di varie metriche e un
 prezzo riassuntivo di tutte le scelte effettuate. Da ricordare che il
 prezzo visualizzato è solo una stima verosimile al prezzo finale, dato
