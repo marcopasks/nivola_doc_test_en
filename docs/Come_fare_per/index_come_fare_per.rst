@@ -11,6 +11,7 @@ ad interagire con la piattaforma, attraverso il portale.
    10_Lavorare_con_compute_service.rst
    10.1_Creare_VM.rst
    10.2_Gestire_VM.rst
+<<<<<<< HEAD
    10.3_Usare_VM.rst
    10.4_Gestione_chiavi_ssh.rst
    14_Lavorare_con_DBAAS.rst
@@ -26,6 +27,15 @@ ad interagire con la piattaforma, attraverso il portale.
    16.3_Usare_il_proprio_STAAS.rst
    17_Interagire_con_il_supporto
    50_Attivare_il_supporto.rst
+=======
+   10.3_Clonare_VM.rst
+   10.4_Usare_VM.rst
+   10.5_Attivare_monitoraggio_su_VM.rst
+   20.0_Accedere_ai_log.rst
+   30.0_Accedere_al_monitoraggio.rst
+   40.0_Consultate_costi_e_consumi.rst
+   50.0_Attivare_il_supporto.rst
+>>>>>>> 34ba4de375f4b2ae3dd35d1cf54856012597e639
 
 
    
