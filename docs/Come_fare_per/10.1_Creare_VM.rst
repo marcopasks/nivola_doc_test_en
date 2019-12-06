@@ -6,7 +6,7 @@ La funzione rientra nel **servizio compute**. La **creazione Vm** è attivabile 
 a destra della funzione, apparirà  **VM** e a seguito di un clic il sistema popolerà la
 parte destra del video con l'**Elenco delle VM**. Dopo che il sistema mostrerà le Vm
 
-.. image:: img/ElencoVM.png
+.. image:: img/Elenco_VM.png
 
 procedere come segue:
 
