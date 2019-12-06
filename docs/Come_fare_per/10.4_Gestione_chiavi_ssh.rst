@@ -1,0 +1,63 @@
+.. _Gestione_chiavi_ssh:
+
+**CREARE CHIAVI SSH**
+*********************
+La funzione è attivabile da **Reti e Sicurezza** cliccando la voce **Chiavi SSH**
+
+
+.. image:: img/Menu_ssh.png
+
+
+Per creare le **chiavi ssh** è possibile procedere con 2 metodi distinti
+ma occorre rispettare i seguenti vincoli:
+
+- Il **nome della chiave ssh** deve essre univoco_ in tutto il sistema.
+
+- Il **nome della chiave** non può superare i 40_ caratteri_
+
+- Nel **nome della chiave ssh** oltre le lettere e i numeri
+  gli unici caratteri_ particolari_ ammessi_ sono **"_"** e **"-"**
+
+
+.. image:: img/Add_VM.png
+
+
+
+**Creazione direttamente da Nivola**
+====================================
+
+Premere tasto **"+"**
+
+.. image:: img/Add_VM.png
+
+**Inserire nome della nuova chiave** attendere la creazione, selezionarla
+premere **CREA CHIAVE** e attendere la risposta del sitema.
+
+.. image:: img/Crea-keyssh-ex-novo.png
+
+**Creazione attraverso l'import**
+=================================
+
+
+Premere il tasto **"+"**
+
+.. image:: img/crea-ssh-da-lista.png
+
+**Inserire il nome chiave**, immettere la chiave precedentemente generata nel campo **Inserire la chiave**
+premere **IMPORTA**.
+
+.. image:: img/Importa-key-ssh.png
+
+
+**Cancellare Chiave SSH**
+=========================
+
+Selezionare la **chiave ssh** da cancellare e premere il tasto arancione.
+
+.. image:: img/Creazione_Stream_Dati1.png
+
+Il sistema chiederà conferma dell'operazione:
+
+.. image:: img/keyssh-conferma-cancellazione.png
+
+Dopo la conferma, cliccare su **"SI"** e la chiave verrà cancellata, scomparendo dall'elenco.

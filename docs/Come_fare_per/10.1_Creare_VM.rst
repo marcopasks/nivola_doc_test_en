@@ -2,11 +2,13 @@
 
 **Creare Virtual machine (VM)**
 *******************************
-La funzione del **servizio compute** è attivabile dalla parte sinistra dello schermo, cliccando sulla freccia
+La funzione rientra nel **servizio compute**. La **creazione Vm** è attivabile dalla parte sinistra dello schermo, cliccando sulla freccia
 a destra della funzione, apparirà  **VM** e a seguito di un clic il sistema popolerà la
-parte destra del video con l'**Elenco delle VM**.
+parte destra del video con l'**Elenco delle VM**. Dopo che il sistema mostrerà le Vm
 
 .. image:: img/ElencoVM.png
+
+procedere come segue:
 
 1. Fare clic sul pulsante:
 
@@ -24,7 +26,7 @@ dal portale e di seguito cliccare il pulsante **VAI A DISCO**
 
 .. image:: img/Risorse_VM.png
 
-5. Indicare Dimensione del disco e nel caso servisse usare il pulsante **AGGIUNGI DISCO AGGIUNTIVO** per aggiungere
+5. Indicare Dimensione del disco e nel caso servisse usare il pulsante, **AGGIUNGI DISCO AGGIUNTIVO** per aggiungere
 un disco alla VM e proseguire cliccando su **VAI A NETWORK E SECURITY**
 
 .. image:: img/Disco_VM.png
@@ -36,16 +38,51 @@ Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**.
 
 7. Nel caso servissero, assegnare dei tag alla virtual machine scrivendo la stringa seguito da invio.
 Nel caso fosse necessario, è possibile cancellare quanto precedentemente inserito utilizzando la **"X"**
-a fianco dei tags. Al termine premere **VAI A RIEPILOGO**.
+a fianco dei tags. Al termine, premere **VAI A CHIAVI SSH**.
 
 .. image:: img/Tags_VM.png
 
-8. Controllare le opzioni inserite ed esposte dal sistema e premere **CONFERMA E CREA LA VIRTUAL MACHINE**
+8. In questa fase è obbligatorio creare una **CHIAVE SSH** da assegnare alla virtual machine
+E' le possibilità sono 3.
+
+**SCEGLIENDO UNA DELLE CHIAVI DALLA LISTA**
+Il sistema propone la lista delle **chiavi ssh** presenti, da queste,
+sceglierne una e premere **VAI A RIPEILOGO**
+
+.. image:: img/key-ssh-selezionata-da-lista.png
+
+**CREANDO CHIAVE SSH EX NOVO**
+
+Premere tasto **"+"**
+
+.. image:: img/Add_VM.png
+
+**Inserire nome della nuova chiave** attendere la creazione, selezionarla
+premere **CREA CHIAVE** dopo di che selezionarla dalla lista e premere **VAI A RIPEILOGO**
+
+.. image:: img/key-ssh-selezionata-da-lista.png
+
+**CREANDO CHIAVE SSH IMPORTANDOLA**
+
+Premere il tasto
+
+.. image:: img/crea-ssh-da-lista.png
+
+**Inserire il nome chiave**, immettere la chiave precedentemente generata nel campo **Inserire la chiave**
+premere **IMPORTA**
+
+.. image:: img/Importa-key-ssh.png
+
+Attendere la creazione, selezionarla lista e premere **VAI A RIPEILOGO**
+
+.. image:: img/key-ssh-selezionata-da-lista.png
+
+9. Controllare le opzioni inserite ed esposte dal sistema e premere **CONFERMA E CREA LA VIRTUAL MACHINE**
 per procedere alla creazione della VM.
 
 .. image:: img/Riepilogo_VM.png
 
-9. Attendere qualche secondo e il server creato comparirà nell’**ELENCO VM**.
+10. Attendere qualche secondo e il server creato comparirà nell’**ELENCO VM**.
 Lo stato iniziale della VM sarà **acceso** e pronta all’utilizzo.
 
 

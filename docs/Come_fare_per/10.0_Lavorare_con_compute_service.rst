@@ -1,4 +1,4 @@
-.. _Introduzione:
+.. _Lavorare_con_compute_service:
 
 **Cosa è Nivola?**
 ******************
@@ -33,20 +33,41 @@ Servizi
 -------
 La piattaforma espone diversi Servizi, utilizzabili a seconda del ruolo con cui si accede:
 
-1. Compute: è possibile creare, clonare stoppare, attivare e cancellare le Virtual Machine.
+1. Compute dove è possibile creare, clonare stoppare, attivare e cancellare le Virtual Machine.
 
-2. Database: consente di Permette di fruire di servizi di database su differenti tecnologie e con differenti flavors (caratteristiche del servizio in termini di CPU, RAM e disco) e mette a disposizione due modalità di fruizione:
+    1. **Creare VM** :ref:`vedi creazione VM <_Creare_VM>`.
+    2. **Gestire VM** :ref:`vedi Gestione VM <_Gestire_VM>`.
+    3. **Usare VM** :ref:`vedi Usare le VM <_Usare_VM>`.
+    4. **Creare chiavi ssh** :ref:`vedi creare chiavi ssh <_Creare_chiavi_ssh>`.
+    5. **Importare chiavi ssh** :ref:`vedi importare chiavi ssh <_Importare_chiavi_ssh>`.
 
-    1. DBMS platform as a services, accesso ad una base dati dedicata in cui si ha a possibilità di gestire il servizio in modo autonomo, tramite un’interfaccia con privilegi amministrativi;
 
-    2. Database schema as a services, accesso ad uno schema dove l’utilizzatore può intervenire solo sulla definizione della struttura della base dati, ma non ha privilegi amministrativi sul data base, che sono demandati al CSI Piemonte.
+2. Database: consente di fruire dei servizi di database su differenti
+tecnologie e con differenti flavors (caratteristiche del servizio in termini di
+CPU, RAM e disco):
+
+    1. **Creare istanze del DBAAS** :ref:`vedi creazione DBAAS <_Creare_DBAAS>`.;
+
+    2. **Gestire istanze del DBAAS** :ref:`vedi gestione DBAAS <_Gestire_DBAAS>`.;
+
+    3. **Usare istanze del DBAAS** :ref:`vedi Usare il proprio DBAAS <_Usare_il_proprio_DBAAS>`.;
+
+3. Reti e Sicurezza: insieme di funzioni necessarie alla gestione delle risorse di rete,
+della sicurezza, della microsegmentazione, di bilanciamento applicativo sia locale
+che geografico, di gestione dei nomi DNS statici e dinamici:
+
+    1. **Creare Security Group** :ref:`vedi creazione SG <_Creare_Security_Group>`.;
+    2. **Gestire le regole del Security Group** :ref:`vedi Gestione SG <_Gestione_Regole_SG>`.;
+
+4. Storage: permette di accedere a uno spazio disco con protocolli NFS e CIFS  ed è integrato con gli altri servizi previsti
+dalla piattaforma o con altri servizi installati dal consumer.
+
+    1. **Creare Storage as Service** :ref:`vedi creazione STAAS <_Creare_STAAS>`.;
+    1. **Gestire Storage as Service** :ref:`vedi gestione STAAS <_Gestire_STAAS>`.;
+    1. **Usare il proprio Storage as Service** :ref:`vedi usare il proprio STAAS <_Usare_il_proprio_STAAS>`.;
 
 
-3. Storage: permette di accedere a uno spazio disco con protocolli NFS e CIFS  ed è integrato con gli altri servizi previsti dalla piattaforma o con altri servizi installati dal consumer.
+4. Interagire con il **Nivola Support Center**:
 
-4. Reti e Sicurezza: insieme di funzioni per la gestione delle risorse di rete, della sicurezza, della microsegmentazione, di bilanciamento applicativo sia locale che geografico, di gestione dei nomi DNS statici e dinamici.:
-
-    1. Virtual Private Cloud (VPC).
-    
-    2. Security Group.
+5. Attivare il **Nivola Support Center**:
 
