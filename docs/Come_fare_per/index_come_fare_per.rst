@@ -8,7 +8,7 @@ ad interagire con la piattaforma, attraverso il portale.
    :maxdepth: 2
  
 
-   10_Lavorare_con_compute_service.rst
+   10.0_Lavorare_con_compute_service.rst
    10.1_Creare_VM.rst
    10.2_Gestire_VM.rst
    10.3_Usare_VM.rst
