@@ -1,6 +1,6 @@
 .. _Creare_VM:
 
-**Creare Virtual machine (VM)**
+**Creare Virtual Machine (VM)**
 *******************************
 La funzione rientra nel **servizio compute**. La **creazione Vm** è attivabile dalla parte sinistra dello schermo, cliccando sulla freccia
 a destra della funzione, apparirà  **VM** e a seguito di un clic il sistema popolerà la
@@ -66,7 +66,7 @@ premere **CREA CHIAVE** dopo di che selezionarla dalla lista e premere **VAI A R
 
 Premere il tasto
 
-.. image:: img/crea-ssh-da-lista.png
+.. image:: img/Crea-ssh-da-lista.png
 
 **Inserire il nome chiave**, immettere la chiave precedentemente generata nel campo **Inserire la chiave**
 premere **IMPORTA**
