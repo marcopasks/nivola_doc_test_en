@@ -12,14 +12,14 @@ Per **gestione delle VM** si intendono tutte le operazioni che consentono l'uso
 della macchina in precedenza creata :ref:`vedi creazione VM <Creare_VM>`.
 Appartengono a questo gruppo di operazioni:
 
-    1. **Cercare VM** [1]_.
+    1. **Cercare VM** [CercareVM]_.
     2. **Stoppare VM** [2]_
     3. **Accendere VM** [3]_.
     4. **Cancellare VM** [4]_.
 
 
 
-.. [1]
+.. [CercareVM]
 
 **Cercare le Virtual Machine**
 ==============================
@@ -61,7 +61,7 @@ Per effettuare lo stop della Virtual Machine seguire i seguenti passaggi:
 **Startare le Virtual Machine**
 ===============================
 
-Per effettuare lo **start**della Virtual Machine seguire i seguenti passaggi:
+Per effettuare lo **start** della Virtual Machine seguire i seguenti passaggi:
 
     1. Selezionare la VM dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
 
