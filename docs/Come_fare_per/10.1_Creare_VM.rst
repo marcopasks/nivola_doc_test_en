@@ -36,14 +36,14 @@ Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**.
 
 .. image:: img/Network_Security_VM.png
 
-7. Nel caso servissero, assegnare dei tag alla virtual machine scrivendo la stringa seguito da invio.
-Nel caso fosse necessario, è possibile cancellare quanto precedentemente inserito utilizzando la **"X"**
+7. Qualora servisse, assegnare dei tag alla virtual machine scrivendo la stringa seguito da invio.
+Nel caso, è possibile cancellare quanto precedentemente inserito utilizzando la **"X"**
 a fianco dei tags. Al termine, premere **VAI A CHIAVI SSH**.
 
 .. image:: img/Tags_VM.png
 
 8. In questa fase è obbligatorio creare una **CHIAVE SSH** da assegnare alla virtual machine
-E' le possibilità sono 3.
+le possibilità sono 3.
 
 **SCEGLIENDO UNA DELLE CHIAVI DALLA LISTA**
 Il sistema propone la lista delle **chiavi ssh** presenti, da queste,
@@ -62,7 +62,7 @@ premere **CREA CHIAVE** dopo di che selezionarla dalla lista e premere **VAI A R
 
 .. image:: img/key-ssh-selezionata-da-lista.png
 
-**CREANDO CHIAVE SSH IMPORTANDOLA**
+**IMPORTANDO LA CHIAVE SSH**
 
 Premere il tasto
 
