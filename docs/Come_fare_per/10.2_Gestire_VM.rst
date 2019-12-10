@@ -9,7 +9,7 @@ a destra della funzione, apparirà  **VM** e a seguito di un clic il sistema pop
 parte destra del video con l'**Elenco delle VM**.
 
 Per **gestione delle VM** si intendono tutte le operazioni che consentono l'uso
-della macchina in precedenza creata :ref:`10.1_Creare_VM`.
+della macchina in precedenza creata :ref:`_Creare_VM`.
 Appartengono a questo gruppo di operazioni:
 
     1. **Cercare VM** [CercareVM]_.
