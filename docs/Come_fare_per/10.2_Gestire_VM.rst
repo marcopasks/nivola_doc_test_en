@@ -19,7 +19,7 @@ Appartengono a questo gruppo di operazioni:
 
 
 
-.. [1]_:
+.. [1]
 
 **Cercare le Virtual Machine**
 ==============================
