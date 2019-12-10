@@ -13,9 +13,9 @@ della macchina in precedenza creata :ref:`vedi creazione VM <Creare_VM>`.
 Appartengono a questo gruppo di operazioni:
 
     1. **Cercare VM** [1]_.
-    2. **Stoppare VM**.
-    3. **Accendere VM**.
-    4. **Cancellare VM**.
+    2. **Stoppare VM** [2]_
+    3. **Accendere VM** [3]_.
+    4. **Cancellare VM** [4]_.
 
 
 
@@ -38,7 +38,7 @@ le caratteristiche dei server. Per eseguire una ricerca è necessario procedere 
       .. image:: img/Elenco_VM.png
 
 
-.. _Stoppare_VM:
+.. [2]
 **Stoppare le Virtual Machine**
 ===============================
 Per effettuare lo stop della Virtual Machine seguire i seguenti passaggi:
@@ -56,7 +56,7 @@ Per effettuare lo stop della Virtual Machine seguire i seguenti passaggi:
       .. image:: img/VM_stop.png
 
 
-.. _Startare_VM:
+.. [3]
 
 **Startare le Virtual Machine**
 ===============================
@@ -79,7 +79,7 @@ Per effettuare lo **start**della Virtual Machine seguire i seguenti passaggi:
 
 
 
-.. _Cancellare_VM:
+.. [4]
 **Cancellare le Virtual Machine**
 =================================
 
