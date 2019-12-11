@@ -2,15 +2,19 @@
 
 **Creare Virtual Machine (VM)**
 *******************************
-La funzione rientra nel **servizio compute**. La **creazione Vm** è attivabile dalla parte sinistra dello schermo, cliccando sulla freccia
-a destra della funzione, apparirà  **VM** e a seguito di un clic il sistema popolerà la
-parte destra del video con l'**Elenco delle VM**. Dopo che il sistema mostrerà le Vm
+La funzione rientra nel **servizio compute**. La **creazione Vm** è attivabile dalla parte
+sinistra dello schermo, cliccando sulla label **VM** sotto **Compute**
+
+.. image:: img/VM_innesco_crea.png
+
+A seguito di un clic su **VM** il sistema popolerà la
+parte destra del video con l'**Elenco delle VM**.
 
 .. image:: img/Elenco_VM.png
 
-procedere come segue:
+Per la creazione di un server, procedere come segue:
 
-1. Fare clic sul pulsante:
+1. Fare clic sul pulsante **"+""**:
 
 .. image:: img/Add_VM.png
 
@@ -26,19 +30,21 @@ dal portale e di seguito cliccare il pulsante **VAI A DISCO**
 
 .. image:: img/Risorse_VM.png
 
-5. Indicare Dimensione del disco e nel caso servisse usare il pulsante, **AGGIUNGI DISCO AGGIUNTIVO** per aggiungere
-un disco alla VM e proseguire cliccando su **VAI A NETWORK E SECURITY**
+5. Indicare dimensione del disco ed è possibile aggiungere altri dischi,
+sfruttando il pulsante **AGGIUNGI DISCO AGGIUNTIVO**. Al termine,
+proseguire cliccando su **VAI A NETWORK E SECURITY**
 
 .. image:: img/Disco_VM.png
 
-6. Sfruttando i menù a tendina posti a fianco delle informazioni inserire: **Region, Availability Zone,
+6. Sfruttando le combo box inserire: **Region, Availability Zone,
 Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**.
 
 .. image:: img/Network_Security_VM.png
 
-7. Qualora servisse, assegnare dei tag alla virtual machine scrivendo la stringa seguito da invio.
-Nel caso, è possibile cancellare quanto precedentemente inserito utilizzando la **"X"**
-a fianco dei tags. Al termine, premere **VAI A CHIAVI SSH**.
+7. Qualora servisse, assegnare dei tag alla virtual machine,
+scrivendo la stringa premendo invio.
+E' possibile cancellare quanto inserito in precedenza utilizzando la **"X"**
+a fianco dei tags. Alla fine, premere **VAI A CHIAVI SSH**.
 
 .. image:: img/Tags_VM.png
 
@@ -46,8 +52,8 @@ a fianco dei tags. Al termine, premere **VAI A CHIAVI SSH**.
 le possibilità sono 3.
 
 **SCEGLIENDO UNA DELLE CHIAVI DALLA LISTA**
-Il sistema propone la lista delle **chiavi ssh** presenti, da queste,
-sceglierne una e premere **VAI A RIPEILOGO**
+Il sistema propone le **chiavi ssh** da scegliere. Indicare
+l'opzione sfruttando la checkbox e premere **VAI A RIPEILOGO**
 
 .. image:: img/key-ssh-selezionata-da-lista.png
 
@@ -57,8 +63,8 @@ Premere tasto **"+"**
 
 .. image:: img/Add_VM.png
 
-**Inserire nome della nuova chiave** attendere la creazione, selezionarla
-premere **CREA CHIAVE** dopo di che selezionarla dalla lista e premere **VAI A RIPEILOGO**
+**Inserire nome della nuova chiave** attendere la creazione, selezionarla e
+premere **CREA CHIAVE** dopo di che distinguerla dalla lista e premere **VAI A RIPEILOGO**
 
 .. image:: img/key-ssh-selezionata-da-lista.png
 
@@ -68,22 +74,25 @@ Premere il tasto
 
 .. image:: img/Crea-ssh-da-lista.png
 
-**Inserire il nome chiave**, immettere la chiave precedentemente generata nel campo **Inserire la chiave**
+**Inserire il nome chiave**, immettere la chiave precedentemente generata
+nel campo di testo  **Inserire la chiave** e
 premere **IMPORTA**
 
 .. image:: img/Importa-key-ssh.png
 
-Attendere la creazione, selezionarla lista e premere **VAI A RIPEILOGO**
+Attendere la creazione, selezionarla dalla lista e premere **VAI A RIPEILOGO**
 
 .. image:: img/key-ssh-selezionata-da-lista.png
 
-9. Controllare le opzioni inserite ed esposte dal sistema e premere **CONFERMA E CREA LA VIRTUAL MACHINE**
-per procedere alla creazione della VM.
+9. Controllare le opzioni effettuate ed esposte dal sistema
+e avvallarle premendo sul pulsante **CONFERMA E CREA LA VIRTUAL MACHINE**.
+Il portale procederà alla creazione della **VM**.
 
 .. image:: img/Riepilogo_VM.png
 
-10. Attendere qualche secondo e il server creato comparirà nell’**ELENCO VM**.
-Lo stato iniziale della VM sarà **acceso** e pronta all’utilizzo.
+10. Attendere qualche secondo e il server creato, comparirà nell’**ELENCO VM**.
+Lo stato iniziale della Virtual Machine sarà **acceso** e
+quindi pronta all’utilizzo.
 
 
 

@@ -12,14 +12,14 @@ Per **gestione delle VM** si intendono tutte le operazioni che consentono l'uso
 della macchina in precedenza creata :ref:`_Creare_VM`.
 Appartengono a questo gruppo di operazioni:
 
-    1. **Cercare VM** [CercareVM]_.
+    1. **Cercare VM** [1]_.
     2. **Stoppare VM** [2]_
     3. **Accendere VM** [3]_.
     4. **Cancellare VM** [4]_.
 
 
 
-.. [CercareVM]
+.. [1]
 
 **Cercare le Virtual Machine**
 ==============================
