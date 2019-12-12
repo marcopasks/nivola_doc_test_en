@@ -95,4 +95,4 @@ Lo stato iniziale della Virtual Machine sarà **acceso** e
 quindi pronta all’utilizzo.
 
 
-
+.. image:: img/VM-Lista-ready.png

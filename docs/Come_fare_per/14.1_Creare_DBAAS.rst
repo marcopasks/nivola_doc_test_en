@@ -1,13 +1,32 @@
-.. _lg_widget:
+.. _Creare_DBAAS:
 
-**Utilizzare i Widget**
-***********************
+**Creare DBAAS**
+*****************
+
+La funzione rientra nel **database**. La **creazione DBAAS** è attivabile dalla parte
+sinistra dello schermo, cliccando sulla label **Istanze DBAAS**
+sotto **Database**
+
+.. image:: img/DBAAS_innesco.png
+
+A seguito di un clic su **Istanze DBAAS** il sistema popolerà la
+parte destra del video con l'**Elenco Dbaas**.
+
+.. image:: img/DBAAS_Elenco.png
+
+Per la creazione di un istanza DBAAS, procedere come segue:
+
+1. Fare clic sul pulsante **"+""**:
+
+.. image:: img/Add_VM.png
+
+2. Inserire il **Nome Istanza**
 
 
-Yucca si arricchisce di una famiglia di widget che gli sviluppatori potranno utilizzare per rappresentare i dati di interesse.
 
-La pagina https://userportal.smartdatanet.it/reference/#/widget dimostra in modo didattico l'utilizzo dei widget attraverso una dashboard che mostra alcuni dati presenti in Yucca
+3. Scegliere il **TEMPLATE** da cui generare la virtual machine facendo un clic su uno degli OS propposti come pulsanti
+e successivamente sul pulsante **VAI TIPO VM**
 
-Tutti i widget sono altamente personalizzabili, sia nella scelta dei dati da visualizzare che nell'aspetto finale degli stessi.
+.. image:: img/Tipo_VM.png
 
-Per la documentazione specifica si rimanda alla pagina di GitHub https://github.com/csipiemonte/yucca-angular-widgets 
+4.Specificare il type, la CPU, la RAM e il Disco sfruttando il
