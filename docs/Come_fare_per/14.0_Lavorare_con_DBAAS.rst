@@ -8,6 +8,6 @@ affidabilità e ridondanza in funzione delle esigenze del Cliente.
 Sono inclusi i servizi di backup, restore, monitoraggio, aggiornamento e patching.
 Gli engine previsti sono **Mysql** e **Postgres**
 
-.. image:: img/DBAAS_Innesco.png
+.. image:: img/DBAAS_innesco.png
 
 

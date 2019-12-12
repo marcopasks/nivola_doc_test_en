@@ -20,13 +20,48 @@ Per la creazione di un istanza DBAAS, procedere come segue:
 
 .. image:: img/Add_VM.png
 
-2. Inserire il **Nome Istanza**
+2. Inserire **Nome del database** nella casella di testo e indicare a Nivola l'engine
+cliccando una delle opzioni proposte. Al termine premere **"VAI AL TIPO DI ISTANZA"**
+
+.. image:: img/DBAAS_scegli_engine.png
+
+3. Scegliere il la dimensione delle risorse da assegnagnare all'istanza di DBAAS
+mettendo un flag nella *check box* utile e cliccare sul pulsante **VAI A SPAZIO DI ARCHIVIAZIONE**
+
+.. image:: img/DBBAS_scegli_tipo_istanza.png
+
+4.Nella sezione **SPAZIO DI ARCHIVIAZIONE** indicare la **dimensione**, sfruttando i valori presenti
+nella **combo box**
+
+.. image:: img/DBBAS_scegli_dimensione.png
+
+5.Nella stessa sezione sfruttando la **combo box**,
+indicare la **tipologia** dello spazio di archviazione
+e premere **"VAI A DETTAGLI DBAAS"**
+
+.. image:: img/DBBAS_scegli_dimensione.png
+
+6. Indicare al sistema la **porta di ascolto** convalidando il valore di default
+o inserendo un valore nella casella di testo e proseguire facendo un clic su **"VAI A INFORMAZIONI"**
+
+.. image:: img/DBBAS_scegli_porta.png
+
+6.Sfruttando le combo box inserire: **Region, Availability Zone,
+Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**.
+
+.. image:: img/DBBAS_vai_tags.png
+
+7. Qualora servisse, assegnare dei tag all'istanza,
+scrivendo la stringa premendo invio.
+E' possibile cancellare quanto inserito in precedenza utilizzando la **"X"**
+a fianco dei tags. Alla fine, premere **VAI A RIEPILOGO**.
+
+.. image:: img/DBAAS_vai_tags.png
+
+.8 Nel **riepilogo** dopo aver controllato i parametri inseriti nel processo di creazionoe
+premere **"CONFERMA E CREA L'ISTANZA"** per dar vita all'istanza all'interno del sistema.
+
+.. image:: img/DBAAS_conferma_crea.png
 
 
 
-3. Scegliere il **TEMPLATE** da cui generare la virtual machine facendo un clic su uno degli OS propposti come pulsanti
-e successivamente sul pulsante **VAI TIPO VM**
-
-.. image:: img/Tipo_VM.png
-
-4.Specificare il type, la CPU, la RAM e il Disco sfruttando il

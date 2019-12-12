@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst" afterDir="false" />
     </list>
@@ -16,47 +14,47 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/AccessoPortaleCSI.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/AccessoPortalePA.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Conferma-crea-VM.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Crea-keyssh-ex-novo.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Elenco_VM.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_innesco_crea.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_info_finali.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_dimensione.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_engine.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_tipo_Istanza.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_tipologia.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_Elenco.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -106,6 +104,12 @@
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,9 +195,6 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/AccessoPortaleAzienda.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/AccessoPortaleCSI.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -215,13 +216,37 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_stop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst">
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_Elenco.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_dimensione.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_engine.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_tipo_Istanza.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_tipologia.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_info_finali.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
