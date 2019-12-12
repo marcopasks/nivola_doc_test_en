@@ -59,7 +59,8 @@ a fianco dei tags. Alla fine, premere **VAI A RIEPILOGO**.
 .. image:: img/DBAAS_vai_tags.png
 
 .8 Nel **riepilogo** dopo aver controllato i parametri inseriti nel processo di creazionoe
-premere **"CONFERMA E CREA L'ISTANZA"** per dar vita all'istanza all'interno del sistema.
+premere **"CONFERMA E CREA L'ISTANZA"** per dar vita alla nuova entità
+del sistema.
 
 .. image:: img/DBAAS_conferma_crea.png
 
