@@ -39,7 +39,7 @@ nella **combo box**
 indicare la **tipologia** dello spazio di archviazione
 e premere **"VAI A DETTAGLI DBAAS"**
 
-.. image:: img/DBAAS_scegli_dimensione.png
+.. image:: img/DBAAS_scegli_tipologia.png
 
 6. Indicare al sistema la **porta di ascolto** convalidando il valore di default
 o inserendo un valore nella casella di testo e proseguire facendo un clic su **"VAI A INFORMAZIONI"**
