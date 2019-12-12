@@ -30,12 +30,12 @@ mettendo un flag nella *check box* utile e cliccare sul pulsante **VAI A SPAZIO 
 
 .. image:: img/DBAAS_scegli_tipo_istanza.png
 
-4.Nella sezione **SPAZIO DI ARCHIVIAZIONE** indicare la **dimensione**, sfruttando i valori presenti
+4. Nella sezione **SPAZIO DI ARCHIVIAZIONE** indicare la **dimensione**, sfruttando i valori presenti
 nella **combo box**
 
 .. image:: img/DBAAS_scegli_dimensione.png
 
-5.Nella stessa sezione sfruttando la **combo box**,
+5. Nella stessa sezione sfruttando la **combo box**,
 indicare la **tipologia** dello spazio di archviazione
 e premere **"VAI A DETTAGLI DBAAS"**
 
@@ -58,7 +58,7 @@ a fianco dei tags. Alla fine, premere **VAI A RIEPILOGO**.
 
 .. image:: img/DBAAS_vai_tags.png
 
-.8 Nel **riepilogo** dopo aver controllato i parametri inseriti nel processo di creazionoe
+8. Nel **riepilogo** dopo aver controllato i parametri inseriti nel processo di creazionoe
 premere **"CONFERMA E CREA L'ISTANZA"** per dar vita alla nuova entità
 del sistema.
 
