@@ -60,7 +60,7 @@ Per connettersi all'istanza procedere come segue:
 
       .. image:: img/DBAAS_connetti_link.png
 
-    2. Dopo il clic sull'indirizzo, Nivola, metterà a disposizione dell'operatore il tool
+    3. Dopo il clic sull'indirizzo, Nivola, metterà a disposizione dell'operatore il tool
        per l'amministrazione dell'istanza. Per completare il percorso, sarà necessario indicare **nome utente**
        e **Password**;
 
