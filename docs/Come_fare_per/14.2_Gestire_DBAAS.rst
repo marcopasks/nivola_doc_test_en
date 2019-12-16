@@ -54,11 +54,11 @@ Per connettersi all'istanza procedere come segue:
 
     1. Selezionare l'istanza e premere **pulsante connetti** ;
 
-       .. image:: img/DBAAS_connetti.png
+       .. image:: img/DBAAS_scegli_php.png
 
     2. Attendere che il sistema esponga l'**url** del pannello di controllo;
 
-      .. image:: img/DBAAS_connetti_url.png
+      .. image:: img/DBAAS_connetti_link.png
 
     2. Dopo il clic sull'indirizzo, Nivola, metterà a disposizione dell'operatore il tool
        per l'amministrazione dell'istanza. Per completare il percorso, sarà necessario indicare **nome utente**
