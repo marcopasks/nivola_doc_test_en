@@ -1,9 +1,86 @@
-.. _yucca_light:
+.. _Gestire_DBAAS:
 
-**Utilizzare Yucca-Light**
-**************************
-**Yucca-Light** (Yucca portable gateway) offre le funzionalità di un **gateway** che svolge la funzione di intermediario tra gli smart objects e Yucca Smart Data Platform in modo da assicurare l’invio dei dati anche in presenza di discontinuità nella connessione di rete.
+**Gestire data Base as Service**
+********************************
 
-.. image:: img/Yucca-Light.png
 
-Per la documentazione e la procedura di configurazione visitare il repository ufficiale si GitHub alla pagina https://github.com/csipiemonte/yucca-light/ 
+La gestione del **Data Base as Service** è attivabile da
+servizio **Database** nella parte sinistra dello schermo. Cliccando sulla freccia
+a destra della funzione, apparirà  **Istanze DBAAS** e a seguito di
+un clic su quest'ultima opzione, il sistema popolerà la
+parte destra del video con l'**Elenco DBAAS** e i pulsanti da cui
+attivare le operazioni.
+
+Per **gestione del DBAAS** si intendono tutte le funzioni per l'utilizzo
+dell'istanza DB in precedenza creata :ref:`_Creare_DBAAS`.
+Appartengono a questo gruppo di operazioni:
+
+    1. **Cercare DBAAS** [1]_.
+    2. **Connetti DBAAS** [2]_
+    3. **Cancellare DBAAS** [3]_.
+
+
+
+.. [1]
+
+**Cercare DBAAS**
+=================
+
+All'interno di ciascun Account è possibile fare ricerche su tutte le istanze create
+La ricerca è eseguita tramite una stringa inserita dall’operatore.
+Nivola ricerca il set di caratteri nelle colonne dove sono elencate
+le caratteristiche dei server. Per eseguire una ricerca è necessario procedere come segue:
+
+    1. Inserire stringa di ricerca sotto la label **"Ricerca"** e premere invio;
+
+       .. image:: img/DBAAS_Ricerca_start.png
+
+    2. Attendere che il sistema popoli, con il risultato, la parte destra del video;
+
+      .. image:: img/DBAAS_Ricerca_fatta.png
+
+
+
+.. [2]
+**Connetti DBAAS**
+==================
+
+La funzione è fruibile attraverso il tasto connetti:
+
+.. image:: img/DBAAS_pulsante_connetti.png
+
+
+Per connettersi all'istanza procedere come segue:
+
+    1. Selezionare l'istanza e premere **pulsante connetti** ;
+
+       .. image:: img/DBAAS_connetti.png
+
+    2. Attendere che il sistema esponga l'**url** del pannello di controllo;
+
+      .. image:: img/DBAAS_connetti_url.png
+
+    2. Dopo il clic sull'indirizzo, Nivola, metterà a disposizione dell'operatore il tool
+       per l'amministrazione dell'istanza. Per completare il percorso, sarà necessario indicare **nome utente**
+       e **Password**;
+
+      .. image:: img/DBAAS_connetti_php.png
+
+
+.. [3]
+**Cancellare DBAAS**
+====================
+
+Per **cancellare** un **istanza DBAAS** seguire i seguenti passaggi:
+
+    1. Selezionare l'**istanza del dbaas** VM dall’Elenco dbaas e fare clic sul bottone **cancella**;
+
+       .. image:: img/DBAAS.seleziona_istanza.png
+
+    2. Cliccare su tasto **"Elimina"**;
+
+      .. image:: img/Pulsante_cancella.png
+
+    3. Confermare con il tasto **"SI"** e la VM sarà cancellata;
+
+      .. image:: img/VM_Conferma_cancella.png
