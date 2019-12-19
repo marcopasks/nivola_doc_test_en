@@ -12,10 +12,9 @@ Per **gestione delle VM** si intendono tutte le operazioni che consentono l'uso
 sistemistico del server in precedenza generato :ref:`_Creare_VM`.
 Appartengono a questo gruppo di operazioni:
 
-    1. **Cercare VM** [1]_.
+    1. **Cercare VM** [1]_
     2. **Stoppare VM** [2]_
-    3. **Accendere VM** [3]_.
-    4. **Cancellare VM** [4]_.
+    3. **Accendere VM** [3]_
 
 
 
@@ -76,27 +75,6 @@ Per effettuare lo **start** della Virtual Machine, procedere come segue:
 
       .. image:: img/VM_start.png
 
-
-
-
-
-.. [4]
-**Cancellare le Virtual Machine**
-=================================
-
-Per **cancellare** una Virtual Machine seguire i seguenti passaggi:
-
-    1. Distinguere il server dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
-
-       .. image:: img/Ricerca_VM.png
-
-    2. Cliccare su tasto **"Elimina VM"**;
-
-      .. image:: img/VM_Pannello_controllo.png
-
-    3. Confermare con il pulsante **"SI"** e la VM verrà eliminata;
-
-      .. image:: img/VM_Conferma_cancella.png
 
 
 

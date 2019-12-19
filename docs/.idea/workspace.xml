@@ -6,6 +6,14 @@
       <change beforePath="$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/10.5_Importare_chiavi_ssh.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/14.3_Usare_il_proprio_DBAAS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/16.3_Usare_il_proprio_STAAS.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,33 +24,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_Pannello_controllo.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_php.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -51,18 +34,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_pulsante_connetti.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_connetti_php.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_seleziona_istanza.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.3_Cancellare_VM.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
     </leaf>
@@ -74,14 +82,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Come_fare_per/10.4_Creare_chiavi_ssh.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/10.5_Importare_chiavi_ssh.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/10.3_Cancellare_VM.rst" />
       </list>
     </option>
   </component>
@@ -142,6 +155,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21502976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -176,9 +190,6 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.5_Importare_chiavi_ssh.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Add_VM.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -203,14 +214,8 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_innesco_crea.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_stop.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_Elenco.png">
       <provider selected="true" editor-type-id="images" />
@@ -226,9 +231,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_tipologia.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_tipo_istanza.png">
       <provider selected="true" editor-type-id="images" />
@@ -263,22 +265,55 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_pulsante_connetti.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_php.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/Cancellare_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.3_Cancellare_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.5_Importare_chiavi_ssh.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>

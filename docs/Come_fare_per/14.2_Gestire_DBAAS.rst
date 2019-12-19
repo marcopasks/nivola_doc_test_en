@@ -17,7 +17,6 @@ Appartengono a questo gruppo di operazioni:
 
     1. **Cercare DBAAS** [1]_.
     2. **Connetti DBAAS** [2]_
-    3. **Cancellare DBAAS** [3]_.
 
 
 
@@ -65,21 +64,4 @@ Per connettersi all'istanza procedere come segue:
        e **Password**;
 
       .. image:: img/DBAAS_connetti_php.png
-
-
-.. [3]
-**Cancellare DBAAS**
-====================
-
-Per **cancellare** un **istanza DBAAS** seguire i seguenti passaggi:
-
-    1. Selezionare l'**istanza del dbaas** VM dall’Elenco dbaas e fare clic sul bottone **cancella**;
-
-       .. image:: img/DBAAS_seleziona_istanza.png
-
-    2. Cliccare su tasto **"Elimina"**;
-
-      .. image:: img/Pulsante_cancella.png
-
-    3. Confermare con il tasto **"SI"** e l'istanza sarà cancellata;
 

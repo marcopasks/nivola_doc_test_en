@@ -3,64 +3,68 @@
 **Creare DBAAS**
 *****************
 
-La funzione rientra nel **database**. La **creazione DBAAS** è attivabile dalla parte
-sinistra dello schermo, cliccando sulla label **Istanze DBAAS**
-sotto **Database**
+La funzione rientra nel **database**. La **creazione DBAAS** è utilizzabile dalla parte
+sinistra dello schermo, cliccando sulla pulsante **Istanze DBAAS**
+sotto la label **Database**
 
 .. image:: img/DBAAS_innesco.png
 
-A seguito di un clic su **Istanze DBAAS** il sistema popolerà la
+A seguito di un clic su **Istanze DBAAS**, il sistema, popolerà la
 parte destra del video con l'**Elenco Dbaas**.
 
 .. image:: img/DBAAS_Elenco.png
 
-Per la creazione di un istanza DBAAS, procedere come segue:
+Per istanziare un DBAAS, procedere seguendo i passaggi elencati:
 
 1. Fare clic sul pulsante **"+""**:
 
 .. image:: img/Add_VM.png
 
-2. Inserire **Nome del database** nella casella di testo e indicare a Nivola l'engine
-cliccando una delle opzioni proposte. Al termine premere **"VAI AL TIPO DI ISTANZA"**
+2. Inserire **Nome del database** nella textbox, indicare l'engine
+selezionando una delle opzioni proposte dal portale.
+Al termine premere **"VAI AL TIPO DI ISTANZA"**;
 
 .. image:: img/DBAAS_scegli_engine.png
 
-3. Scegliere il la dimensione delle risorse da assegnagnare all'istanza di DBAAS
-mettendo un flag nella *check box* utile e cliccare sul pulsante **VAI A SPAZIO DI ARCHIVIAZIONE**
+3. Scegliere la dimensione delle risorse da assegnagnare all'istanza di DBAAS
+mettendo un flag nella *check box* utile e
+cliccare sul pulsante **VAI A SPAZIO DI ARCHIVIAZIONE**
 
 .. image:: img/DBAAS_scegli_tipo_istanza.png
 
-4. Nella sezione **SPAZIO DI ARCHIVIAZIONE** indicare la **dimensione**, sfruttando i valori presenti
+4. Nella sezione **SPAZIO DI ARCHIVIAZIONE**,
+determinare la **dimensione**, sfruttando i valori presenti
 nella **combo box**
 
 .. image:: img/DBAAS_scegli_dimensione.png
 
-5. Nella stessa sezione sfruttando la **combo box**,
-indicare la **tipologia** dello spazio di archviazione
+5. Nella stessa sezione, sfruttando la **combo box**,
+precisare la **tipologia** dello spazio di archviazione
 e premere **"VAI A DETTAGLI DBAAS"**
 
 .. image:: img/DBAAS_scegli_tipologia.png
 
-6. Indicare al sistema la **porta di ascolto** convalidando il valore di default
-o inserendo un valore nella casella di testo e proseguire facendo un clic su **"VAI A INFORMAZIONI"**
+6. Assegnare al sistema la **porta di ascolto** convalidando il valore di default
+oppure scrivendo un valore nella casella di testo. Proseguire
+facendo un clic su **"VAI A INFORMAZIONI"**
 
 .. image:: img/DBAAS_scegli_porta.png
 
-6.Sfruttando le combo box inserire: **Region, Availability Zone,
+7. Attraverso le combo box, presenti nella pagina, specificare: **Region, Availability Zone,
 Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**.
 
 .. image:: img/DBAAS_vai_tags.png
 
-7. Qualora servisse, assegnare dei tag all'istanza,
-scrivendo la stringa premendo invio.
-E' possibile cancellare quanto inserito in precedenza utilizzando la **"X"**
-a fianco dei tags. Alla fine, premere **VAI A RIEPILOGO**.
+8. Qualora servisse, assegnare dei tag all'istanza,
+scrivendo la stringa seguita da invio.
+Quanto inserito è possibile cancellarlo, utilizzando la **"X"**
+a fianco dei tags. Premere **VAI A RIEPILOGO** per proseguire.
 
 .. image:: img/DBAAS_vai_tags.png
 
-8. Nel **riepilogo** dopo aver controllato i parametri inseriti nel processo di creazionoe
-premere **"CONFERMA E CREA L'ISTANZA"** per dar vita alla nuova entità
-del sistema.
+9. Nel **riepilogo** dopo aver controllato i parametri inseriti
+nel processo di creazione, cliccare su **"CONFERMA E CREA L'ISTANZA"**
+per materializzare la nuova entità.
 
 .. image:: img/DBAAS_conferma_crea.png
 

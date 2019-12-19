@@ -3,6 +3,12 @@
 **Creare un sensore con Arduino Yun**
 *************************************
 
+creazione
+
+cancellazione
+
+
+
 Questo tutorial vuole descrivere la creazione di un sensore con il microcontrollore Arduino YUN. È possibile, a meno che il sensore non sia stato spento, aprire il **client web di demo**.
 
 E' anche possibile monitorare lo stream, in real time, sullo user portal.

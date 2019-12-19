@@ -2,6 +2,7 @@
 
 **Creare un sensore con Arduino Yun**
 *************************************
+E' la gestione del SG.
 
 Questo tutorial vuole descrivere la creazione di un sensore con il microcontrollore Arduino YUN. È possibile, a meno che il sensore non sia stato spento, aprire il **client web di demo**.
 

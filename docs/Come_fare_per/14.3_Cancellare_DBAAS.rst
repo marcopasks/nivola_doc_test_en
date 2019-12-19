@@ -1,0 +1,17 @@
+.. _Cancellare_DBAAS:
+
+**Cancellare Istanza Data Base as Service**
+*******************************************
+
+Per **cancellare** un **istanza DBAAS** seguire i seguenti passaggi:
+
+    1. Selezionare l'**istanza del dbaas** VM dall’Elenco dbaas e fare clic sul bottone **cancella**;
+
+       .. image:: img/DBAAS_seleziona_istanza.png
+
+    2. Cliccare su tasto **"Elimina"**;
+
+      .. image:: img/Pulsante_cancella.png
+
+    3. Confermare con il tasto **"SI"** e l'istanza sarà cancellata;
+
