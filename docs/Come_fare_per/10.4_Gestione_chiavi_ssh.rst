@@ -2,14 +2,14 @@
 
 **CREARE CHIAVI SSH**
 *********************
-La funzione è attivabile da **Reti e Sicurezza** cliccando la voce **Chiavi SSH**
+La funzione è fruibile da **Reti e Sicurezza** cliccando sulla voce **Chiavi SSH**
 
 
 .. image:: img/Menu_ssh.png
 
 
-Per creare le **chiavi ssh** è possibile procedere con 2 metodi distinti
-ma occorre rispettare i seguenti vincoli:
+E' possibile creare **chiavi ssh** attraverso 2 metodi [1]_ [2]_
+ma per entrambi è necessario rispettare questi vincoli:
 
 - Il **nome della chiave ssh** deve essre univoco_ in tutto il sistema.
 
@@ -22,7 +22,7 @@ ma occorre rispettare i seguenti vincoli:
 .. image:: img/Add_VM.png
 
 
-
+.. [1]
 **Creazione direttamente da Nivola**
 ====================================
 
@@ -30,11 +30,13 @@ Premere tasto **"+"**
 
 .. image:: img/Add_VM.png
 
-**Inserire nome della nuova chiave** attendere la creazione, selezionarla
-premere **CREA CHIAVE** e attendere la risposta del sitema.
+**Inserire nome della nuova chiave** e attendere la produzione. Una volta
+ generata, selezionarla, premere **CREA CHIAVE** e attendere la risposta del sistema.
 
 .. image:: img/Crea-keyssh-ex-novo.png
 
+
+.. [2]
 **Creazione attraverso l'import**
 =================================
 
@@ -43,7 +45,8 @@ Premere il tasto **"+"**
 
 .. image:: img/crea-ssh-da-lista.png
 
-**Inserire il nome chiave**, immettere la chiave precedentemente generata nel campo **Inserire la chiave**
+**Inserire il nome chiave**, immettere la chiave precedentemente
+generata nel campo **Inserire la chiave**
 premere **IMPORTA**.
 
 .. image:: img/Importa-key-ssh.png
@@ -60,4 +63,4 @@ Il sistema chiederà conferma dell'operazione:
 
 .. image:: img/keyssh-conferma-cancellazione.png
 
-Dopo la conferma, cliccare su **"SI"** e la chiave verrà cancellata, scomparendo dall'elenco.
+Confermare, cliccare su **"SI"** e la chiave verrà eliminata, scomparendo dall'elenco.

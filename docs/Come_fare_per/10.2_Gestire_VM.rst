@@ -3,13 +3,13 @@
 **Gestire Virtual Machine**
 ***************************
 
-
-La gestione delle **Virtual Machine** è attivabile da **servizio compute** nella parte sinistra dello schermo, cliccando sulla freccia
-a destra della funzione, apparirà  **VM** e a seguito di un clic il sistema popolerà la
-parte destra del video con l'**Elenco delle VM**.
+La gestione delle **Virtual Machine** è attivabile dalla voce **servizio compute** posta,
+nella parte sinistra dello schermo. Cliccando sulla freccia
+a destra della voce, apparirà  **VM** e a seguito di un clic il sistema popolerà la
+parte centrale del video con l'**Elenco delle VM**.
 
 Per **gestione delle VM** si intendono tutte le operazioni che consentono l'uso
-della macchina in precedenza creata :ref:`_Creare_VM`.
+sistemistico del server in precedenza generato :ref:`_Creare_VM`.
 Appartengono a questo gruppo di operazioni:
 
     1. **Cercare VM** [1]_.
@@ -24,16 +24,17 @@ Appartengono a questo gruppo di operazioni:
 **Cercare le Virtual Machine**
 ==============================
 
-All'interno di ciascun Account è possibile fare ricerche su tutte le istanze create
+All'interno di ciascun Account è possibile fare ricerche su tutte le istanze create.
 La ricerca è eseguita tramite una stringa inserita dall’operatore.
 Nivola ricerca il set di caratteri nelle colonne dove sono elencate
-le caratteristiche dei server. Per eseguire una ricerca è necessario procedere come segue:
+le caratteristiche dei server.
+Per eseguire una ricerca è necessario procedere come segue:
 
-    1. Inserire stringa di ricerca sotto la label **"Ricerca"** e premere invio;
+    1. Inserire la stringa da usare come chiave di ricerca, sotto la label **"Ricerca"** e premere invio;
 
        .. image:: img/Ricerca_VM.png
 
-    2. Attendere che il sistema popoli, con il risultato, la parte destra del video;
+    2. Attendere che il sistema alimenti, con il risultato, la parte destra del video;
 
       .. image:: img/Elenco_VM.png
 
@@ -41,7 +42,7 @@ le caratteristiche dei server. Per eseguire una ricerca è necessario procedere 
 .. [2]
 **Stoppare le Virtual Machine**
 ===============================
-Per effettuare lo stop della Virtual Machine seguire i seguenti passaggi:
+Per fermare l'attività della Virtual Machine, seguire i seguenti passaggi:
 
     1. Selezionare la VM dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
 
@@ -61,17 +62,17 @@ Per effettuare lo stop della Virtual Machine seguire i seguenti passaggi:
 **Startare le Virtual Machine**
 ===============================
 
-Per effettuare lo **start** della Virtual Machine seguire i seguenti passaggi:
+Per effettuare lo **start** della Virtual Machine, procedere come segue:
 
-    1. Selezionare la VM dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
+    1. Individuare il sever dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
 
        .. image:: img/Ricerca_VM.png
 
-    2. Cliccare su tasto **"Pannello gestione VM"**;
+    2. Premere il pulsante **"Pannello gestione VM"**;
 
       .. image:: img/VM_Pannello_controllo.png
 
-    3. Cliccare su tasto **"START/STOP"** e successivamente su pulsante **"START"** e la VM sarà stoppata;
+    3. Proseguire sfruttanto il tasto **"START/STOP"** e successivamente sul pulsante **"START"**;
 
       .. image:: img/VM_start.png
 
@@ -85,7 +86,7 @@ Per effettuare lo **start** della Virtual Machine seguire i seguenti passaggi:
 
 Per **cancellare** una Virtual Machine seguire i seguenti passaggi:
 
-    1. Selezionare la VM dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
+    1. Distinguere il server dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
 
        .. image:: img/Ricerca_VM.png
 
@@ -93,7 +94,7 @@ Per **cancellare** una Virtual Machine seguire i seguenti passaggi:
 
       .. image:: img/VM_Pannello_controllo.png
 
-    3. Confermare con il tasto **"SI"** e la VM sarà cancellata;
+    3. Confermare con il pulsante **"SI"** e la VM verrà eliminata;
 
       .. image:: img/VM_Conferma_cancella.png
 
