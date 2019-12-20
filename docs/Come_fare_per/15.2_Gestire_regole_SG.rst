@@ -60,7 +60,7 @@ Le regole di un **Security Group** possono essere generate
 attraverso le seguenti operazioni:
 
 
-    1. Selezionare regola e premere pulsante **Modifica Security Group**;
+    1. Dopo aver individuato il SG, selezionarlo e premere pulsante **Modifica Security Group**;
 
        .. image:: img/Pulsante_modifica.png
 
