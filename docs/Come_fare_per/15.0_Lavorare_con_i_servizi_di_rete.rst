@@ -9,7 +9,7 @@ firewall e relative regole di sicurezza, che garantiscono il controllo degli acc
 effettuati. Il controllo degli accessi e la configurazione delle regole
 a cui devono afferire, sono compito delle funzioni che i servizi di rete
 stabiliscono.
-Per la parte di account, le policy permettono la comunicazione a tutti
+Per la parte di account, le policies permettono la comunicazione a tutti
 i servizi presenti all’interno dello stesso perimetro di rete,
 bloccano gli accessi da e verso altri account e/o reti.
 Gli utenti possono procedere in autonomia per quanto riguarda la creazione di regole
