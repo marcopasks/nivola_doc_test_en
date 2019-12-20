@@ -25,7 +25,7 @@ Per istanziare un Security Group, procedere seguendo i passaggi successivi:
 2. Specificare i parametri necessari al sistema:
 
 •	Inserire **Nome del Security Group** nella textbox, rispettando la regola che non deve contenere spazi e non superare i 10 caratteri;
-•	Scrivere la **Descrizione***;
+•	Scrivere la **Descrizione**;
 •	Optare per un **Template di sicurrezza** selezionandolo tra quelli esposti;
 •	Indicare il **VPC di riferimento** evidenziandolo dalla checkbox;
 

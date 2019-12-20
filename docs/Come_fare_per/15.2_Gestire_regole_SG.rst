@@ -28,7 +28,7 @@ le caratteristiche dei server. Per eseguire una ricerca è necessario procedere 
 
     1. Inserire stringa di ricerca sotto la label **"Ricerca"** e premere invio;
 
-       .. image:: img/SG_Ricerca.png
+       .. image:: img/SG_ricerca.png
 
 .. [2]
 
