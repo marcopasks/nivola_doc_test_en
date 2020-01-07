@@ -18,6 +18,9 @@ rispondono a diverse normative per certificare la corretta adozione rispetto :
 -  **ISO 20000-1**, ovvero tutti i controlli necessari per garantire efficienza ed un miglioramento continuo nell’erogazione dei propri      servizi.
 -  **ISO22301**, ovvero tutti i controlli necessari per avviare un piano con tutti i processi necessari per garantire la continuità          operativa.
 
+Le prime tre certificazione permettono di dimostrare di avere tutti i requisiti imposti dal regolamento GDPR in merito al trattamento dei dati personali e privacy e tutte insieme hanno con
+
+
 
 
 
