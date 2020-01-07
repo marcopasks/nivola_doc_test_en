@@ -15,4 +15,9 @@ rispondono a diverse normative per certificare la corretta adozione rispetto :
    definito ruoli e responsabilità sia del provider che del cliente;
 -  **ISO 27018**, ovvero  gli aspetti legati alla sicurezza informatica per fornire
    tutte le garanzie necessarie 
+-  **ISO 20000-1**, ovvero tutti i controlli necessari per garantire efficienza ed un miglioramento continuo nell’erogazione dei propri      servizi.
+-  **ISO22301**, ovvero tutti i controlli necessari per avviare un piano con tutti i processi necessari per garantire la continuità          operativa.
+
+
+
 
