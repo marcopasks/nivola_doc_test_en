@@ -1,9 +1,3 @@
-**Come muovere primi passi**
-****************************
-Per utilizzare la piattaforma Nivola è necessario procedere seguendo nell'ordine i
-seguenti passaggi.
+.. toctree::
 
-1. Richiedere accreditamento.
-2. Creare la struttura organizzativa fino all'account.
-3. Abilitare il master dell'account.
-4. Istanziare i servizi.
+       yucca-docs/docs/overview_Nivola/index_come_muovere_primi_passi.rst
