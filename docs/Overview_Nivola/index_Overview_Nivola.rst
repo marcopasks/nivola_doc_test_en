@@ -8,6 +8,7 @@
 
    1_Cosa_e_Nivola.rst
    2_Compliance_Normative_GDPR.rst
-   3_Servizi_Disponibili.rst
-   4_Come_stimare_i_costi_del_tuo_Cloud.rst
-   5_Condizioni_Generali_di_Fornitura
+   3_Servizi_Supporto_gestione
+   4_Servizi_Disponibili.rst
+   5_Come_stimare_i_costi_del_tuo_Cloud.rst
+   6_Condizioni_Generali_di_Fornitura
