@@ -43,7 +43,7 @@ Premere tasto **"+"**;
 
 Premere il tasto **"+"**;
 
-.. image:: img/crea-ssh-da-lista.png
+.. image:: img/Crea-ssh-da-lista.png
 
 **Inserire il nome chiave**, digitare la chiave precedentemente
 generata nella casella **Inserire la chiave**
@@ -57,10 +57,10 @@ premere **IMPORTA**.
 
 Selezionare la **chiave ssh** da cancellare e premere il tasto arancione con il simbolo del cestino.
 
-.. image:: img/Creazione_Stream_Dati1.png
+.. image:: img/Keyssh-da-cancellare.png
 
 Il sistema chiederà conferma dell'operazione:
 
-.. image:: img/keyssh-conferma-cancellazione.png
+.. image:: img/Keyssh-conferma-cancellazione.png
 
 Confermare, cliccare su **"SI"** e la chiave verrà eliminata, scomparendo dall'elenco.
