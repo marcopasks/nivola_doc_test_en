@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linee_guida/index_linee_guida.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Linee_guida/index_linee_guida.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="docs" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -22,39 +30,39 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst">
+        <entry file="file://$PROJECT_DIR$/Linee_guida/index_linee_guida.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/SG_ricerca.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
+        <entry file="file://$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst">
+        <entry file="file://$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_Pannello_controllo.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -86,6 +94,10 @@
         <option value="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst" />
+        <option value="$PROJECT_DIR$/Linee_guida/index_linee_guida.rst" />
+        <option value="$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst" />
+        <option value="$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst" />
+        <option value="$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst" />
       </list>
     </option>
   </component>
@@ -111,13 +123,7 @@
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Linee_guida" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,21 +184,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Add_VM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/AccessoPortaleAzienda.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/AccessoPortaleCSI.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/AccessoPortalePA.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Conferma-crea-VM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Crea-keyssh-ex-novo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -252,9 +243,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_php.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
@@ -325,6 +313,24 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linee_guida/index_linee_guida.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
