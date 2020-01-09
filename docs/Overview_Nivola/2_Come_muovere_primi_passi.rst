@@ -6,7 +6,7 @@
 Per inizare a utilizzare la piattaforma **Nivola**
 è necessario procedere seguendo i seguenti passaggi.
 
-    1. **Ricevere le credenziali** [1]_
+    1. **Ricevere Accredito** [1]_
     2. **Completare i Livelli Organizzativi** [2]_
     3. **Attivare Utenti** [3]_
     4. **Verificare Security Group** [4]_
@@ -18,12 +18,12 @@ Per inizare a utilizzare la piattaforma **Nivola**
 
 .. [1]
 
-**Ricevere le credenziali**
-===========================
+**Ricevere Accredito**
+======================
 
 Il primo passo per fruire dei servizi della piattaforma
-è ricevere dal supporto la comunicazione via e-mail della **prima credenziale**. In questo modo l'utente accreditato,
-sarà in grado di modellare la struttura organizzativa e conferire le abilitazioni necessarie per l'implentazione
+è ricevere dal supporto la comunicazione via e-mail della **primo accredito**. In questo modo l'utente accreditato,
+sarà in grado di modellare la struttura organizzativa e conferire le abilitazioni necessarie per l'implementazione
 e gestione dell'infrastruttura che Nivola dovrà contenere.
 
 
@@ -33,9 +33,9 @@ e gestione dell'infrastruttura che Nivola dovrà contenere.
 ======================================
 
 La piattaforma si compone di 3 livelli organizzativi quello deputato ad ospitare i servizi è
-l'**account**.  Nel caso, l'**account** non fosse stato definito dal supporto, sarà vincolante
-individuare una **Divisione** da cui farlo dipendere e nel caso non ci fosse,  crearla. L'**Organizzazione**
-e la **Divisione** dovranno precedere la generazione dell'**account**.
+l'**account**.  Nel caso, l'**account** non fosse stato definito dal supporto, prima di crearlo sarà indispensabile
+individuare o creare una **Divisione** da cui farlo dipendere. La presenza dell'**Organizzazione**
+e della **Divisione** sono la condizione necessaria alla generazione dell'**account**.
 
 
 .. [3]
@@ -43,8 +43,8 @@ e la **Divisione** dovranno precedere la generazione dell'**account**.
 **Attivare Utenti**
 ===================
 
-Successivamente ad aver modellato la struttura organizzativa,
-sarà possibile designare **utenti** associati a **ruoli**
+Successivamente ad aver costituito la struttura organizzativa,
+sarà possibile indicare a **Nivola*** gli **utenti** associati a **ruoli**
 che ad ogni livello, potranno agire sugli oggetti con compiti specifici.
 
 .. [4]
