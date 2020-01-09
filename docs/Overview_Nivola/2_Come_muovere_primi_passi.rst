@@ -13,7 +13,7 @@ Per inizare a utilizzare la piattaforma **Nivola**
     5. **Istanziare Servizi** [5]_
 
 
-.. image:: img/Primi_passi.png
+.. image:: img/Primi_Passi.png
 
 
 .. [1]
