@@ -136,7 +136,7 @@ usati nella piattaforma Nivola.
 |                                      | storage, reti e sicurezza che        |
 |                                      | implementa una particolare funzione  |
 +--------------------------------------+--------------------------------------+
-| Consumer                             | User utilizzatore della piattaforma    |
+| Consumer                             | User utilizzatore della piattaforma  |
 |                                      | Nivola                               |
 +--------------------------------------+--------------------------------------+
 | Provider                             | CSI Piemonte, nella sua veste di     |
