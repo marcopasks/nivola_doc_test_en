@@ -147,7 +147,7 @@ usati nella piattaforma **Nivola**.
 | Region                               | Aggregato di una o più Availability  |
 |                                      | Zone                                 |
 +--------------------------------------+--------------------------------------+
-| Availability Zone                    | Aggregato di uno o più Site. l’AZ è  |
+| Availability Zone (AZ)               | Aggregato di uno o più Site. l’AZ è  |
 |                                      | caratterizzata da una sua completa   |
 |                                      | autonomia infrastrutturale e         |
 |                                      | indipendenza                         |

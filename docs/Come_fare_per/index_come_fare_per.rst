@@ -7,7 +7,7 @@ ad interagire con la piattaforma, attraverso il portale.
 .. toctree::
    :maxdepth: 2
  
-
+   2_Come_muovere_primi_passi.rst
    10.0_Lavorare_con_compute_service.rst
    10.1_Creare_VM.rst
    10.2_Gestire_VM.rst
