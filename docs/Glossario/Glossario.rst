@@ -3,11 +3,11 @@
 Glossario
 ==========
 
-Nella tabella seguente sono riportati i termini e gli acronimi più
-utilizzati nella piattaforma **Nivola**.
+Nella tabella seguente sono riportati i termini e gli acronimi comunemente
+usati nella piattaforma **Nivola**.
 
 +--------------------------------------+--------------------------------------+
-| Acronimo                             | Significato                          |
+| **Acronimo/Termine**                 | **Significato**                      |
 +--------------------------------------+--------------------------------------+
 | Nivola                               | Ci si riferisce al complesso di      |
 |                                      | tutte le componenti della            |
@@ -136,7 +136,7 @@ utilizzati nella piattaforma **Nivola**.
 |                                      | storage, reti e sicurezza che        |
 |                                      | implementa una particolare funzione  |
 +--------------------------------------+--------------------------------------+
-| Consumer                             | User utilizzare della piattaforma    |
+| Consumer                             | User utilizzatore della piattaforma    |
 |                                      | Nivola                               |
 +--------------------------------------+--------------------------------------+
 | Provider                             | CSI Piemonte, nella sua veste di     |
