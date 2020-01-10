@@ -7,7 +7,7 @@ Nella tabella seguente sono riportati i termini e gli acronimi comunemente
 usati nella piattaforma **Nivola**.
 
 +--------------------------------------+--------------------------------------+
-| **Acronimo/Termine**                 | **Significato**                      |
+|             Acronimo/Termine         |            Significato               |
 +--------------------------------------+--------------------------------------+
 | Nivola                               | Ci si riferisce al complesso di      |
 |                                      | tutte le componenti della            |
