@@ -10,13 +10,13 @@ Glossario
 Nella tabella seguente, raggruppati in ordine alfabetico, si riportano i termini e gli acronimi frequentemente
 utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale familiarità.
 
-    1.1 **A** [1]_
-    1.2 **B** [2]_
-    1.3 **C** [3]_
+    1.1 **A** [A]_
+    1.2 **B** [B]_
+    1.3 **C** [C]_
 
 
 
-.. [1]
+.. [A]
 
 ​1.1 A
 --------------------
@@ -50,7 +50,7 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 -----------------------
 
-.. [2]
+.. [B]
 
 ​1.2​ B
 --------------------
@@ -83,7 +83,7 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 ------------------------------
 
 
-.. [3]
+.. [C]
 
 ​1.3​ C
 ---------------
