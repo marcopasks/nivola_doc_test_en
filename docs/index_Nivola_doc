@@ -1,0 +1,13 @@
+**Indidice Nivola Doc**
+#######################
+
+
+.. toctree::
+   :maxdepth: 2
+
+   10_0_Overview_Piattaforma.rst
+   20.0_Linee_guida.rst
+   30.0_Service_Portal.rst
+   40.0_Come_fare_per.rst
+   50.0_Altre_INFO_necessarier_per_GDPR_e_27001.rst
+   60.0_Glossario.rst

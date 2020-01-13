@@ -194,7 +194,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 ​
 ​1.4​ D
---------------------
+
+-------
 
 +--------------------------------------+--------------------------------------+
 |            Acronimo/Termine          |            Significato               |
@@ -323,7 +324,6 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 -------------------------
 
 .. [L]
-
 
 
 ​1.12 L
@@ -505,6 +505,17 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 |            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
+| Tagli                                | Definiscono le dimensioni            |
+|                                      | massime complessive delle risorse    |
+|                                      | della Virtual Machine.               |
++--------------------------------------+--------------------------------------+
+| Tags                                 | Attraverso i TAGS la piattaforma     |
+|                                      | mette a disposizione                 |
+|                                      | la possibilità di etichettare le     |
+|                                      | proprie risorse in modo da facilitare|
+|                                      | di individuarle e ricercarle con     |
+|                                      | chiavi personalizzabili.             |
++--------------------------------------+--------------------------------------+
 | Template                             | Sono le tipologie e le versioni del  |
 |                                      | OS utilizzati per la creazione della |
 |                                      | Virtual Machine.                     |
@@ -545,7 +556,7 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | all’account Nivola, logicamente      |
 |                                      | isolata dalle altre reti di Nivola.  |
 |                                      | L’istanza è utilizzabie all’interno  |
-|                                      | del proprio Vpc.Il Vpc è             |
+|                                      | del proprio Vpc. Il Vpc è            |
 |                                      | configurabile modificando il range   |
 |                                      | degli indirizzi IP. Possibile creare |
 |                                      | sottoreti, indicando route tables,   |
