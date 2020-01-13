@@ -1,77 +1,55 @@
-.. _Glossario:
+.. _howto-glossario:
 
 Glossario
-==========
+==============
 
-Nella tabella seguente sono riportati i termini e gli acronimi comunemente
-usati nella piattaforma **Nivola**.
+​1​ Termini ed acronimi
+===========================
+
+
+Nella tabella seguente, raggruppati in ordine alfabetico, si riportano i termini e gli acronimi frequentemente
+utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale familiarità.
+
+
+
+​1.1 A
+--------------------
 
 +--------------------------------------+--------------------------------------+
-|Acronimo Termine                      |Significato                           |
+|            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
-| Nivola                               | Ci si riferisce al complesso di      |
-|                                      | tutte le componenti della            |
-|                                      | piattaforma: Service Portal, CMP,    |
-|                                      | back-end .                           |
-|                                      |                                      |
+| ACCOUNT                              | Contenitore di istanze di servizio   |
 +--------------------------------------+--------------------------------------+
-| Service Portal                       | È il portale di servizio a cui       |
-|                                      | consumer e provider accedono per il  |
-|                                      | governo dei servizi esposti da       |
-|                                      | Nivola. L’interfaccia è in grado     |
-|                                      | cooperare con le API di business     |
-|                                      | esposte dalla CMP.                   |
-|                                      |                                      |
-|                                      | Il Service Portal espone inoltre     |
-|                                      | funzioni proprie come l’accesso alla |
-|                                      | documentazione, ai video tutorial,   |
-|                                      | alla chat e al Servizio di           |
-|                                      | assistenza tramite il Team di        |
-|                                      | Supporto Nivola per supportare       |
-|                                      | l’utente in caso di problemi,        |
-|                                      | malfunzionamenti o semplici          |
-|                                      | how-to-use.                          |
-|                                      |                                      |
+| API                                  | Application Programming              |
+|                                      | Interface (in italiano traducibile   |
+|                                      | come Interfaccia di programmazione   |
+|                                      | di un'applicazione), le API sono     |
+|                                      | strumenti di programmazione messi a  |
+|                                      | disposizione degli sviluppatori per  |
+|                                      | facilitare il loro compito nella     |
+|                                      | realizzazione di applicazioni        |
+|                                      | integrate.                           |
 +--------------------------------------+--------------------------------------+
-| Compute Services                     | Categoria di servizi che permette di |
-|                                      | fruire di  risorse elaborative       |
-|                                      | (espresse in CPU, RAM e spazio       |
-|                                      | disco) in differenti flavour e       |
-|                                      | template, corredate da servizi di    |
-|                                      | networking e security.               |
 |                                      |                                      |
-|                                      | Sulla base del perimetro delle       |
-|                                      | risorse presenti, gli utilizzatori   |
-|                                      | saranno in grado di realizzare i     |
-|                                      | propri tenant, istanziare le         |
-|                                      | macchine virtuali selezionandole da  |
-|                                      | un ampio catalogo di template e di   |
-|                                      | gestirle in modo autonomo e          |
-|                                      | integrato con gli altri servizi      |
-|                                      | disponibili.                         |
-|                                      |                                      |
+| APP Engine                           | Template preconfigurato composto da  |
+|                                      | risorse elaborative, database,       |
+|                                      | storage, reti e sicurezza che        |
+|                                      | implementa una particolare funzione  |
 +--------------------------------------+--------------------------------------+
-| DBaaS                                | “Data Base as a Service” sono        |
-|                                      | servizi gestiti  costituiti da       |
-|                                      | ambienti virtuali dedicati  in       |
-|                                      | differenti configurazioni e          |
-|                                      | tecnologie, con differenti livelli   |
-|                                      | di affidabilità e ridondanza in      |
-|                                      | funzione delle esigenze del Cliente. |
-|                                      | Sono inclusi i servizi di backup,    |
-|                                      | restore, monitoraggio, aggiornamento |
-|                                      | e patching.                          |
+| Availability Zone (AZ)               | Aggregato di uno o più Site. l’AZ è  |
+|                                      | caratterizzata da una sua completa   |
+|                                      | autonomia infrastrutturale e         |
+|                                      | indipendenza                         |
 +--------------------------------------+--------------------------------------+
-| STaaS                                | Il servizio prevede la fornitura di  |
-|                                      | spazio disco prestazionale           |
-|                                      | raggiungibile via rete con           |
-|                                      | protocolli NFS e CIFS esclusivamente |
-|                                      | dalle macchine virtuali Nivola  La   |
-|                                      | messa a disposizione dei servizi di  |
-|                                      | storage avviene su infrastrutture    |
-|                                      | ridondate e configurate in alta      |
-|                                      | affidabilità.                        |
-|                                      |                                      |
+
+-----------------------
+
+
+​1.2​ B
+--------------------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
 | BCKaaS                               | Il servizio di backup as a service è |
 |                                      | un’opzione attivabile dall’utente    |
@@ -94,32 +72,23 @@ usati nella piattaforma **Nivola**.
 |                                      | dati e servizi .                     |
 |                                      |                                      |
 +--------------------------------------+--------------------------------------+
-| CMP                                  | Cloud Management Platform -          |
-|                                      | piattaforma di integrazione ed       |
-|                                      | automazione che espone tutti i       |
-|                                      | servizi di business attraverso API   |
-|                                      | (Application programming Interface)  |
-|                                      | richiamabili dall’utente o           |
-|                                      | attraverso l’uso del Service Portal. |
-|                                      | Include i servizi di accounting,     |
-|                                      | profilazione, security.              |
-|                                      |                                      |
+
+------------------------------
+
+
+
+​1.3​ C
+---------------
+
+
 +--------------------------------------+--------------------------------------+
-| API                                  | Application Programming              |
-|                                      | Interface (in italiano traducibile   |
-|                                      | come Interfaccia di programmazione   |
-|                                      | di un'applicazione), le API sono     |
-|                                      | strumenti di programmazione messi a  |
-|                                      | disposizione degli sviluppatori per  |
-|                                      | facilitare il loro compito nella     |
-|                                      | realizzazione di applicazioni        |
-|                                      | integrate.                           |
-|                                      |                                      |
+|            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
-| NSC                                  | Nivola Support Center - Single Point |
-|                                      | of Contact per tutti i servizi cloud |
-|                                      | (Nivola, NMSF, POSC)                 |
-|                                      |                                      |
+| Capability                           | Attributo essenziale dell'account per|
+|                                      | istanziare i servizi. E' assegnato   |
+|                                      | all'account in fase di creazione.    |
+|                                      | A fronte di un account è possibile   |
+|                                      | avere più capabilities.              |
 +--------------------------------------+--------------------------------------+
 | CLI                                  | Command Line Interface - nel         |
 |                                      | progetto Nivola trattasi di command  |
@@ -131,37 +100,400 @@ usati nella piattaforma **Nivola**.
 |                                      | profilazione.                        |
 |                                      |                                      |
 +--------------------------------------+--------------------------------------+
-| APP Engine                           | Template preconfigurato composto da  |
-|                                      | risorse elaborative, database,       |
-|                                      | storage, reti e sicurezza che        |
-|                                      | implementa una particolare funzione  |
+| CMP                                  | Cloud Management Platform -          |
+|                                      | piattaforma di integrazione ed       |
+|                                      | automazione che espone tutti i       |
+|                                      | servizi di business attraverso API   |
+|                                      | (Application programming Interface)  |
+|                                      | richiamabili dall’utente o           |
+|                                      | attraverso l’uso del Service Portal. |
+|                                      | Include i servizi di accounting,     |
+|                                      | profilazione, security.              |
+|                                      |                                      |
 +--------------------------------------+--------------------------------------+
-| Consumer                             | User utilizzatore della piattaforma  |
+| Compute Services                     | Categoria di servizi che permette di |
+|                                      | fruire di  risorse elaborative       |
+|                                      | (espresse in CPU, RAM e spazio       |
+|                                      | disco) in differenti flavour e       |
+|                                      | template, corredate da servizi di    |
+|                                      | networking e security.               |
+|                                      |                                      |
+|                                      | Sulla base del perimetro delle       |
+|                                      | risorse presenti, gli utilizzatori   |
+|                                      | saranno in grado di realizzare i     |
+|                                      | propri tenant, istanziare le         |
+|                                      | macchine virtuali selezionandole da  |
+|                                      | un ampio catalogo di template e di   |
+|                                      | gestirle in modo autonomo e          |
+|                                      | integrato con gli altri servizi      |
+|                                      | disponibili.                         |
+|                                      |                                      |
++--------------------------------------+--------------------------------------+
+| Consumer                             | User utilizzare della piattaforma    |
 |                                      | Nivola                               |
 +--------------------------------------+--------------------------------------+
-| Provider                             | CSI Piemonte, nella sua veste di     |
-|                                      | Cloud provider                       |
+
+------------------------
+
+
+​1.4​ D
+---------------------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| DBaaS                                | “Data Base as a Service” sono        |
+|                                      | servizi gestiti  costituiti da       |
+|                                      | ambienti virtuali dedicati  in       |
+|                                      | differenti configurazioni e          |
+|                                      | tecnologie, con differenti livelli   |
+|                                      | di affidabilità e ridondanza in      |
+|                                      | funzione delle esigenze del Cliente. |
+|                                      | Sono inclusi i servizi di backup,    |
+|                                      | restore, monitoraggio, aggiornamento |
+|                                      | e patching.                          |
++--------------------------------------+--------------------------------------+
+
+
+
+​1.5​ E
+----------------------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+
+​1.6​ F
+-------------------
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| FLAVOUR                              | Identificano le differenti tipologie |
+|                                      | di VM le cui caratteristiche         |
+|                                      | differiscono per la quantità di      |
+|                                      | risorse CPU, RAM e DISCO. L’utente   |
+|                                      | può scegliere tra diversi flavour in |
+|                                      | base delle proprie esigenze.         |
++--------------------------------------+--------------------------------------+
+
+
+----------------------
+
+
+​1.7​ G
+----------------------
+
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-----------------
+
+
+​1.8​ H
+------------------
+
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-----------------
+
+
+​1.9​ I
+--------------------------
+
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| Immagine                             | Parametro che determina l'OS della VM|
+|                                      | da istanziare eventualmente          |
+|                                      | arricchito del software per          |
+|                                      | l'automazione come p.e. ansible o    |
+|                                      | heat                                 |
++--------------------------------------+--------------------------------------+
+
+-----------------
+
+​1.10​ J
+------------------
+
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-----------------
+
+
+​1.11 K
+--------------
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| KEY                                  | Chiave ssh usata al momento della    |
+|                                      | creazione della VM abilitando la     |
+|                                      | connessione da remoto.               |
++--------------------------------------+--------------------------------------+
+
+
+-------------------------
+
+
+
+​1.12 L
+--------
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-----------------
+
+
+​1.1​3 M
+--------------------
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-------------------------
+
+
+
+​1.14 N
+----------------
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| Nivola                               | Ci si riferisce al complesso di      |
+|                                      | tutte le componenti della            |
+|                                      | piattaforma: Service Portal, CMP,    |
+|                                      | back-end .                           |
+|                                      |                                      |
 +--------------------------------------+--------------------------------------+
 | NMSF                                 | Nuovo Modello Server Farm            |
 +--------------------------------------+--------------------------------------+
-| Region                               | Aggregato di una o più Availability  |
-|                                      | Zone                                 |
+| NSC                                  | Nivola Support Center - Single Point |
+|                                      | of Contact per tutti i servizi cloud |
+|                                      | (Nivola, NMSF, POSC)                 |
+|                                      |                                      |
 +--------------------------------------+--------------------------------------+
-| Availability Zone (AZ)               | Aggregato di uno o più Site. l’AZ è  |
-|                                      | caratterizzata da una sua completa   |
-|                                      | autonomia infrastrutturale e         |
-|                                      | indipendenza                         |
+
+-------------------------
+
+
+
+
+
+​1.1​5 O
+------------------
+
 +--------------------------------------+--------------------------------------+
-| Site                                 | Aggregato di uno o più POD           |
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-------------------------
+
+
+​1.1​6 P
+--------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| Provider                             | CSI Piemonte, nella sua veste di     |
+|                                      | Cloud provider                       |
 +--------------------------------------+--------------------------------------+
 | POD                                  | Point Of Delivery - aggregato di     |
 |                                      | infrastrutture elaborative, storage, |
 |                                      | rete e sicurezza autoconsistenti     |
 +--------------------------------------+--------------------------------------+
+
+-------------------------
+
+
+​1.17​ Q
+----------------
+
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-----------------
+
+
+1.18 R
+--------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| Region                               | Aggregato di una o più Availability  |
+|                                      | Zone                                 |
++--------------------------------------+--------------------------------------+
+
+-------------------------
+
+
+
+1.19 S
+--------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| Site                                 | Aggregato di uno o più POD           |
++--------------------------------------+--------------------------------------+
+| Security Group                       | E' il firewall della istanze di      |
+|                                      | Nivola.                              |
+|                                      | Configurabile dall'utente e in grado |
+|                                      | di controllare il traffico in entrata|
+|                                      | e in uscita da e verso le istanze.   |
++--------------------------------------+--------------------------------------+
+| STaaS                                | Il servizio prevede la fornitura di  |
+|                                      | spazio disco prestazionale           |
+|                                      | raggiungibile via rete con           |
+|                                      | protocolli NFS e CIFS esclusivamente |
+|                                      | dalle macchine virtuali Nivola  La   |
+|                                      | messa a disposizione dei servizi di  |
+|                                      | storage avviene su infrastrutture    |
+|                                      | ridondate e configurate in alta      |
+|                                      | affidabilità.                        |
+|                                      |                                      |
++--------------------------------------+--------------------------------------+
+| SUBNET                               | E’ un range di IP utilizzabile       |
+|                                      | all’interno del VpC. E’ possibile    |
+|                                      | usare delle risorse di Nivola        |
+|                                      | all’interno di una specifica subnet. |
+|                                      | E’ possibile usare una subnet per    |
+|                                      | risorse che devono connettersi ad    |
+|                                      | Internet ed una privata, per risorse |
+|                                      | che invece non hanno necessità di    |
+|                                      | connettersi ad Internet.             |
+|                                      | Per proteggere le risorse di Nivola  |
+|                                      | in ciascuna sottorete, è possibile   |
+|                                      | utilizzare più security groups.      |
++--------------------------------------+--------------------------------------+
+| Service Portal                       | È il portale di servizio a cui       |
+|                                      | consumer e provider accedono per il  |
+|                                      | governo dei servizi esposti da       |
+|                                      | Nivola. L’interfaccia è in grado     |
+|                                      | cooperare con le API di business     |
+|                                      | esposte dalla CMP.                   |
+|                                      |                                      |
+|                                      | Il Service Portal espone inoltre     |
+|                                      | funzioni proprie come l’accesso alla |
+|                                      | documentazione, ai video tutorial,   |
+|                                      | alla chat e al Servizio di           |
+|                                      | assistenza tramite il Team di        |
+|                                      | Supporto Nivola per supportare       |
+|                                      | l’utente in caso di problemi,        |
+|                                      | malfunzionamenti o semplici          |
+|                                      | how-to-use.                          |
+|                                      |                                      |
++--------------------------------------+--------------------------------------+
+
+-------------------------
+
+
+
+1.20 T
+-----------------
+
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| Template                             | Sono le tipologie e le versioni del  |
+|                                      | OS utilizzati per la creazione della |
+|                                      | Virtual Machine.                     |
++--------------------------------------+--------------------------------------+
+
+​
+
+1.21 U
+----------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
 | Utente/User                          | Persona fisica accreditata           |
 |                                      | all’accesso ai servizi Nivola        |
 +--------------------------------------+--------------------------------------+
-| Account                              | Contenitore di istanze di servizio   |
+
+-------------------------
+
+
+
+
+1.22 U
+----------
+
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| VM: Virtual Machine                  | Server in grado di ospitare servizi. |
++--------------------------------------+--------------------------------------+
+| VPC: Virtual Private Cloud           | E' una rete virtuale dedicata        |
+|                                      | all’account Nivola, logicamente      |
+|                                      | isolata dalle altre reti di Nivola.  |
+|                                      | L’istanza è utilizzabie all’interno  |
+|                                      | del proprio Vpc.Il Vpc è             |
+|                                      | configurabile modificando il range   |
+|                                      | degli indirizzi IP. Possibile creare |
+|                                      | sottoreti, indicando route tables,   |
+|                                      | network gateways e security settings.|
 +--------------------------------------+--------------------------------------+
 
---------------
+-------------------------
+
+
+
+1.23 W
+----------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-------------------------
+
+
+
+1.24 X
+----------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-------------------------
+
+
+
+1.25 Y
+----------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-------------------------
+
+
+1.26 Z
+----------
+
++--------------------------------------+--------------------------------------+
+|            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+
+-------------------------
+
+================================
