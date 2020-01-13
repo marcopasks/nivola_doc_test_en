@@ -15,13 +15,64 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
     1.2 [B]_
 -------------
     1.3 [C]_
+-------------
+    1.4 [C]_
+-------------
+    1.5 [D]_
+-------------
+    1.6 [E]_
+-------------
+    1.7 [F]_
+-------------
+    1.8 [G]_
+-------------
+    1.9 [H]_
+-------------
+    1.10 [I]_
+-------------
+    1.11 [J]_
+-------------
+    1.12 [K]_
+-------------
+    1.13 [L]_
+-------------
+    1.14 [M]_
+-------------
+    1.15 [N]_
+-------------
+    1.16 [O]_
+-------------
+    1.17 [P]_
+-------------
+    1.18 [Q]_
+-------------
+    1.19 [R]_
+-------------
+    1.20 [S]_
+-------------
+    1.21 [T]_
+-------------
+    1.22 [U]_
+-------------
+    1.23 [V]_
+-------------
+    1.24 [W]_
+-------------
+    1.25 [X]_
+-------------
+    1.26 [Y]_
+-------------
+    1.27 [Z]_
+-------------
+
+
 
 
 
 .. [A]
 
 ​1.1 A
---------------------
+--------
 
 +--------------------------------------+--------------------------------------+
 |            Acronimo/Termine          |            Significato               |
@@ -53,7 +104,6 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 -----------------------
 
 .. [B]
-
 ​1.2​ B
 --------------------
 
@@ -145,7 +195,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 ------------------------
 
-
+.. [D]
+​
 ​1.4​ D
 ---------------------
 
@@ -166,12 +217,21 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 
 
+-----------
+
+.. [E]
+
 ​1.5​ E
 ----------------------
 
 +--------------------------------------+--------------------------------------+
 |            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
+
+
+-------------
+
+.. [F]
 
 
 ​1.6​ F
@@ -191,6 +251,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 ----------------------
 
 
+.. [G]
+
 ​1.7​ G
 ----------------------
 
@@ -200,6 +262,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 
 -----------------
+
+.. [H]
 
 
 ​1.8​ H
@@ -211,6 +275,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 
 -----------------
+
+.. [I]
 
 
 ​1.9​ I
@@ -229,6 +295,10 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 -----------------
 
+
+.. [J]
+
+
 ​1.10​ J
 ------------------
 
@@ -238,6 +308,9 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 
 -----------------
+
+.. [K]
+
 
 
 ​1.11 K
@@ -253,6 +326,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 -------------------------
 
+.. [L]
+
 
 
 ​1.12 L
@@ -263,6 +338,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 -----------------
 
+.. [M]
+
 
 ​1.1​3 M
 --------------------
@@ -272,6 +349,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 -------------------------
 
+
+.. [N]
 
 
 ​1.14 N
@@ -295,8 +374,7 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 -------------------------
 
-
-
+.. [O]
 
 
 ​1.1​5 O
@@ -307,6 +385,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 
 -------------------------
+
+.. [P]
 
 
 ​1.1​6 P
@@ -326,6 +406,10 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 -------------------------
 
 
+.. [Q]
+
+
+
 ​1.17​ Q
 ----------------
 
@@ -335,6 +419,9 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 
 -----------------
+
+
+.. [R]
 
 
 1.18 R
@@ -350,6 +437,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 -------------------------
 
 
+.. [S]
+
 
 1.19 S
 --------
@@ -359,13 +448,13 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 | Site                                 | Aggregato di uno o più POD           |
 +--------------------------------------+--------------------------------------+
-| Security Group                       | E' il firewall della istanze di      |
+| SG Security Group                    | E' il firewall della istanze di      |
 |                                      | Nivola.                              |
 |                                      | Configurabile dall'utente e in grado |
 |                                      | di controllare il traffico in entrata|
 |                                      | e in uscita da e verso le istanze.   |
 +--------------------------------------+--------------------------------------+
-| STaaS                                | Il servizio prevede la fornitura di  |
+| STAAS                                | Il servizio prevede la fornitura di  |
 |                                      | spazio disco prestazionale           |
 |                                      | raggiungibile via rete con           |
 |                                      | protocolli NFS e CIFS esclusivamente |
@@ -410,6 +499,7 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 -------------------------
 
+.. [T]
 
 
 1.20 T
@@ -424,6 +514,9 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | Virtual Machine.                     |
 +--------------------------------------+--------------------------------------+
 
+----------
+
+.. [U]
 ​
 
 1.21 U
@@ -436,12 +529,14 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | all’accesso ai servizi Nivola        |
 +--------------------------------------+--------------------------------------+
 
--------------------------
+---------------
+
+
+.. [V]
 
 
 
-
-1.22 U
+1.22 V
 ----------
 
 
@@ -461,7 +556,9 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | network gateways e security settings.|
 +--------------------------------------+--------------------------------------+
 
--------------------------
+------------
+
+.. [W]
 
 
 
@@ -472,8 +569,10 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
 
--------------------------
+-------------
 
+
+.. [X]
 
 
 1.24 X
@@ -483,8 +582,10 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
 
--------------------------
+-------------------
 
+
+.. [Y]
 
 
 1.25 Y
@@ -495,6 +596,8 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 
 -------------------------
+
+.. [Z]
 
 
 1.26 Z
