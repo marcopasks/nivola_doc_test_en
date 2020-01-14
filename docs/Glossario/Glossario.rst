@@ -458,8 +458,6 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 |            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
-| Site                                 | Aggregato di uno o più POD           |
-+--------------------------------------+--------------------------------------+
 | SG Security Group                    | E' il firewall della istanze di      |
 |                                      | Nivola.                              |
 |                                      | Configurabile dall'utente per        |
@@ -468,8 +466,28 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | Il SG protegge ogni singola istanza  |
 |                                      | al suo interno. Per far colloquiare  |
 |                                      | istanze del medesimo SG tra loro     |
-|                                      | si deve agire sulle regole           |
+|                                      | si dovrà agire sulle regole          |
 |                                      | di ingresso e di uscita.             |
++--------------------------------------+--------------------------------------+
+| Service Portal                       | È il portale di servizio a cui       |
+|                                      | consumer e provider accedono per il  |
+|                                      | governo dei servizi esposti da       |
+|                                      | Nivola. L’interfaccia è in grado     |
+|                                      | cooperare con le API di business     |
+|                                      | esposte dalla CMP.                   |
+|                                      |                                      |
+|                                      | Il Service Portal espone inoltre     |
+|                                      | funzioni proprie come l’accesso alla |
+|                                      | documentazione, ai video tutorial,   |
+|                                      | alla chat e al Servizio di           |
+|                                      | assistenza tramite il Team di        |
+|                                      | Supporto Nivola per supportare       |
+|                                      | l’utente in caso di problemi,        |
+|                                      | malfunzionamenti o semplici          |
+|                                      | how-to-use.                          |
+|                                      |                                      |
++--------------------------------------+--------------------------------------+
+| Site                                 | Aggregato di uno o più POD           |
 +--------------------------------------+--------------------------------------+
 | STAAS                                | Il servizio prevede la fornitura di  |
 |                                      | spazio disco prestazionale           |
@@ -494,24 +512,6 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | Per proteggere le risorse di Nivola  |
 |                                      | in ciascuna sottorete, è possibile   |
 |                                      | utilizzare più security groups.      |
-+--------------------------------------+--------------------------------------+
-| Service Portal                       | È il portale di servizio a cui       |
-|                                      | consumer e provider accedono per il  |
-|                                      | governo dei servizi esposti da       |
-|                                      | Nivola. L’interfaccia è in grado     |
-|                                      | cooperare con le API di business     |
-|                                      | esposte dalla CMP.                   |
-|                                      |                                      |
-|                                      | Il Service Portal espone inoltre     |
-|                                      | funzioni proprie come l’accesso alla |
-|                                      | documentazione, ai video tutorial,   |
-|                                      | alla chat e al Servizio di           |
-|                                      | assistenza tramite il Team di        |
-|                                      | Supporto Nivola per supportare       |
-|                                      | l’utente in caso di problemi,        |
-|                                      | malfunzionamenti o semplici          |
-|                                      | how-to-use.                          |
-|                                      |                                      |
 +--------------------------------------+--------------------------------------+
 
 -------------------------

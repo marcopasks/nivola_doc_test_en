@@ -14,8 +14,8 @@ Il Security Group dedicato ai **Web Server**, esce su **internet** sfruttando un
 La **rete di backend** è condivisa dal Security group del **DB as Service**
 e da quello degli **Application Server**. In questo modo, l'istanza Dbaas, è
 completamente separata e accessibile unicamente dalla rete di backend.
-A cavallo delle reti invece, possono essere create istanze dello
-**storage as Service**. Nello schema, sono stati disegnati,  share
+A cavallo delle reti invece, possono essere generate istanze dello
+**storage as Service**. Nello schema, sono stati coolocati,  share
 condivisi da macchine create su SG diversi oppure che rientrano nello stesso.
 
 
