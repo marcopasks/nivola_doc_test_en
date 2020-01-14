@@ -6,17 +6,38 @@
 Per inizare a utilizzare la piattaforma **Nivola**
 è necessario procedere seguendo i seguenti passaggi.
 
-    1. **Ricevere Accredito** [1]_
-    2. **Completare i Livelli Organizzativi** [2]_
-    3. **Attivare Utenti** [3]_
-    4. **Verificare Security Group** [4]_
-    5. **Istanziare Servizi** [5]_
+    1. **Richiedere Accredito** [1]_
+    2. **Ricevere Accredito** [2]_
+    3. **Completare i Livelli Organizzativi** [3]_
+    4. **Attivare Utenti** [4]_
+    5. **Verificare Security Group** [5]_
+    6. **Istanziare Servizi** [6]_
 
 
 .. image:: img/Primi_Passi.png
 
 
+
 .. [1]
+
+**Richiedere Accredito**
+======================
+
+Per poter utilizzare i servizi esposti dalla piattaforma Nivola è necessario accreditarsi secondo il seguente processo:
+
+
+    1. Fare  una richiesta formale al Csi-Piemonte tramite i normali canali
+    2. Dopo avere ricevuto l’offerta ufficiale protocollata, è necessario procedere con l’emissione di un ordine verso CSI-Piemonte
+    3. Approvare e impegnare con determina l’importo presente nell’offerta
+    4. Inviare la documentazione tramite PEC all’indirizzo protocollo@cert.csi.it indicando nell’oggetto dell’email: Attivazione Servizi Nivola - numero di protocollo presente sull’offerta - nome dell’ente
+    5. Indicare un referente che sarà contattato dal nostro servizio di assistenza per i dettagli tecnici. Nel caso in cui  la persona da contattare in caso di incident di sicurezza sia diversa da quella indicata in precedenza, occorre specificare un nominativo diverso, in ottemperanza alle norme di ultima introduzione in ambito di Data Breach.
+
+
+.. image:: img/Richiesta_accredito.png
+
+
+
+.. [2]
 
 **Ricevere Accredito**
 ======================
@@ -27,7 +48,8 @@ sarà in grado di modellare la struttura organizzativa e conferire le abilitazio
 e gestione dell'infrastruttura che Nivola dovrà contenere.
 
 
-.. [2]
+
+.. [3]
 
 **Completare i Livelli Organizzativi**
 ======================================
@@ -38,7 +60,7 @@ individuare o creare una **Divisione** da cui farlo dipendere. La presenza dell'
 e della **Divisione** sono la condizione necessaria alla generazione dell'**account**.
 
 
-.. [3]
+.. [4]
 
 **Attivare Utenti**
 ===================
@@ -47,7 +69,7 @@ Successivamente ad aver costituito la struttura organizzativa,
 sarà possibile indicare a **Nivola*** gli **utenti** associati a **ruoli**
 che ad ogni livello, potranno agire sugli oggetti con compiti specifici.
 
-.. [4]
+.. [5]
 
 **Verificare Security Group**
 =============================
@@ -59,7 +81,7 @@ permette di modellare i **firewall** in base alle necessità
 dell'infrastruttura da dispiegare nell'account.
 
 
-.. [5]
+.. [6]
 
 **Istanziare Servizi**
 ======================

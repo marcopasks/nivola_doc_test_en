@@ -200,6 +200,17 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 |            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
+| Divisione                            | E' il secondo livello organizzativo. |
+|                                      | Una organizzazione può avere più     |
+|                                      | divisioni. Ogni Divisione ha         |
+|                                      | ha associato un portafoglio chiamato |
+|                                      | Wallet che ne definisce il limite    |
+|                                      | di spesa. Per un Cliente esterno     |
+|                                      | può coincidere con il valore della   |
+|                                      | determina o con una pòarte di essa.  |
+|                                      | Non può esserci una Divisione senza  |
+|                                      | un Organizzazione da cui dipendere.  |
++--------------------------------------+--------------------------------------+
 | DBaaS                                | “Data Base as a Service” sono        |
 |                                      | servizi gestiti  costituiti da       |
 |                                      | ambienti virtuali dedicati  in       |
@@ -211,7 +222,6 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | restore, monitoraggio, aggiornamento |
 |                                      | e patching.                          |
 +--------------------------------------+--------------------------------------+
-
 
 
 -----------
@@ -378,6 +388,12 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 
 +--------------------------------------+--------------------------------------+
 |            Acronimo/Termine          |            Significato               |
++--------------------------------------+--------------------------------------+
+| Organizzazione                       | E’ gerarchicamente il massimo livello|
+|                                      | organizzativo. Dall'Organizzazione   |
+|                                      | possono dipendere 1 o più Divisioni. |
+|                                      | Ad un organizzazione può coincidere  |
+|                                      | un Ente.                             |
 +--------------------------------------+--------------------------------------+
 
 -------------------------
