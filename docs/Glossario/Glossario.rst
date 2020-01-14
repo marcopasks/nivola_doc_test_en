@@ -462,14 +462,14 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 | SG Security Group                    | E' il firewall della istanze di      |
 |                                      | Nivola.                              |
-|                                      | Configurabile dall'utente e in grado |
-|                                      | di controllare il traffico in entrata|
+|                                      | Configurabile dall'utente per        |
+|                                      | controllare il traffico in entrata   |
 |                                      | e in uscita da e verso le istanze.   |
 |                                      | Il SG protegge ogni singola istanza  |
-|                                      | al suo interno per far colloquiare le|
-|                                      | istanze al suo interno è necessario  |
-|                                      | agire sulle regole di ingresso e     |
-|                                      | uscita.                              |
+|                                      | al suo interno. Per far colloquiare  |
+|                                      | istanze del medesimo SG tra loro     |
+|                                      | si deve agire sulle regole           |
+|                                      | di ingresso e di uscita.             |
 +--------------------------------------+--------------------------------------+
 | STAAS                                | Il servizio prevede la fornitura di  |
 |                                      | spazio disco prestazionale           |
