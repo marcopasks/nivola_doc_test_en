@@ -26,11 +26,16 @@ Per inizare a utilizzare la piattaforma **Nivola**
 Per poter utilizzare i servizi esposti dalla piattaforma Nivola è necessario accreditarsi secondo il seguente processo:
 
 
-    1. Fare  una richiesta formale al Csi-Piemonte tramite i normali canali
-    2. Dopo avere ricevuto l’offerta ufficiale protocollata, è necessario procedere con l’emissione di un ordine verso CSI-Piemonte
-    3. Approvare e impegnare con determina l’importo presente nell’offerta
-    4. Inviare la documentazione tramite PEC all’indirizzo protocollo@cert.csi.it indicando nell’oggetto dell’email: Attivazione Servizi Nivola - numero di protocollo presente sull’offerta - nome dell’ente
-    5. Indicare un referente che sarà contattato dal nostro servizio di assistenza per i dettagli tecnici. Nel caso in cui  la persona da contattare in caso di incident di sicurezza sia diversa da quella indicata in precedenza, occorre specificare un nominativo diverso, in ottemperanza alle norme di ultima introduzione in ambito di Data Breach.
+    1. Fare  una richiesta formale al Csi-Piemonte tramite i canali stabiliti.
+    2. Dopo avere ricevuto l’offerta ufficiale protocollata, procedere
+       con l’emissione di un ordine al CSI-Piemonte.
+    3. Approvare e impegnare con una determina l’importo presente nell’offerta.
+    4. Inviare la documentazione tramite PEC all’indirizzo protocollo@cert.csi.it
+       indicando nell’oggetto dell’email:
+        a) Attivazione Servizi Nivola.
+        b) Numero di protocollo presente sull’offerta.
+        c) Nome dell’Ente.
+    5. Indicare un referente che sarà contattato dal nostro servizio di assistenza per i dettagli tecnici. Nel caso in cui  la persona cui rivolgersi, in caso di incident di sicurezza, sia diversa da quella indicata in precedenza, serve individuare un nominativo diverso, in ottemperanza alle norme di ultima introduzione in ambito di Data Breach.
 
 
 .. image:: img/Richiesta_accredito.png
@@ -43,9 +48,10 @@ Per poter utilizzare i servizi esposti dalla piattaforma Nivola è necessario ac
 ======================
 
 Il primo passo per fruire dei servizi della piattaforma
-è ricevere dal supporto la comunicazione via e-mail della **primo accredito**. In questo modo l'utente accreditato,
-sarà in grado di modellare la struttura organizzativa e conferire le abilitazioni necessarie per l'implementazione
-e gestione dell'infrastruttura che Nivola dovrà contenere.
+è ricevere dal supporto la comunicazione via e-mail del **primo accredito**.
+In questo modo l'utente accreditato,
+sarà in grado di controllare la struttura organizzativa modellata dal Supporto e
+conferire ulteriori abilitazioni.
 
 
 

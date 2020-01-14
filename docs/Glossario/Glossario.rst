@@ -465,6 +465,11 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | Configurabile dall'utente e in grado |
 |                                      | di controllare il traffico in entrata|
 |                                      | e in uscita da e verso le istanze.   |
+|                                      | Il SG protegge ogni singola istanza  |
+|                                      | al suo interno per far colloquiare le|
+|                                      | istanze al suo interno è necessario  |
+|                                      | agire sulle regole di ingresso e     |
+|                                      | uscita.                              |
 +--------------------------------------+--------------------------------------+
 | STAAS                                | Il servizio prevede la fornitura di  |
 |                                      | spazio disco prestazionale           |
