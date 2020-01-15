@@ -4,11 +4,11 @@
 ********************************************************
 La scelta dei 3 livelli rispetta la logica che i Web server
 siano gli unici raggiungibili da Internet
-tramite le opportune protezioni.
+e dotati delle opportune protezioni.
 Mentre gli Application Server sono da porre nella rete di Backend perchè
 devono essere connessi esclusivamente
 a Web Server. Le istanze di Data Base as a Service (DBaaS)
-sono da generate sulla rete di backend, isolate ma
+sono da generate sulla rete di backend, isolate e
 raggiungibili solo dagli Application Server.
 
 Il modello riportato nella figura sottostante, rappresenta un esempio
