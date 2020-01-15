@@ -2,14 +2,14 @@
 
 **Modello architetturale 3 livelli esposto su internet**
 ********************************************************
-La scelta dei 3 livelli rispetta la logica che i Web server
+La scelta dei 3 livelli rispetta la logica che i Web Server
 siano gli unici raggiungibili da Internet
 e dotati delle opportune protezioni.
 Mentre gli Application Server sono da porre nella rete di Backend perchè
 devono essere connessi esclusivamente
-a Web Server. Le istanze di Data Base as a Service (DBaaS)
+dai Web Server. Le istanze di Data Base as a Service (DBaaS)
 sono da generate sulla rete di backend, isolate e
-raggiungibili solo dagli Application Server.
+utilizzabili solo dagli Application Server.
 
 Il modello riportato nella figura sottostante, rappresenta un esempio
 di infrastruttura applicativa, disposta su 3 livelli,
