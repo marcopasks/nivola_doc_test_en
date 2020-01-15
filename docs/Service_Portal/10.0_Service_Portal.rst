@@ -7,7 +7,7 @@ Il **portale** della piattaforma **Nivola** mette a disposizione
 degli user un insieme di funzionalità per la creazione dei servizi, la loro gestione
 e il loro controllo.
 
-.. image:: img/Service_portal.png
+.. image:: img/Service-portal.png
 
 
 
