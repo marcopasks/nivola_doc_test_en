@@ -90,7 +90,7 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | storage, reti e sicurezza che        |
 |                                      | implementa una particolare funzione  |
 +--------------------------------------+--------------------------------------+
-| Availability Zone (AZ)               | Aggregato di uno o più Site. l’AZ è  |
+| Availability Zone (AZ)               | Aggregato di uno o più Site. L’AZ è  |
 |                                      | caratterizzata da una sua completa   |
 |                                      | autonomia infrastrutturale e         |
 |                                      | indipendenza                         |

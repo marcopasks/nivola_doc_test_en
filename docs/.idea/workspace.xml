@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Glossario/Glossario.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Glossario/Glossario.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +18,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Glossario/Glossario.rst">
+        <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -60,8 +58,13 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Glossario/Glossario.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -89,14 +92,14 @@
         <option value="$PROJECT_DIR$/Linee_guida/index_linee_guida.rst" />
         <option value="$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst" />
         <option value="$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst" />
-        <option value="$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
         <option value="$PROJECT_DIR$/index_Nivola_doc" />
         <option value="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" />
-        <option value="$PROJECT_DIR$/Glossario/Glossario.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" />
         <option value="$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst" />
+        <option value="$PROJECT_DIR$/Glossario/Glossario.rst" />
+        <option value="$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst" />
       </list>
     </option>
   </component>
@@ -331,9 +334,6 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -346,9 +346,6 @@
     <entry file="file://$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Glossario/Glossario.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -358,7 +355,13 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Glossario/Glossario.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
