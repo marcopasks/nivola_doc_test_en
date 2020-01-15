@@ -1,0 +1,17 @@
+.. _Service_Portal:
+
+**Service Portal**
+==================
+
+Il **portale** della piattaforma **Nivola** mette a disposizione
+degli user un insieme di funzionalità per la creazione dei servizi, la loro gestione
+e il loro controllo.
+
+
+
+
+
+**Descrizione di alto livello, Spiegare modalità di accesso, servizi disponibili,
+confgiurabilità della dashboard,
+selezione dell'account,
+etc…Ogni citazione di funzionalità va referenziata e linkata.**
