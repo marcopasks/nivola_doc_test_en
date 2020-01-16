@@ -22,11 +22,12 @@ come per esempio la **gestione wallet** per un master della Divisione.
 Sotto la voce **servizi** sono state inserite le funzioni afferenti agli oggetti
 istanziati o che si intendono creare.
 
-I passaggi che normalmente si fanno per l'utilizzo del portale prevedono:
+I passaggi che normalmente si fanno durante l'uso del portale prevedono:
 
-1) Accreditarento.
-2) Scelta del binomio Ruolo e Livello Organizzativo
-3) Utilizzo servizi della piattaforma
+1) Accreditarmento.
+2) Scelta del binomio Ruolo e Livello Organizzativo.
+3) Utilizzo servizi della piattaforma.
+
 
 
 .. image:: img/Service-portal.png
