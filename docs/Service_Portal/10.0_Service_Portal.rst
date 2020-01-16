@@ -3,9 +3,31 @@
 **Service Portal**
 ==================
 
+Per utilizzare al portale è necessario avere una logine ed una password
+valide.
+
+
 Il **portale** della piattaforma **Nivola** mette a disposizione
 degli user un insieme di funzionalità per la creazione dei servizi, la loro gestione
 e il loro controllo.
+La dashboard esposta dal portale è composta da una **parte centrale** dove
+è possibile scegliere il **ruolo**  e il livello
+organizzativo con cui poter operare nella piattaforma. Proseguendo
+nella descrizione, sempre nella parte centrale, il sistema presenta le informazioni
+inerenti all'uso della piattaforma e alle eventuali comunicazioni riguardo
+alle funzioni attive o a nuove soluzioni.
+
+Nella parte sinistra sono state raggruuppate le funzioni utili al ruolo
+come per esempio la **gestione wallet** per un master della Divisione.
+Nei **servizi** sono state inserite le funzioni afferenzi ai **servizi**
+istaziati o che si intendono creare.
+
+I passaggi necessari per l'utilizzo del portale sono:
+
+1) Accreditarento.
+2) Scelta del binomio Ruolo e Livello Organizzativo
+3) Utilizzo servizi della piattaforma
+
 
 .. image:: img/Service-portal.png
 
