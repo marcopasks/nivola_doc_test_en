@@ -56,7 +56,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -319,9 +319,6 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Glossario/Glossario_old.rst" />
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -359,6 +356,9 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
