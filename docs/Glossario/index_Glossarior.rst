@@ -7,7 +7,7 @@ ad interagire con la piattaforma, attraverso il portale.
 .. toctree::
    :maxdepth: 2
  
-   10.0_Glossario.rst
+   Glossario.rst
 
 
    
