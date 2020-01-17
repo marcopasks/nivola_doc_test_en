@@ -35,11 +35,11 @@ La piattaforma espone diversi Servizi, utilizzabili a seconda del ruolo con cui 
 
 1. Compute dove è possibile creare, clonare stoppare, attivare e cancellare le Virtual Machine.
 
-    1. **Creare VM** :doc:`Creare VM </10.1_Creare_VM.rst>`.
-    2. **Gestire VM** :ref:`_Gestire_VM`:.
-    3. **Usare VM** :ref:`vedi Usare le VM <_Usare_VM>`.
-    4. **Creare chiavi ssh** :ref:`vedi creare chiavi ssh <_Creare_chiavi_ssh>`.
-    5. **Importare chiavi ssh** :ref:`vedi importare chiavi ssh <_Importare_chiavi_ssh>`.
+    1. **Creare VM** :doc:`Creare VM </10.1_Creare_VM.rst>`
+    2. **Gestire VM** :ref:`_Gestire_VM`
+    3. **Usare VM** :ref:`vedi Usare le VM <_Usare_VM>`
+    4. **Creare chiavi ssh** :ref:`vedi creare chiavi ssh <_Creare_chiavi_ssh>`
+    5. **Importare chiavi ssh** :ref:`vedi importare chiavi ssh <_Importare_chiavi_ssh>`
 
 
 2. Database: consente di fruire dei servizi di database su differenti
