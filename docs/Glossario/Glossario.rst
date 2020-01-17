@@ -8,7 +8,7 @@ Glossario
 
 
 Nella tabella seguente, raggruppati in ordine alfabetico, si riportano i termini e gli acronimi frequentemente
-utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale familiarità  [[Teologia|Portale]]. 
+utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale familiarità pippo [[Teologia|Portale]]. 
 
     1.1 [A]_
 
