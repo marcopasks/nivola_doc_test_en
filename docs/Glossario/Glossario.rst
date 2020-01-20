@@ -3,8 +3,8 @@
 **Glossario**
 ==============
 
-​1​ Termini ed acronimi
-===========================
+​1​ **Termini ed acronimi**
+
 
 
 Nella tabella seguente, raggruppati in ordine alfabetico, si riportano i termini e gli acronimi frequentemente
