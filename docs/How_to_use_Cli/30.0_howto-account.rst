@@ -1,0 +1,431 @@
+.. _howto-account:
+
+Manage Account from CLI
+=======================
+
+Account is the last level of Nivola business entities hierarchy. Account is necessary for use the
+services of Nivola. From CLI is possible to manage the Account. The life cycle of the account includes
+the following steps.
+
+- Create your account
+- Manage account capabilities
+- Manage account attributes
+- Manage use of users roles
+- Delete account
+
+The steps creation and capabiity assign are mandatory for account use.
+For manage account we assume that you are familiar with **Organization**
+and **Division** topics like as **manage user and roles**.
+
+
+Life Cycle of Account
+---------------------
+
+.. image:: _static/Lifecycle.png
+   :scale: 70 %
+   :alt: Context
+   :align: center
+
+
+Use case of account
+--------------------
+
+
+Create Account
+^^^^^^^^^^^^^^^
+
+
+**Add**:
+
+The command create new account. The command is used to create new account. It is necessary to have a Division and the
+role with privileges who permit to use add command. The way to use the command add is the following
+
+.. code-block:: bash
+
+    $ beehive bu accounts add <name> <division_id> [field=value] [options ...]
+
+      Add account.
+
+      Fields:
+
+        name                 account name
+        division             account parent Division
+        desc                 account description
+        price_list_id        id of the price list [optional]
+        contact              [optional]
+        email                [optional]
+        email_support        [optional]
+        email_support_link   [optional]
+        note                 [optional]
+        managed              if true set account as managed [default=True]
+
+
+      optional arguments:
+        -h, --help            show this help message and exit
+        --debug               toggle debug output
+        --quiet               suppress all output
+        -o {json}             output handler
+        -v, --version         show program's version number and exit
+        -k KEY, --key KEY     Secret key file to use for encryption/decryption
+        --vault VAULT         Ansible vault password to use for inventory decryption
+        -e ENV, --env ENV     Execution environment
+        -E ENVS, --envs ENVS  Comma separated execution environments
+        -f FRMT, --frmt FRMT  response format
+        --color COLOR         response colered. Can be true or false. [default=true]
+        --verbose VERBOSITY   ansible verbosity
+        --cmds                list available commands
+        --notruncate          disable long string truncation
+        --truncate TRUNCATE   set max length of long string
+        --curl                log curl request
+        --fields FIELDS       response fields
+
+
+
+**add example**:
+The example we are going to use for explain how to create new account has like as goal
+an account named **account-demo** child of the Divs-demo and his description will be
+**nuovo account demo**. We are going to use the division id like as parameter
+for conneting the parent division to the new account of Nivola. There are three steps you need to
+perform to add the new account
+
+- To get division id
+- To use add comand for creating the account
+- To use the list command to verify that everything is OK
+
+
+First Step
+
+.. code-block:: bash
+
+    $ beehive bu divs list
+
+       Division list obtained
+
+       id                                    name        organization      accounts  contact    email    postaladdress    status    date
+       ------------------------------------  ----------  --------------  ----------  ---------  -------  ---------------  --------  --------------------
+       afdc2364-ccdb-4ec4-aaf6-967be49cfcd1  Divs-demo   Csi                      5  -          -        -                ACTIVE    2018-08-31T19:32:29Z
+
+
+Step two
+
+.. code-block:: bash
+
+     $ beehive bu accounts add account-demo afdc2364-ccdb-4ec4-aaf6-967be49cfcd1 desc="nuovo account demo"
+
+Step three
+
+Use the list command with the following syntax
+
+.. code-block:: bash
+
+     $ beehive bu accounts list
+
+
+The nivola response after the list command confirming the creation of the account-demo
+
+
+.. code-block:: bash
+
+     $ id                                    name          division    contact    managed      core services    base services    status    date
+      ------------------------------------  ------------  ----------  ---------  ---------    ---------------  ---------------  --------  --------------------
+      930aa960-374a-427b-9a33-a7869251e14e  account-demo  Datacenter  -          True                     0                0     ACTIVE   2019-02-20T08:49:15Z
+
+
+
+
+
+Manage account capabilities
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Capability is an essential attribute of account. Without capability it is not possible create services into
+the account. Capability indicate to Nivola the service's type the user can enable.
+One or more capabilities must be applied to account.
+
+The commands below are used to list, add and verify the account capabilities.
+
+
+**list**:
+
+The command obtain the list of capabilities who are usable into account.
+List show the list of capabilities sorted by id, uuid or name.
+The syntax of the command list is the following
+
+
+.. code-block:: bash
+
+
+    $ beehive bu accounts capabilities list [options ...]
+
+      List all accounts capability.
+
+
+      optional arguments:     are the same described into add account command
+
+
+In the next example you can see that Nivola CLI show the info on usable capabilities inside account.
+The description help you to seek one or more capability usable for the scope
+
+
+.. code-block:: bash
+
+    $ beehive bu capabilities list
+
+       Page: 0
+       Count: 7
+       Total: 7
+       Order: id DESC
+
+       id  uuid                                  name                          desc                                         status      version  params
+     ----  ------------------------------------  ----------------------------  -------------------------------------------  --------  ---------  -------------------------------------------
+        7  a0e6fb6f-fe67-45a2-99ed-a20013800619  StorageService-base           Capability che crea il StorageService        ACTIVE            1  {u'services': [{u'type': u'ComputeServic...
+        6  4b24fbdf-2019-40bb-aba2-5bf172953cxb  AppEngineService-base         Capability che crea il AppEngineService      ACTIVE            1  {u'services': [{u'type': u'ComputeServic...
+        5  3b5fec2c-f0f2-425e-ab9b-5f5775c8de11  DatabaseService-base          Capability che crea il DatabaseService       ACTIVE            1  {u'services': [{u'type': u'ComputeServic...
+        4  548b91d9-5e17-448e-ab9c-203f50792f10  ComputeService-nmsf-internet  Capability che crea il ComputeService e ...  ACTIVE            1  {u'services': [{u'type': u'ComputeServic...
+        3  c63e67fa-6aaa-4541-9aa7-9f52ea1892x6  ComputeService-nmsf-frontend  Capability che crea il ComputeService e ...  ACTIVE            1  {u'services': [{u'type': u'ComputeServic...
+        2  a5a21fa9-d577-42b6-b297-fac9cbd9a41f  ComputeService-nmsf-backend   Capability che crea il ComputeService e ...  ACTIVE            1  {u'services': [{u'type': u'ComputeServic...
+        1  28d4eb2d-69db-4c70-b152-c7569bc12611  ComputeService-base           Capability che crea il ComputeService e ...  ACTIVE            1  {u'services': [{u'type': u'ComputeServic...
+
+
+**add**:
+
+The command is used to assign one or more capability to the account. This step is a mandatory for
+account life, without capability applied to account you cannot create any istances.
+The column "desc" help us to choose the right capability that we need.
+
+
+
+.. code-block:: bash
+
+
+    $ beehive bu accounts capabilities add <account> <capabilities> [options ...]
+
+      Add or refresh capability to accountexit
+
+      Fields:
+
+        account              account uuid or composed name (org.div.account)
+        capabilities         comma separated list of capability name
+
+      optional arguments:     are the same described into add command
+
+
+**list**:
+
+The command is used for check the capability added to the account. The command show the capabilities of the account
+sorted by id, uuid or name.
+
+The way to use the command add is the following
+
+
+.. code-block:: bash
+
+
+    $ beehive bu accounts capabilities list <account> [options ...]
+
+      Get account capabilities by id, uuid or name
+
+      fields:
+        account               account uuid or composed name (org.div.account)
+        page                  list page [default=0]
+        size                  list page size [default=10]
+        field                 list sort field [default=id]
+        order                 list sort order [default=DESC]
+
+
+      optional arguments:     are the same described into add command
+
+Manage account attributes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The commands below are used to modify the account attributes.
+
+**add**:
+
+The command is used to assign one or more capability to the account. This step is a mandatory for
+account life, without capability applied to account you cannot create any istances.
+The way to use the command add is the following
+
+
+.. code-block:: bash
+
+
+    $ beehive bu accounts updates <account> <field=value> [options ...]
+
+      Update account.
+
+      Fields:
+
+        account               account uuid or composed name (org.div.account)
+        name                  account name
+        desc                  account description
+        price_list_id         id of the price list [optional]
+        contact               [optional]
+        email                 [optional]
+        email_support         [optional]
+        email_support_link    [optional]
+        note                  [optional]
+
+      optional arguments:     are the same described into add command
+
+
+
+
+Enable users
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The commands below are used to add, delete and show the account users an their roles.
+Below the steps normally used for the purpose
+
+- To know wich roles and users are usable
+- Assign a role to a user
+- Remove the role assigned
+
+
+**auth roles**:
+
+The command is used to know what roles can you manage into Nivola account
+
+
+.. code-block:: bash
+
+
+    $ beehive bu accounts auth roles <account> [options ...]
+
+      Get account roles
+
+      Fields:
+
+        account               account name or uuid
+
+      optional arguments:     are the same described into add command
+
+
+Below you can see an example how to get information about the roles
+
+.. code-block:: bash
+
+     $ beehive business accounts auth roles 934f270d-9580-4b07-b0e1-01c36b57f03
+
+
+The nivola response after the command showing the usable roles
+
+
+.. code-block:: bash
+
+     $ name      desc
+       --------  -----------------------------------------------------------
+       viewer    Account viewer. Can view everything in the account
+       operator  Account operator. Can manage services in the account
+       master    Account administrator. Can manage everything in the account
+
+
+**auth users**:
+
+The command is used to know what users can be use into account
+
+
+.. code-block:: bash
+
+
+    $ beehive bu accounts auth users <account> [options ...]
+
+      Get account users
+
+      Fields:
+
+        account               account name or uuid
+
+      optional arguments:     are the same described into add command
+
+
+Next example show how to use the command on account
+
+.. code-block:: bash
+
+     $ beehive business accounts auth users 934f270d-9580-4b07-b0e1-01c36b57f032
+
+
+The nivola response after the command showing the usable users
+
+
+.. code-block:: bash
+
+     $ id                                    name              desc                role
+       ------------------------------------  ----------------  ------------------  ------
+       c63f04c9-bde0-4ac3-8479-57a637049cd2  736@domnt.csi.it  Davide Gialli       master
+       01ac26db-a213-4307-8dc9-d7ac45f2e3e3  187@domnt.csi.it  Gaetano Rossi       master
+
+
+
+
+**auth role user-add**:
+
+The command is used for add a role to a user
+
+
+.. code-block:: bash
+
+
+    $ beehive bu accounts auth users-add <account> <role> <user> [options ...]
+
+      Add account role to a user
+
+      Fields:
+
+        account               account name or uuid
+        role                  authorization role
+        user                  authorization user
+
+
+      optional arguments:     are the same described into add command
+
+
+Below you can see an how to apply the add command
+
+
+.. code-block:: bash
+
+    $ beehive business accounts auth users 930aa960-374a-427b-9a33-a7869251e14e
+
+So you have a new user and his role into account
+
+.. code-block:: bash
+
+    $ id                                    name              desc           role
+      ------------------------------------  ----------------  -------------  ------
+      c63f04c9-bde0-4ac3-8479-57a637049cd2  736@domnt.csi.it  Davide Gialli  viewer
+
+
+**auth role user-del**:
+
+The command is used to delete a role from a user
+
+
+.. code-block:: bash
+
+
+    $ beehive bu accounts auth users-del <account> <role> <user> [options ...]
+
+      Remove account role from a user
+
+      Fields:
+
+        account               account name or uuid
+        role                  authorization role
+        user                  authorization user
+
+
+      optional arguments:     are the same described into add command
+
+
+Using the command explained above you can erase the user viewer from account
+
+.. code-block:: bash
+
+    $  beehive business accounts auth users-del 930aa960-374a-427b-9a33-a7869251e14e viewer 736@domnt.csi.it
+
+Using the message below, Nivola, confirm that delete command has achieved the goal
+
+.. code-block:: bash
+
+    $ msg
+      -----
+      True
+

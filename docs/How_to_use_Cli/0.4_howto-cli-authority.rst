@@ -1,0 +1,97 @@
+.. _ssh:
+
+Manage Authority
+=================
+
+This section can be used to manage all the authority entities like Organizations, Divisions, Accounts.
+
+Organization
+-------------
+
+**List, Get**:
+
+.. code-block:: bash
+
+    beehive business orgs list
+    beehive business orgs get csi
+
+**Add, Delete, Refresh**:
+
+.. code-block:: bash
+
+    beehive business orgs add csi private
+    beehive business orgs add RegionePiemonte public
+    beehive business orgs delete csi
+    beehive business orgs refresh csi
+
+**Roles, User management**:
+
+.. code-block:: bash
+
+    beehive business orgs roles csi
+    beehive business orgs users csi
+    beehive business orgs users-add csi Master test1@local
+    beehive business orgs users-del csi Master test1@local
+
+Division
+----------
+
+**List, Get**:
+
+.. code-block:: bash
+
+    beehive business divs list
+    beehive business divs get Portali
+
+**Add, Delete, Refresh**:
+
+.. code-block:: bash
+
+    beehive business divs add Portali csi
+    beehive business divs delete Portali
+    beehive business divs refresh Portali
+
+**Roles, User management**:
+
+.. code-block:: bash
+
+    beehive business divs roles Portali
+    beehive business divs users Portali
+    beehive business divs users-add Portali Master test1@local
+    beehive business divs users-del Portali Master test1@local
+
+Account
+--------
+
+**List, Get**:
+
+.. code-block:: bash
+
+    beehive business accounts list
+    beehive business accounts get Portali
+
+**Add, Delete, Refresh**:
+
+.. code-block:: bash
+
+    beehive business accounts add prd_webfarm Portali template=prod
+    beehive business accounts delete prd_webfarm
+    beehive business accounts refresh prd_webfarm template=prod
+
+**Roles, User management**:
+
+.. code-block:: bash
+
+    beehive business accounts roles prd_webfarm
+    beehive business accounts users prd_webfarm
+    beehive business accounts users-add prd_webfarm Master test1@local
+    beehive business accounts users-del prd_webfarm Master test1@local
+
+Manage services
+
+.. code-block:: bash
+
+    beehive business accounts services prd_webfarm
+    beehive business accounts services prd_webfarm all=true
+    beehive business accounts services prd_webfarm all=true -f tree
+    beehive business accounts services-delete d62af13c-6f3f-44db-a52b-9198beada645
