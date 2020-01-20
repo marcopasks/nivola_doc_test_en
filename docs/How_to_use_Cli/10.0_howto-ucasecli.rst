@@ -7,9 +7,9 @@ You can interact with Nivola using Command LIne Interface. These use cases could
 his Command Line Interface. Each use cases listed there are commands and their examples.
 
 - :ref:`howto-cli`: How to use Command Line.
-- :ref:`howto-cli-authority`: How to manage Command Line Authority.
-- :ref:`howto-cli-services`: How to manage Command Line Services.
-- :ref:`howto-cli-ssh`: How to use ssh.
+- :ref:`howto-cli-authority`: How to manage Authority.
+- :ref:`howto-cli-services`: How to manage Services.
+- :ref:`howto-cli-ssh`: How to use SSH.
 - :ref:`howto-cpaas`: How to manage Compute as Service.
 - :ref:`howto-account`: How to manage Account.
 - :ref:`howto-secgroupcli`: How to manage Security Group.
