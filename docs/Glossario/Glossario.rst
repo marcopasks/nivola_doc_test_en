@@ -1,6 +1,6 @@
 .. _howto-glossario:
 
-Glossario
+**Glossario**
 ==============
 
 ​1​ Termini ed acronimi
