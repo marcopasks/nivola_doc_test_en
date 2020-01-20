@@ -18,8 +18,7 @@ The steps creation and capabiity assign are mandatory for service use.
 Life Cycle of Compute Service
 ------------------------------
 
-.. image:: img/ComputeLifecycle.png
-
+.. image:: img/ComputeLifeCycle.png
 
 Use case of create
 --------------------
