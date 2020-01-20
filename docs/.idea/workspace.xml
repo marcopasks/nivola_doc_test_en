@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="" />
+    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/index_Howtouse_cli.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/index_How_to_use_Cli.rst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/How_to_use_Cli/2.0_howto-cli.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
@@ -28,7 +35,7 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/How_to_use_Cli/4.0_howto-cli-authority.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -55,11 +62,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/How_to_use_Cli/30.0_howto-account.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/How_to_use_Cli/index_Howtouse_cli.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -97,7 +99,6 @@
         <option value="$PROJECT_DIR$/Service_Portal/index_Service_Portal.rst" />
         <option value="$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" />
-        <option value="$PROJECT_DIR$/index_Nivola_doc" />
         <option value="$PROJECT_DIR$/Glossario/Glossario.rst" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/index_Howtouse_cli.rst" />
         <option value="$PROJECT_DIR$/Glossario/index_Glossario.rst" />
@@ -107,6 +108,7 @@
         <option value="$PROJECT_DIR$/How_to_use_Cli/10.0_howto-ucasecli.rst" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/30.0_howto-account.rst" />
+        <option value="$PROJECT_DIR$/index_Nivola_doc" />
       </list>
     </option>
   </component>
@@ -133,23 +135,7 @@
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Glossario" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="How_to_use_Cli" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="How_to_use_Cli" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Service_Portal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
@@ -349,13 +335,10 @@
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/40.0_howto-secgroupcli.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Glossario/Glossario.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/index_Howtouse_cli.rst">
+    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/index_How_to_use_Cli.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Glossario/index_Glossario.rst">
@@ -383,6 +366,9 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/4.0_howto-cli-authority.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
