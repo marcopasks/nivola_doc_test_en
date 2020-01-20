@@ -19,9 +19,6 @@ Life Cycle of Compute Service
 ------------------------------
 
 .. image:: img/ComputeLifecycle.png
-   :scale: 70 %
-   :alt: Context
-   :align: center
 
 
 Use case of create
