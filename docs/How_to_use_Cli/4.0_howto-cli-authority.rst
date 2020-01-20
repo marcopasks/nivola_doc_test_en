@@ -1,4 +1,4 @@
-.. _ssh:
+.. _howto-cli-authority:
 
 Manage Authority
 =================

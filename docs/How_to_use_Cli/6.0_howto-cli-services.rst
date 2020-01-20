@@ -1,4 +1,4 @@
-.. _services:
+.. _howto-cli-services:
 
 Services
 =========

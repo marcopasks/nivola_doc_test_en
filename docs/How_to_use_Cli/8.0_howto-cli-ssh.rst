@@ -1,4 +1,4 @@
-.. _ssh:
+.. _howto-cli-ssh:
 
 Virtual machine management
 ===========================
