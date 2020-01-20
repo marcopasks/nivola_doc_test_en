@@ -1,5 +1,5 @@
-**Come fare per* usare la CLI**
-###############################
+**Come fare per usare la Command Line (CLI)**
+#############################################
 
 In questa sezione si trovano una serie di tutorial per iniziare fin da subito
 ad interagire con la piattaforma, attraverso la Command Line.

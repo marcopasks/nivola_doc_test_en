@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/How_to_use_Cli/index_Howtouse_cli.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/index_Howtouse_cli.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_Nivola_doc" beforeDir="false" afterPath="$PROJECT_DIR$/index_Nivola_doc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +184,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-215" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-215" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.15226555" />
