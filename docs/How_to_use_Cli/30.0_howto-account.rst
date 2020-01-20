@@ -21,7 +21,7 @@ and **Division** topics like as **manage user and roles**.
 Life Cycle of Account
 ---------------------
 
-.. image:: img/LifeCycle.png
+.. image:: img/Lifecycle.png
    :scale: 70 %
    :alt: Context
    :align: center
