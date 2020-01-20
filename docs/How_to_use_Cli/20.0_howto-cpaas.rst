@@ -1,0 +1,305 @@
+.. _howto-cpaas:
+
+Manage Compute Service from CLI
+===============================
+
+It is the main service that you must have in your Account to use all the other following services.
+From CLI is possible to manage the Compute Service. The life cycle of the Compute Service includes
+the following steps.
+
+- Create your Compute Service
+- Get information about object of the Comute Service
+- Update Compute Service
+- Delete Compute Service
+
+The steps creation and capabiity assign are mandatory for service use.
+
+
+Life Cycle of Compute Service
+------------------------------
+
+.. image:: _static/Lifecycle.png
+   :scale: 70 %
+   :alt: Context
+   :align: center
+
+
+Use case of create
+--------------------
+
+
+Create Compute service
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+**Add**:
+
+Using add command you are going to create a Virtual machine and all it needs for applications that you
+will runs above. It is necessary to have an Account and the
+role with privileges who permit to use add command. The way to use the command add is the following:
+
+.. code-block:: bash
+
+    $ beehive bu cpaas vms add name=.. account=.. type=.. subnet=.. image=.. security-group=.. key-name=.. [pwd=..] [main-disk=..] [disks=..] [hypervisor=..] [meta=..] [options ...]
+
+      Add Virtual Machine.
+
+      Fields:
+        name                  vm name
+        account               account id or composed name (org.div.account)
+        type                  vm type
+        subnet                subnet id or name
+        image                 image id or name
+        security-group        security group id or name
+        key-name              ssh key name
+        pwd                   root password [optional]
+        main-disk             optional main disk size configuration. Use <size>:<tag> to set custom disk size and storage tag.
+                              Ex. 5:oracle [optional]
+        disks                 list of additional disk sizes comma separated. Use :<tag> to set custom storage tag.
+                              Ex. 5,10 or 5:oracle,10 [optional]
+        hypervisor            set hypervisor. Can be: openstack or vsphere [default=openstack]
+        meta                  custom metadata [optional]
+
+      optional arguments:
+        -h, --help            show this help message and exit
+        --debug               toggle debug output
+        --quiet               suppress all output
+        -o {json}             output handler
+        -v, --version         show program's version number and exit
+        -k KEY, --key KEY     Secret key file to use for encryption/decryption
+        --vault VAULT         Ansible vault password to use for inventory decryption
+        -e ENV, --env ENV     Execution environment
+        -E ENVS, --envs ENVS  Comma separated execution environments
+        -f FRMT, --frmt FRMT  response format
+        --color COLOR         response colered. Can be true or false. [default=true]
+        --verbose VERBOSITY   ansible verbosity
+        --cmds                list available commands
+        --notruncate          disable long string truncation
+        --truncate TRUNCATE   set max length of long string
+        --curl                log curl request
+        --fields FIELDS       response fields
+
+
+
+**add example**:
+The example we are going to use for explain how to create a Virtual Machine has like as goal
+an VM named **vm-demo** inside account Datacenter.account-demo.
+All variables used in this example are mandatories. There are three steps that you could use to perform
+to create a usable VM:
+
+- To get account id, type, subnet and image
+- To use add comand for creating the VM
+- To use the list command to verify that everything is OK
+
+
+First Step
+
+You are going to remember the Account id using list command
+
+.. code-block:: bash
+
+    $ beehive bu accounts list
+
+       Account list obtained
+
+       id                                    name          division    contact    managed      core services    base services  status    date
+       ------------------------------------  ------------  ----------  ---------  ---------  ---------------  ---------------  --------  --------------------
+       930aa960-374a-427b-9a33-a7869251e14e  account-demo  Datacenter  -          True                     0                0  ACTIVE    2019-02-20T08:49:15Z
+
+List command help you to get from Nivola the Types that you can use within account-demo
+
+.. code-block:: bash
+
+    $  beehive bu cpaas vms types list accounts=account-demo
+
+
+       VM Types list obtained
+
+       id                                    instance_type    desc                        status    active    creation              is_default
+       ------------------------------------  ---------------  --------------------------  --------  --------  --------------------  ------------
+       9bb61461-f6e6-4540-99ea-2de3c0eac140  vm.l8.4xlarge    vcpus:8 ram:56GB disk:80GB  ACTIVE    True      2019-02-19T11:11:01Z  False
+       d509186d-0b9a-45ad-8da4-64aa4a0b5282  vm.l8.3xlarge    vcpus:8 ram:48GB disk:80GB  ACTIVE    True      2019-02-19T11:11:01Z  False
+       76a9b1da-b118-40ad-b0f8-31450b696f33  vm.l8.2xlarge    vcpus:8 ram:40GB disk:80GB  ACTIVE    True      2019-02-19T11:11:00Z  False
+       e040ac12-86f5-41b1-a329-f3c3213b183x  vm.l8.xlarge     vcpus:8 ram:32GB disk:80GB  ACTIVE    True      2019-02-19T11:10:59Z  False
+       7ddd3c4c-0b32-401f-bf3b-e90519ef6a3z  vm.l8.large      vcpus:8 ram:24GB disk:80GB  ACTIVE    True      2019-02-19T11:10:58Z  False
+       8b8c93a2-376d-4a5b-94d0-48cc57003339  vm.m8.3xlarge    vcpus:8 ram:48GB disk:40GB  ACTIVE    True      2019-02-19T11:10:57Z  False
+       860e7430-5244-4179-9e09-d8d8e97fe57g  vm.m8.2xlarge    vcpus:8 ram:40GB disk:40GB  ACTIVE    True      2019-02-19T11:10:57Z  False
+       6affa6af-5c6d-4725-8311-354837a6ed8h  vm.m8.xlarge     vcpus:8 ram:32GB disk:40GB  ACTIVE    True      2019-02-19T11:10:56Z  False
+       d15850cb-6ae7-4569-bdbb-27e8558c56f1  vm.m8.large      vcpus:8 ram:24GB disk:40GB  ACTIVE    True      2019-02-19T11:10:55Z  False
+       526ff3e0-ceb7-4f3c-9c35-ba2274b0f49a  vm.m4.6xlarge    vcpus:4 ram:48GB disk:40GB  ACTIVE    True      2019-02-19T11:10:54Z  False
+
+
+List command help you to get from Nivola the Subnets that you can use within account-demo
+
+.. code-block:: bash
+
+    $  beehive bu cpaas subnets list accounts=account-demo
+
+       Subnets list obtained
+
+       id                                    name                     state      account    availabilityZone    vpc          cidr
+       ------------------------------------  -----------------------  ---------  ---------  ------------------  -----------  ---------------
+       015514b4-9533-4aa3-a449-91a02c45940x  SubnetInternet-torino01  available  gaetest    SiteTorino01        VpcInternet  84.240.190.0/24
+       6f22eb27-3aea-40e2-be6b-af5ad1c4290x  SubnetWEB-vercelli01     available  gaetest    SiteVercelli01      VpcWEB       10.138.200.0/21
+       85d9dc49-285e-426a-9bcb-ef56e90f498j  SubnetWEB-torino02       available  gaetest    SiteTorino02        VpcWEB       10.138.168.0/21
+       8b64ee86-eda4-40d9-a206-e64c3aeba6a9  SubnetWEB-torino01       available  gaetest    SiteTorino01        VpcWEB       10.138.136.0/21
+       09627b89-c342-4072-8f9f-2cf421e5393c  SubnetBE-vercelli01      available  gaetest    SiteVercelli01      VpcBE        10.138.192.0/21
+       76cf51db-70d5-4084-a65e-61c4ab76aa7b  SubnetBE-torino02        available  gaetest    SiteTorino02        VpcBE        10.138.160.0/21
+       2f8d7886-e08a-4512-a825-b7ac6bcfc3c6  SubnetBE-torino01        available  gaetest    SiteTorino01        VpcBE        10.138.128.0/21
+       b07ef60a-4f64-4640-8d23-5a4e7b9d1920  SubnetInternet-torino01  available  clitest    SiteTorino01        VpcInternet  84.240.190.0/24
+       e3cc531c-125f-40a2-8eb8-be3f81505369  SubnetWEB-vercelli01     available  clitest    SiteVercelli01      VpcWEB       10.138.200.0/21
+
+List command help you to get from Nivola the Images that you can use within account-demo
+
+.. code-block:: bash
+
+    $  beehive bu cpaas images list accounts=account-demo
+
+       Images list obtained
+
+       id                                    name          state      type     account         platform
+       ------------------------------------  ------------  ---------  -------  ---------       -------------
+       dd07271b-410e-4162-82ec-572a9904b4b8  Centos7-nmsf  available  machine  test            centos 7.6
+       97ca993d-f2ff-46fb-81b6-0331e21b5575  Ubuntu16      available  machine  gaetest         ubuntu 16
+       36ba1d80-58f4-4f20-97c2-384cc0d73085  OracleLinux7  available  machine  gaetest         OracleLinux 7
+       ab343efb-a2fe-4e94-b293-5b037dbaeb0e  Centos6       available  machine  gaetest         centos 6.9
+       cfe3ffd2-0b1e-4279-b17d-6178a3adba31  Centos7       available  machine  gaetest         centos 7.    5
+       aaa8e2c7-7c73-47c3-9766-2dc2f3844949  Ubuntu16      available  machine  account-demo    ubuntu 16
+       a5164e53-4e28-4f99-9c10-5c893fd9dadf  OracleLinux7  available  machine  account-demo    OracleLinux 7
+       66c4c569-8a22-4de1-ab9e-573e66706733  Centos6       available  machine  account-demo    centos 6.9
+       01fb2a8f-2d14-47c2-aa70-f780b1cf8a8f  Centos7       available  machine  account-demo    centos 7.5
+       38a085d0-491e-43ed-bc4b-04d57f81d4cf  Ubuntu16      available  machine  test            ubuntu 16
+
+At last you have to know the ssh key using the command ssh key list
+
+.. code-block:: bash
+
+    $  beehive ssh keys list
+
+       ssh keys list obtained
+
+       id                                    name        desc    date                  pub_key
+       ------------------------------------  ----------  ------  --------------------  -----------------------------------------------------------------------------------
+       f057bff8-4d62-40fe-9b77-73ccb1b8e6fx  sshkey-demo         2018-09-05T11:16:23Z  c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFDbXQyTmU3TXlFYUJLQ1VKOXBJR3dM...
+
+
+Step two
+
+You can create a VM using the add command obtaining the id from Nivola
+
+.. code-block:: bash
+
+     $ beehive business cpaas vms add name=vm-demo account=Datacenter.account-demo type=vm.l8.large subnet=SubnetBE-torino02 image=Centos7 security-group=SecurityGroupBE key-name=sshkey-gae
+
+       The VM vm-demo is created and Nivola will show you his id using the message follow
+
+       msg
+       ---------------------------------------------------------
+       Add virtual machine: b0633d20-399e-4168-9f13-60fba49a40fe
+
+
+To see the VM is running use the list command with the following syntax
+
+.. code-block:: bash
+
+     $ beehive business cpaas vms list account=account-demo
+
+       id                                    name              type         state    launchTime            account    availabilityZone    privateIp      privateDnsName                               image    subnet
+       ------------------------------------  ----------------  -----------  -------  --------------------  ---------  ------------------  -------------  -------------------------------------------  -------  -------------------
+       b0633d20-399e-4168-9f13-60fba49a40fe  vm-demo           vm.l8.large  running  2019-02-27T09:44:34Z  account-demo  SiteTorino02     10.138.160.62  vm-demo.site02.nivolapiemonte.it             Centos7  SubnetBE-torino02
+
+
+
+
+Update Compute service
+^^^^^^^^^^^^^^^^^^^^^^^^
+The commands below are used to update Virtual machine.
+
+
+**update**:
+
+The command is used to modify Virtual Machine attributes.
+
+.. code-block:: bash
+
+    $ beehive bu cpaas vms update <vm> [field=..] [options ...]
+
+      Update VM
+
+      Fields:
+
+        vm                   vm id
+        type                 vm type
+
+       optional arguments:   are the same described into add command
+
+
+In this example we are going to change the type attribute.
+
+.. code-block:: bash
+
+
+    $ beehive bu cpaas vms update b0633d20-399e-4168-9f13-60fba49a40fe type=vm.m8.xlarge
+
+      update
+
+
+This is the Nivola response when the type was changed
+
+.. code-block:: bash
+
+
+    $ msg
+      -----------------------------------------------------------
+      Modify virtual machine b0633d20-399e-4168-9f13-60fba49a40fe
+
+
+
+Delete Compute service
+^^^^^^^^^^^^^^^^^^^^^^^^
+The commands below are used to erase Virtual machine from Nivola.
+
+
+**delete**:
+
+The command is used to erase Virtual Machine from the cloud-system
+
+
+
+.. code-block:: bash
+
+
+    $ beehive bu cpaas vms delete <vm> [options ...]
+
+
+      Delete a Virtual Machine
+
+      Fields:
+
+        vm                   is the vm id
+
+
+      optional arguments:     are the same described into add command
+
+
+Next example show you how to use delete command
+
+
+.. code-block:: bash
+
+
+    $ beehive bu cpaas vms delete 59e7e61c-665d-48a5-8ca3-a769e45f8e1b
+
+
+      Delete VM
+
+
+Below the nivola's response after VM was deleted
+
+
+.. code-block:: bash
+
+     $ msg
+       -----------------------------------------------------------
+       Delete virtual machine 59e7e61c-665d-48a5-8ca3-a769e45f8e1b
+
