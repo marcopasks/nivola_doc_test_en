@@ -80,7 +80,7 @@ role with privileges who permit to use add command. The way to use the command a
 **add example**:
 The example we are going to use for explain how to create a Virtual Machine has like as goal
 an VM named **vm-demo** inside account Datacenter.account-demo.
-All variables used in this example are mandatories. There are three steps that you could use to perform
+All variables used in this example are mandatories. There are three steps that you could use
 to create a usable VM:
 
 - To get account id, type, subnet and image

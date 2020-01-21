@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="" />
+    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -48,7 +50,7 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/How_to_use_Cli/index_How_to_use_Cli.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -114,13 +116,13 @@
         <option value="$PROJECT_DIR$/How_to_use_Cli/200.1_howto-start-stop-vm" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/300.1_howto-copy-file" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/1.1_how_access_CLI" />
-        <option value="$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst" />
         <option value="$PROJECT_DIR$/Glossario/Glossario.rst" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/40.0_howto-secgroupcli.rst" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/60.0_howto-add-disk-vm" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/70.0_howto-start-stop-vm" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/80.0._howto-copy-file" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/index_How_to_use_Cli.rst" />
+        <option value="$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst" />
       </list>
     </option>
   </component>
@@ -365,9 +367,6 @@
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/999.8howto-cli-ssh.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/40.0_howto-secgroupcli.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -384,6 +383,9 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/index_How_to_use_Cli.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
