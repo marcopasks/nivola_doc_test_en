@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/How_to_use_Cli/1.1_how_access_CLI" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/How_to_use_Cli/60.0_howto-add-disk-vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/How_to_use_Cli/70.0_howto-start-stop-vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/How_to_use_Cli/80.0._howto-copy-file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Glossario/Glossario.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Glossario/Glossario.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/10.0_howto-ucasecli.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/999.10_howto-ucasecli.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/2.0_howto-cli.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/999.2_howto-cli.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/20.0_howto-cpaas.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/30.0_howto-account.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/999.0_howto-account.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/4.0_howto-cli-authority.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/999.4_howto-cli-authority.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/40.0_howto-secgroupcli.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/40.0_howto-secgroupcli.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/6.0_howto-cli-services.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/999.6_howto-cli-services.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/8.0_howto-cli-ssh.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/999.8howto-cli-ssh.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How_to_use_Cli/index_How_to_use_Cli.rst" beforeDir="false" afterPath="$PROJECT_DIR$/How_to_use_Cli/index_How_to_use_Cli.rst" afterDir="false" />
-    </list>
+    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +19,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/How_to_use_Cli/70.0_howto-start-stop-vm">
+        <entry file="file://$PROJECT_DIR$/How_to_use_Cli/70.0_howto-start-stop-vm.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -45,12 +29,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/How_to_use_Cli/80.0._howto-copy-file">
+        <entry file="file://$PROJECT_DIR$/How_to_use_Cli/80.0_howto-copy-file.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/How_to_use_Cli/60.0_howto-add-disk-vm">
+        <entry file="file://$PROJECT_DIR$/How_to_use_Cli/60.0_howto-add-disk-vm.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -390,13 +374,13 @@
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/1.1_how_access_CLI">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/60.0_howto-add-disk-vm">
+    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/60.0_howto-add-disk-vm.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/70.0_howto-start-stop-vm">
+    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/70.0_howto-start-stop-vm.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/80.0._howto-copy-file">
+    <entry file="file://$PROJECT_DIR$/How_to_use_Cli/80.0_howto-copy-file.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/index_How_to_use_Cli.rst">
