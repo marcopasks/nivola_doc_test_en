@@ -1,0 +1,63 @@
+.. _howto-add-disk-vm:
+
+To add disk to Virtual machine
+==============================
+
+TO DO
+-----
+
+1) to find flavour
+
+beehive provider volumeflavors list
+
+2) lista volumi con tutte le info ad eccezione della compute-zones per il json
+ beehive provider volumes list
+
+
+3) lista compute zone
+
+beehive provider compute-zones list
+
+4) per creare nuovo volume
+
+beehive provider volumes add add-volume.json
+
+
+
+
+Nel caso il json non ci sia crearlo:
+
+To create json file (una tantum)
+
+esempio
+
+[login@cmpto1-cons02 ~]$ more add-volume.json
+{
+"volume":{
+"container": "ResourceProvider01",
+"name":"dbs-tst-001-aefd07ad-volume-1",
+"desc":"Disco-dati",
+"compute_zone": "ComputeService-366929f1",
+"availability_zone": "SiteTorino02",
+"type":"vsphere",
+"flavor": "vol.oracle.default",
+"size": 200
+}
+}
+
+
+
+ho creato il disco
+
+
+da aggiungere alla VM
+
+200.1) lista VM per ottenere instance id
+beehive provider instances list
+
+200.3 con questo comando aggangio disco alla VM
+
+beehive provider instances volumes add <instance_id> <volume_id>
+
+
+

@@ -1,0 +1,47 @@
+.. _howto-access-cli:
+
+Access to CLI
+=============
+
+
+There are two different ways to access into Command Line Interface.
+The firs is usign by the provider's users:
+
+ssh login dmnt@cmpto1-cons02.site01.nivolapiemonte.it
+
+The second
+utente esterno
+sssh login psnet@cmpto2-cons02.site0.nivolapiemonte.it
+
+
+login psnet fornita da NSC.
+
+
+sistema chiede la pwd per utente esterno la pwd fornita da NSC o resettat da VPN in autonomia.
+
+
+User console is a command line tool useful to manage Nivola platform. It expose command to configure and control
+cmp user assets.
+
+To run cli use the command **beehive** with a working section. An example of help that you can obtain is the following:
+
+.. code-block:: bash
+
+    $ beehive -h
+
+      usage: beehive (sub-commands ...) [options ...] {arguments ...}
+
+      Beehive manager.
+
+      commands:
+
+        business             Business Service and Authority Management
+        ...
+
+      optional arguments:
+        -h, --help            show this help message and exit
+        ...
+
+Cli can be used in interactive mode (not completely tested. There are still some bugs) or in simple command mode.
+
+**Simple command mode**:

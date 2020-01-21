@@ -1,0 +1,44 @@
+.. _howto-start-stop-vm:
+
+Start and Stop Virtual Machine
+===============================
+
+It is the main service that you must have in your Account to use all the other following services.
+From CLI is possible to manage the Compute Service. The life cycle of the Compute Service includes
+the following steps.
+
+- Create your Compute Service
+- Get information about object of the Compute Service
+- Update Compute Service
+- Delete Compute Service
+
+*Add**:
+
+Using add command you are going to create a Virtual machine and all it needs for applications that you
+will runs above. It is necessary to have an Account and the
+role with privileges who permit to use add command. The way to use the command add is the following:
+
+.. code-block:: bash
+
+    $  beehive bu cpaas vms stop <vm> [options ...]
+
+        Stop a virtual machine
+
+        fields:
+            vm                    vm id
+
+
+
+
+.. code-block:: bash
+
+    $  beehive bu cpaas vms start <vm> [options ...]
+
+
+        StART A virtual machine
+
+        fields:
+            vm                    vm id
+
+
+

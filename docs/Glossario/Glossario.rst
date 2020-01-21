@@ -3,10 +3,6 @@
 **Glossario**
 ==============
 
-​1​ **Termini ed acronimi**
-
-
-
 Nella tabella seguente, raggruppati in ordine alfabetico, si riportano i termini e gli acronimi frequentemente
 utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale familiarità. 
 
@@ -166,7 +162,9 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | profilazione, security.              |
 |                                      |                                      |
 +--------------------------------------+--------------------------------------+
-| Compute Services                     | Categoria di servizi che permette di |
+| Compute Services                     | Insieme di funzioni utili a creare e |
+|                                      | gestire e le Virtual Machine         |
+|                                      | Categoria di servizi che permette di |
 |                                      | fruire di  risorse elaborative       |
 |                                      | (espresse in CPU, RAM e spazio       |
 |                                      | disco) in differenti flavour e       |
@@ -246,7 +244,7 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 |            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
-| FLAVOUR                              | Identificano le differenti tipologie |
+| FLAVOUR Alias TYPE                   | Identificano le differenti tipologie |
 |                                      | di VM le cui caratteristiche         |
 |                                      | differiscono per la quantità di      |
 |                                      | risorse CPU, RAM e DISCO. L’utente   |

@@ -7,15 +7,12 @@ ad interagire con la piattaforma, attraverso la Command Line.
 .. toctree::
    :maxdepth: 2
  
-   2.0_howto-cli.rst
-   4.0_howto-cli-authority.rst
-   6.0_howto-cli-services.rst
-   8.0_howto-cli-ssh.rst
-   10.0_howto-ucasecli.rst
+   1.1_howto-access-cli.rst
    20.0_howto-cpaas.rst
-   30.0_howto-account.rst
    40.0_howto-secgroupcli.rst
-
+   60.0_howto-add-disk-vm.rst
+   70.0_howto-start-stop-vm.rst
+   80.0_howto-copy-file.rst
 
    
    

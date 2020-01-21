@@ -1,16 +1,16 @@
 .. _howto-cpaas:
 
-Manage Compute Service from CLI
+Manage Virtual Machine from CLI
 ===============================
 
 It is the main service that you must have in your Account to use all the other following services.
-From CLI is possible to manage the Compute Service. The life cycle of the Compute Service includes
+From CLI is possible to manage the Virtual Machines (VM). The life cycle of the VM includes
 the following steps.
 
-- Create your Compute Service
-- Get information about object of the Comute Service
-- Update Compute Service
-- Delete Compute Service
+- Create your Virtual machine
+- Get information about object of the Compute Service
+- Update Virtual Machine
+- Delete Virtual Machine
 
 The steps creation and capabiity assign are mandatory for service use.
 
@@ -24,13 +24,13 @@ Use case of create
 --------------------
 
 
-Create Compute service
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Create Virtual Machine
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 **Add**:
 
-Using add command you are going to create a Virtual machine and all it needs for applications that you
+Using add command you are going to create a virtual machine and all it needs for applications that you
 will runs above. It is necessary to have an Account and the
 role with privileges who permit to use add command. The way to use the command add is the following:
 

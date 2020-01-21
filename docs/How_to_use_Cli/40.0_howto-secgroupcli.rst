@@ -23,7 +23,7 @@ The VPC consists of one or more security group. For create a security group you 
 Life Cycle of Security Group
 ----------------------------
 
-.. image:: _static/Lifecycle.png
+.. image:: img/Lifecycle.png
    :scale: 70 %
    :alt: Context
    :align: center
@@ -291,7 +291,7 @@ The nivola response after the command confirming the creation of ingress rule wi
        Create securitygroup rule True
 
 
-**security group  get**:
+**security group get**:
 
 If it need more information about security group it could be use the command get
 
@@ -356,6 +356,51 @@ The nivola response after the command showing the information that you need
                                                                       10.138.154.0/24   *           *           *         True        ACTIVE
                                                                       158.102.160.0/24  *           *           *         True        ACTIVE
        gaetest:sec-group-demo [0c35528a-6e43-45c3-8b41-d8265deeddf4]                    *           *           *         True        ACTIVE
+
+
+**del-rule ingress/egress**:
+
+The commands below are used to delete ingress or egress rules from SG.
+
+.. code-block:: bash
+
+
+    $ beehive bu cpaas securitygroups del-rule <type> <securitygroup> <dest/source> [proto=..] [port:..] [options ...]
+
+      Delete a security group rule.
+
+        fields:
+        type                      egress or ingress. For egress group is the source and sp                                                                                        ecify the destination.
+                                  For ingress group is the destination and specify the sou                                                                                        rce.
+        securitygroup             securitygroup id
+        proto                     can be tcp, udp, icmp or -1 for all. [default=-1]
+        port                      can be an integer between 0 and 65535 or a range with st                                                                                        art and end in the same
+                                  interval. Range format is <start>-<end>. Use -1 for all                                                                                         ports. [default=-1]
+        dest/source               rule destination. Syntax <type>:<value>. Source and dest                                                                                        ination type can be SG, CIDR.
+                                  for SG value must be <sg_id>. For CIDR value should like                                                                                         10.102.167.0/24.
+
+        optional arguments:
+            -h, --help            show this help message and exit
+            --debug               toggle debug output
+            --quiet               suppress all output
+            -o {json}             output handler
+            -v, --version         show program's version number and exit
+            -k KEY, --key KEY     Secret key file to use for encryption/decryption
+            --vault VAULT         Ansible vault password to use for inventory decryption
+            -e ENV, --env ENV     Execution environment
+            -E ENVS, --envs ENVS  Comma separated execution environments
+            -f FRMT, --frmt FRMT  response format
+            --color COLOR         response colered. Can be true or false. [default=true]
+            --verbose VERBOSITY   ansible verbosity
+            --cmds                list available commands
+            --notruncate          disable long string truncation
+            --truncate TRUNCATE   set max length of long string
+            --curl                log curl request
+            --fields FIELDS       response fields
+            --afields AFIELDS     response additional fields
+            -y, --assumeyes       Assume that the answer to any question which would be
+                                  asked is yes.
+            -rt, --runtime        Enable command duration log.
 
 
 
