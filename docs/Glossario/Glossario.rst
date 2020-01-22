@@ -1,4 +1,4 @@
-.. _howto-glossario:
+.. _Glossario:
 
 **Glossario**
 ==============
