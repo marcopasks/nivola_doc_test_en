@@ -1,5 +1,5 @@
-**Come fare per usare la Command Line (CLI)**
-#############################################
+**Usare la Command Line (CLI)**
+################################
 
 In questa sezione si trovano una serie di tutorial per iniziare fin da subito
 ad interagire con la piattaforma, attraverso la Command Line.
@@ -7,7 +7,7 @@ ad interagire con la piattaforma, attraverso la Command Line.
 .. toctree::
    :maxdepth: 2
  
-   1.1_howto-access-cli.rst
+   01.1_howto-access-cli.rst
    20.0_howto-cpaas.rst
    40.0_howto-secgroupcli.rst
    60.0_howto-add-disk-vm.rst
