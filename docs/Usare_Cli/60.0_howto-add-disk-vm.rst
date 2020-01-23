@@ -1,7 +1,7 @@
 .. _howto-add-disk-vm:
 
-To add disk to Virtual machine
-==============================
+How to add disk to Virtual Machine
+==================================
 
 You can attach the volume to one of virtual machine who are into your account.
 The prerequisites you need are the id of [instance]_ and [volume]_
@@ -41,8 +41,8 @@ The command you have to edit is
 
 .. [instance]
 
-​To know instance id
--------------------
+​How to know instance id
+-----------------------
 
 To get the instance id it is necessary to type the command:
 
@@ -78,8 +78,8 @@ To get the instance id it is necessary to type the command:
 
 .. [volume]
 
-​To know volume id
-------------------
+​How to know volume id
+---------------------
 
 To get the volume id you have to type the command:
 
@@ -110,7 +110,4 @@ To get the volume id you have to type the command:
           -y, --assumeyes       Assume that the answer to any question which would be
                                 asked is yes.
           -rt, --runtime        Enable command duration log.
-
-
-
 
