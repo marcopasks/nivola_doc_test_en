@@ -11,6 +11,7 @@ ad interagire con la piattaforma, attraverso la Command Line.
    20.0_howto-cpaas.rst
    40.0_howto-secgroupcli.rst
    60.0_howto-add-disk-vm.rst
+   62.0_howto-create-disk.rst
    70.0_howto-start-stop-vm.rst
    80.0_howto-copy-file.rst
 
