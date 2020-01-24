@@ -27,7 +27,7 @@ Life Cycle of Virtual Machine
 .. [Create]
 
 
-How to create Virtual Machine
+How to Create Virtual Machine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
@@ -211,7 +211,7 @@ To see the VM is running use the list command with the following syntax
 
 .. [Verify]
 
-How to list Virtual Machine
+How to List Virtual Machine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The command below is used to ontain the list Virtual machine instantiated into account.
