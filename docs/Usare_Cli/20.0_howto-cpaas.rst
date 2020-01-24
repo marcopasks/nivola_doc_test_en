@@ -5,7 +5,7 @@ Manage Virtual Machine from CLI
 
 It is the main service that you must have in your Account to use all the other following services.
 From CLI is possible to manage the Virtual Machines (VM). The life cycle of the VM includes
-the following steps normally.
+the following steps generally.
 
 - [Create]_ your Virtual machine
 - [Verify]_ the virtual machine into account
