@@ -5,12 +5,14 @@ Manage Virtual Machine from CLI
 
 It is the main service that you must have in your Account to use all the other following services.
 From CLI is possible to manage the Virtual Machines (VM). The life cycle of the VM includes
-the following steps.
+the following steps normally.
 
 - [Create]_ your Virtual machine
 - [Verify]_ the virtual machine into account
 - [Get]_ information about object of the Compute Service
 - [Update]_ Virtual Machine
+- [Stop]_ Virtual Machine
+- [Start_ Virtual Machine
 - [Delete]_ Virtual Machine
 
 The steps creation and capabiity assign are mandatory for service use.
@@ -272,6 +274,83 @@ This is the Nivola response when the type was changed
     $ msg
       -----------------------------------------------------------
       Modify virtual machine b0633d20-399e-4168-9f13-60fba49a40fe
+
+
+>>>
+
+.. [Start]
+
+
+How to Start Virtual Machine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If it is necessary to start the VM, you have to use next command from CLi:
+
+.. code-block:: bash
+
+    $ beehive bu cpaas vms start <vm>
+
+      <vm> is a vm's id
+
+        optional arguments:
+        -h, --help            show this help message and exit
+        --debug               toggle debug output
+        --quiet               suppress all output
+        -o {json}             output handler
+        -v, --version         show program's version number and exit
+        -k KEY, --key KEY     Secret key file to use for encryption/decryption
+        --vault VAULT         Ansible vault password to use for inventory decryption
+        -e ENV, --env ENV     Execution environment
+        -E ENVS, --envs ENVS  Comma separated execution environments
+        -f FRMT, --frmt FRMT  response format
+        --color COLOR         response colered. Can be true or false. [default=true]
+        --verbose VERBOSITY   ansible verbosity
+        --cmds                list available commands
+        --notruncate          disable long string truncation
+        --truncate TRUNCATE   set max length of long string
+        --curl                log curl request
+        --fields FIELDS       response fields
+        --afields AFIELDS     response additional fields
+        -y, --assumeyes       Assume that the answer to any question which would be
+                              asked is yes.
+        -rt, --runtime        Enable command duration log.
+
+.. [Stop]
+
+
+How to Stop Virtual Machine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you need to stop the VM, you have to use next command:
+
+.. code-block:: bash
+
+    $ beehive bu cpaas vms stop <vm>
+
+      <vm> is a vm's id
+
+        optional arguments:
+        -h, --help            show this help message and exit
+        --debug               toggle debug output
+        --quiet               suppress all output
+        -o {json}             output handler
+        -v, --version         show program's version number and exit
+        -k KEY, --key KEY     Secret key file to use for encryption/decryption
+        --vault VAULT         Ansible vault password to use for inventory decryption
+        -e ENV, --env ENV     Execution environment
+        -E ENVS, --envs ENVS  Comma separated execution environments
+        -f FRMT, --frmt FRMT  response format
+        --color COLOR         response colered. Can be true or false. [default=true]
+        --verbose VERBOSITY   ansible verbosity
+        --cmds                list available commands
+        --notruncate          disable long string truncation
+        --truncate TRUNCATE   set max length of long string
+        --curl                log curl request
+        --fields FIELDS       response fields
+        --afields AFIELDS     response additional fields
+        -y, --assumeyes       Assume that the answer to any question which would be
+                              asked is yes.
+        -rt, --runtime        Enable command duration log.
 
 
 .. [Delete]
