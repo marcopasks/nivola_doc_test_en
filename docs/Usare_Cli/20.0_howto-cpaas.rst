@@ -8,25 +8,25 @@ From CLI is possible to manage the Virtual Machines (VM). The life cycle of the 
 the following steps.
 
 - [Create]_ your Virtual machine
-- Get information about object of the Compute Service
-- Update Virtual Machine
-- Delete Virtual Machine
+- [List]_ the virtual machine
+- [Get]_ information about object of the Compute Service
+- [Update]_ Virtual Machine
+- [Delete]_ Virtual Machine
 
 The steps creation and capabiity assign are mandatory for service use.
 
 
-Life Cycle of Compute Service
+Life Cycle of Virtual Machine
 ------------------------------
 
 .. image:: img/ComputeLifeCycle.png
 
+
 .. [Create]
-Use case of create
---------------------
 
 
-Create Virtual Machine
-^^^^^^^^^^^^^^^^^^^^^^^^
+How to create Virtual Machine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 **Add**:
@@ -79,8 +79,9 @@ role with privileges who permit to use add command. The way to use the command a
 
 
 **add example**:
+
 The example we are going to use for explain how to create a Virtual Machine has like as goal
-an VM named **vm-demo** inside account Datacenter.account-demo.
+the VM named **vm-demo** inside account Datacenter.account-demo.
 All variables used in this example are mandatories. There are three steps that you could use
 to create a usable VM:
 
@@ -206,6 +207,28 @@ To see the VM is running use the list command with the following syntax
        b0633d20-399e-4168-9f13-60fba49a40fe  vm-demo           vm.l8.large  running  2019-02-27T09:44:34Z  account-demo  SiteTorino02     10.138.160.62  vm-demo.site02.nivolapiemonte.it             Centos7  SubnetBE-torino02
 
 
+.. [List]
+
+How to list Virtual machine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The command below is used to ontain the list Virtual machine instantiated into account.
+
+
+**list**:
+
+
+.. code-block:: bash
+
+     $ beehive business cpaas vms list account=account-demo
+
+       id                                    name              type         state    launchTime            account    availabilityZone    privateIp      privateDnsName                               image    subnet
+       ------------------------------------  ----------------  -----------  -------  --------------------  ---------  ------------------  -------------  -------------------------------------------  -------  -------------------
+       b0633d20-399e-4168-9f13-60fba49a40fe  vm-demo           vm.l8.large  running  2019-02-27T09:44:34Z  account-demo  SiteTorino02     10.138.160.62  vm-demo.site02.nivolapiemonte.it             Centos7  SubnetBE-torino02
+
+
+
+.. [Update]
 
 
 Update Compute service
@@ -250,6 +273,8 @@ This is the Nivola response when the type was changed
       -----------------------------------------------------------
       Modify virtual machine b0633d20-399e-4168-9f13-60fba49a40fe
 
+
+.. [Delete]
 
 
 Delete Compute service
