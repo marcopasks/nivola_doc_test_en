@@ -8,13 +8,13 @@ The first is using by the provider's users only:
 
 .. code-block:: bash
 
-   ssh login domnt@cmpto1-cons02.site01.nivolapiemonte.it
+   ssh <login domnt>@cmpto1-cons02.site01.nivolapiemonte.it
 
 The second, used by business user is:
 
 .. code-block:: bash
 
-    ssh login psnet@cmpto2-cons02.site0.nivolapiemonte.it
+    ssh <login psnet>@cmpto2-cons02.site02.nivolapiemonte.it
 
 
 The "login psnet" is provided by Nivola  Center.
