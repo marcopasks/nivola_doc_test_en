@@ -276,8 +276,6 @@ This is the Nivola response when the type was changed
       Modify virtual machine b0633d20-399e-4168-9f13-60fba49a40fe
 
 
->>>
-
 .. [Start]
 
 
