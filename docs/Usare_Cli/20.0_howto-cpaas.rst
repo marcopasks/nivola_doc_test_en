@@ -7,7 +7,7 @@ It is the main service that you must have in your Account to use all the other f
 From CLI is possible to manage the Virtual Machines (VM). The life cycle of the VM includes
 the following steps.
 
-- Create your Virtual machine
+- [Create]_ your Virtual machine
 - Get information about object of the Compute Service
 - Update Virtual Machine
 - Delete Virtual Machine
@@ -20,6 +20,7 @@ Life Cycle of Compute Service
 
 .. image:: img/ComputeLifeCycle.png
 
+.. [Create]
 Use case of create
 --------------------
 
