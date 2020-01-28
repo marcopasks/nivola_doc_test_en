@@ -9,7 +9,6 @@ the following steps.
 
 - [Create]_ your Virtual machine
 - [Verify]_ the virtual machine into account
-- [Get]_ information about object of the Compute Service
 - [Update]_ Virtual Machine
 - [Stop]_ Virtual Machine
 - [Start_ Virtual Machine

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -35,7 +36,7 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Usare_Cli/80.0_howto-copy-file.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -123,8 +124,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1457" />
-    <option name="y" value="-180" />
+    <option name="x" value="288" />
+    <option name="y" value="-20" />
     <option name="width" value="768" />
     <option name="height" value="546" />
   </component>
@@ -134,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,7 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,10 +202,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-215" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.13435195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.18973215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
       <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.21502976" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,10 +345,18 @@
     <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Usare_Cli/62.0_howto-create-disk" />
+    <entry file="file://$PROJECT_DIR$/Usare_Cli/70.0_howto-start-stop-vm.rst" />
+    <entry file="file://$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Usare_Cli/60.0_howto-add-disk-vm.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Usare_Cli/62.0_howto-create-disk">
+    <entry file="file://$PROJECT_DIR$/Usare_Cli/index_Usare_Cli.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Usare_Cli/01.1_howto-access-cli.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Usare_Cli/40.0_howto-secgroupcli.rst">
@@ -360,18 +369,6 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Usare_Cli/80.0_howto-copy-file.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Usare_Cli/70.0_howto-start-stop-vm.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Usare_Cli/index_Usare_Cli.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Usare_Cli/01.1_howto-access-cli.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
