@@ -21,6 +21,7 @@ rispondono a diverse normative per certificare la corretta adozione rispetto :
 Le prime tre certificazione permettono di dimostrare di avere tutti i requisiti imposti dal regolamento GDPR in merito al trattamento dei dati personali e privacy e tutte insieme hanno con
 
 
+.. image:: img/certificazioni_gdpr.png
 
 
 
