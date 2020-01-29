@@ -1,7 +1,7 @@
 .. _Lavorare_con_i_servizi_di_rete:
 
-**SERVIZI DI RETE**
-********************
+**Servizi di rete**
+*******************
 
 I vari segmenti di rete presenti all’interno della parte infrastrutturale di Nivola
 sono tutti protetti tramite
