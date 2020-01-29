@@ -17,4 +17,4 @@ Oltre a questi canali l’utente dispone anche della knowledege base per poter t
  
 Ognuno degli strumenti presenti può essere utilizzato in funzione del tipo di supporto attivato:
  
-
+.. image:: img/certificazioni_gdpr.png
