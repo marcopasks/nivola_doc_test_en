@@ -1,5 +1,7 @@
 .. _Gestione_chiavi_ssh:
 
+.. _Creare_chiavi_ssh:
+
 **Creare o Cancellare chiavi SSH**
 **********************************
 La funzione è utilizzabile da **Reti e Sicurezza** cliccando sulla voce **Chiavi SSH**
