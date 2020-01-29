@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,22 +23,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Compliance_Normative_GDPR.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Overview_Nivola/1_Cosa_e_Nivola.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -56,8 +47,18 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/18.1_Comunicare_con_internet.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -79,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.3_Cancellare_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst" />
@@ -123,13 +123,14 @@
         <option value="$PROJECT_DIR$/Come_fare_per/18.1_Comunicare_con_internet" />
         <option value="$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS" />
-        <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/3_Compliance_Normative_GDPR.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn" />
+        <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
       </list>
     </option>
   </component>
@@ -259,12 +260,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Pulsante_modifica.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/SG_regole.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -346,9 +341,6 @@
     <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Overview_Nivola/index_Overview_Nivola.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -380,6 +372,15 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/18.1_Comunicare_con_internet.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
