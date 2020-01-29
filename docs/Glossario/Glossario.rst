@@ -69,6 +69,13 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |            Acronimo/Termine          |            Significato               |
 +--------------------------------------+--------------------------------------+
 | ACCOUNT                              | Contenitore di istanze di servizio   |
+|                                      | Per gli Account dell'Organizzazione  |
+|                                      | CSI il nome con cui identificarlo è  |
+|                                      | il **codice prodotto**.              |
+|                                      | Per i prodotti del CSI è previsto un |
+|                                      | Account per l'ambiente di produzone  |
+|                                      | ed un altro per gli altri denominato |
+|                                      | **preprod**.                         |
 +--------------------------------------+--------------------------------------+
 | API                                  | Application Programming              |
 |                                      | Interface (in italiano traducibile   |
@@ -208,6 +215,13 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | determina o con una pòarte di essa.  |
 |                                      | Non può esserci una Divisione senza  |
 |                                      | un Organizzazione da cui dipendere.  |
+|                                      | Nel caso l'organizzazione della      |
+|                                      | divisione sia CSI il suo nome        |
+|                                      | dovrà coincidere sempre l'ID della   |
+|                                      | Soluzione applicativa. Nel caso l'ID |
+|                                      | non sia stato attrubuito usare       |
+|                                      | "Staging" in attesa che venga        |
+|                                      | attribuito                           |
 +--------------------------------------+--------------------------------------+
 | DBaaS                                | “Data Base as a Service” sono        |
 |                                      | servizi gestiti  costituiti da       |
@@ -391,7 +405,9 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 |                                      | organizzativo. Dall'Organizzazione   |
 |                                      | possono dipendere 1 o più Divisioni. |
 |                                      | Ad un organizzazione può coincidere  |
-|                                      | un Ente.                             |
+|                                      | un Ente.  Il nome sarà sempre CSI    |
+|                                      | per tutto ciò che dovrà ospitare     |
+|                                      | prodotti del CSI.                    |
 +--------------------------------------+--------------------------------------+
 
 -------------------------

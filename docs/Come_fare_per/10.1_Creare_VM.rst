@@ -20,6 +20,20 @@ Per la creazione di un server, procedere come segue:
 
 2. Inserire il **Nome della virtual machine** nella textbox;
 
+.. code-block:: Regole di Naming
+
+    $ Queste indicazioni sono vincolanti solo per gli account dell'Organizzazione CSI
+
+      Per i nomi da assegnare ai Server il modello da seguire è < ambiente >-< middleware >< n >-< codice prodotto >:
+
+        ambiente  : Il campo evidenzia solo quelli diversi da produzione (dev, tst, coll).
+        middleware; prevede i seguenti valori jboss, tomcat, wf (web server internet), wfrupar (web server rupar),
+        Nel caso la Vm sia  DB NON as-a-service si utilizzerano questi nomi: Postgresql --> pg e MySQL --> mysql.
+        I nomi dei DB as-a-service sono assegnati dal gruppo di supporto.
+        Il valore numerico (n) serve per distinguere i sistemi con la stessa funzione.
+        Il campo codice prodotto è il codice prodotto riportato sulle anagrafiche aziendali (10 caratteri).
+
+
 3. Scegliere il **TEMPLATE** da cui generare la virtual machine facendo un clic su uno degli OS propposti come pulsanti
 e successivamente sul pulsante **VAI TIPO VM**;
 
