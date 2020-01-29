@@ -54,18 +54,18 @@ CPU, RAM e disco):
 della sicurezza, della microsegmentazione, di bilanciamento applicativo sia locale
 che geografico, di gestione dei nomi DNS statici e dinamici:
 
-    1. **Creare Security Group** :ref:`vedi creazione SG <_Creare_Security_Group>`.;
-    2. **Gestire le regole del Security Group** :ref:`vedi Gestione SG <_Gestione_Regole_SG>`.;
+    1. **Creare Security Group** :ref:`vedi creazione SG <Creare_Security_Group>`.;
+    2. **Gestire le regole del Security Group** :ref:`vedi Gestione SG <Gestione_regole_SG>`.;
 
 4. Storage: permette di accedere a uno spazio disco con protocolli NFS e CIFS  ed è integrato con gli altri servizi previsti
 dalla piattaforma o con altri servizi installati dal consumer.
 
-    1. **Creare Storage as Service** :ref:`vedi creazione STAAS <_Creare_STAAS>`.;
-    1. **Gestire Storage as Service** :ref:`vedi gestione STAAS <_Gestire_STAAS>`.;
-    1. **Usare il proprio Storage as Service** :ref:`vedi usare il proprio STAAS <_Usare_il_proprio_STAAS>`.;
+    1. **Creare Storage as Service** :ref:`vedi creazione STAAS <Creare_STAAS>`.;
+    1. **Gestire Storage as Service** :ref:`vedi gestione STAAS <Gestire_STAAS>`.;
+    1. **Usare il proprio Storage as Service** :ref:`vedi Lavorare con STAAS <Lavorare_con_STAAS>`.;
 
 
-4. Interagire con il **Nivola Support Center**:
+4. Interagire con il **Nivola Support Center** :ref:`vedi Intergaire con il supporto <Intergagire_con_il_Supporto>`.:
 
-5. Attivare il **Nivola Support Center**:
+5. Attivare il **Nivola Support Center** :ref:`vedi Attivare il Servizio <Attivare_il_Supporto>`.:
 
