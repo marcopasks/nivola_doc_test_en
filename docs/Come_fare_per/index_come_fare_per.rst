@@ -26,7 +26,7 @@ ad interagire con la piattaforma, attraverso il portale.
    16.2_Gestire_STAAS.rst
    16.3_Usare_il_proprio_STAAS.rst
    17.0_Interagire_con_il_supporto.rst
-   18.1_comunicare_con_internet.rst
+   18.1_Comunicare_con_internet.rst
    50_Attivare_il_supporto.rst
 
 
