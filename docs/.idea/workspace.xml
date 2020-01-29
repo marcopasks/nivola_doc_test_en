@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="" />
+    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,37 +18,47 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst">
+        <entry file="file://$PROJECT_DIR$/Overview_Nivola/index_Overview_Nivola.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst">
+        <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Compliance_Normative_GDPR.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
+        <entry file="file://$PROJECT_DIR$/Overview_Nivola/1_Cosa_e_Nivola.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Usare_Cli/01.1_howto-access-cli.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -66,24 +80,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.2_Gestire_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.3_Cancellare_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" />
-        <option value="$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Linee_guida/index_linee_guida.rst" />
         <option value="$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst" />
         <option value="$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst" />
         <option value="$PROJECT_DIR$/Glossario/index_Glossarior.rst" />
         <option value="$PROJECT_DIR$/Service_Portal/Service_Portal.rst" />
         <option value="$PROJECT_DIR$/Service_Portal/index_Service_Portal.rst" />
         <option value="$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/index_Howtouse_cli.rst" />
         <option value="$PROJECT_DIR$/Glossario/index_Glossario.rst" />
         <option value="$PROJECT_DIR$/How_to_use_Cli/6.0_howto-cli-services.rst" />
@@ -117,6 +127,10 @@
         <option value="$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS" />
         <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
+        <option value="$PROJECT_DIR$/Overview_Nivola/3_Compliance_Normative_GDPR.rst" />
+        <option value="$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" />
       </list>
     </option>
   </component>
@@ -200,6 +214,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-215" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.18545838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
@@ -240,15 +255,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/16.2_Gestire_STAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/17.0_Interagire _con_il_Supporto.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/40.0_Consultare_costi_e_consumi.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Pulsante_modifica.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -273,18 +279,9 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/2_Come_muovere_primi_passi.rst" />
     <entry file="file://$PROJECT_DIR$/Glossario/Glossario_old.rst" />
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linee_guida/6_Modello_architetturale_3_livelli_no_internet.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Service_Portal/img/Service-portal.png">
@@ -298,9 +295,6 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/howto-api.rst" />
-    <entry file="file://$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/How_to_use_Cli/999.6_howto-cli-services.rst" />
     <entry file="file://$PROJECT_DIR$/Linee_guida/index_linee_guida.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
@@ -322,9 +316,6 @@
     <entry file="file://$PROJECT_DIR$/Usare_Cli/index_Usare_Cli.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Usare_Cli/01.1_howto-access-cli.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Usare_Cli/80.0_howto-copy-file.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -337,34 +328,54 @@
     <entry file="file://$PROJECT_DIR$/Glossario/Glossario.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS" />
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/18.1_Comunicare_con_internet" />
     <entry file="file://$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS">
+    <entry file="file://$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/18.1_Comunicare_con_internet">
+    <entry file="file://$PROJECT_DIR$/Linee_guida/4_Modello_architetturale_3_livelli_esposto_internet.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overview_Nivola/index_Overview_Nivola.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overview_Nivola/1_Cosa_e_Nivola.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Compliance_Normative_GDPR.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Usare_Cli/01.1_howto-access-cli.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>

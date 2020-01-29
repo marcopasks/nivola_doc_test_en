@@ -13,8 +13,6 @@ Per inizare a utilizzare la piattaforma **Nivola**
     5. **Istanziare Servizi** [5]_
 
 
-.. image:: img/Primi_Passi.png
-
 
 .. [1]
 
@@ -22,7 +20,7 @@ Per inizare a utilizzare la piattaforma **Nivola**
 ======================
 
 Il primo passo per fruire dei servizi della piattaforma
-è ricevere dal supporto la comunicazione via e-mail della **primo accredito**. In questo modo l'utente accreditato,
+è ricevere dal supporto la comunicazione via e-mail del **primo accredito**. In questo modo l'utente accreditato,
 sarà in grado di modellare la struttura organizzativa e conferire le abilitazioni necessarie per l'implementazione
 e gestione dell'infrastruttura che Nivola dovrà contenere.
 
