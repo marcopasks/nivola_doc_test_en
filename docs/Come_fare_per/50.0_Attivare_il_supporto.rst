@@ -1,13 +1,87 @@
 .. _Attivare_il_supporto:
 
-**Come attivare il Servizio**
+**Come attivare il Supporto**
 *****************************
- Per poter utilizzare i servizi esposti dalla piattaforma Nivola è necessario accreditarsi secondo il seguente processo:
 
-1.	Fare  una richiesta formale al Csi-Piemonte tramite i normali canali (contattato diretto con gli account)
-2.	Dopo avere ricevuto l’offerta ufficiale protocollata, è necessario procedere con l’emissione di un ordine verso CSI-Piemonte
-3.	Approvare e impegnare con determina l’importo presente nell’offerta
-4.	Inviare la documentazione tramite PEC all’indirizzo protocollo@cert.csi.it indicando nell’oggetto dell’email: Attivazione Servizi Nivola - numero di protocollo presente sull’offerta - nome dell’ente
-5.	Indicare un referente che sarà contattato dal nostro servizio di assistenza per i dettagli tecnici. Nel caso in cui  la persona da contattare in caso di incident di sicurezza sia diversa da quella indicata in precedenza, occorre specificare un nominativo diverso, in ottemperanza alle norme di ultima introduzione in ambito di Data Breach.
+Le attività di assistenza relative al Service Portal Nivola e a tutti i
+servizi fruibili non possono prescindere dai livelli di servizio
+individuati nonché degli strumenti adottati per l’erogazione dei servizi
+di assistenza.
 
-Questi aspetti sono riportati nel manuale utente del servizio e nelle condizioni generali in cui è possibile trovare maggiori dettagli e informazioni anche inerenti la cessazione del servizio. Nel caso si presentasse questa evenienza il CSI si impegna a mettere a disposizione del Cliente i propri dati e successivamente di cancellarli.
+L’attività di assistenza all’interno del Team di Supporto Nivola è
+articolata su uno schema di supporto basato su tre livelli:
+
+-  (I) Developer: chat, compilazione form su SP
+
+-  (II) Standard: chat, compilazione form su SP, invio e-mail, contatto
+   telefonico
+
+-  (III) Premium: chat, compilazione form su SP invio e-mail, contatto
+   telefonico
+
+Per quanto riguarda la copertura oraria e Livelli di Servizio fare
+riferimento all’\ `Allegato tecnico del Catalogo Servizi Nivola. <http://intranet.csi.it/monitoraggio/dwd/2019/Catalogo-e-Listino-CSI-2019-04-Allegato-tecnico-Servizi-Nivola.pdf>`__
+
+Tutti i canali, ad eccezione della chat, sono presidiati dal Centro
+Unico di Contatto (CUC) nella fascia lavorativa dal lunedì al venerdì
+dalle 8 alle 18. Per le restanti fasce orarie è possibile avere un
+riscontro immediato solo attraverso il canale telefonico garantito dal
+gruppo Conduzione Operativa.
+
+Il Centro Unico di Contatto inoltra la richiesta al Nivola Support
+Center (NSC) tramite lo strumento di ticketing. Nel caso in cui, la
+problematica non possa essere risolta da NSC viene inoltrata al gruppo
+di Ingegneria Nivola.
+
+Durante l’orario presidiato dal gruppo Assistenza Operativa, nel caso
+non fossero in grado di risolvere la probletica evidenziata dall’utente,
+sarà chiamato il reperibile del gruppo di NSC o di Ingegneria.
+
+L’utente ha a disposizione all’interno del Service Portal Nivola una
+sezione specifica dove può trovare le informazioni di base relative
+all’utilizzo della piattaforma.
+
+In particolare sono disponibili:
+
+-  manuali utente sull’utilizzo della piattaforma;
+
+-  manuali utente sull’utilizzo della piattaforma;
+
+-  eventuali video esplicativi per la verifica e l’utilizzo di
+   funzionalità specifiche;
+
+-  FAQ per la risoluzione dei problemi più comuni.
+
+Qualora l’utente/cliente, attraverso l’utilizzo di questi strumenti non
+trovasse la risposta alla sua problematica ha a disposizione alcuni
+strumenti interattivi che gli permettono di comunicare direttamente con
+il Team di Supporto Nivola:
+
+-  chat attivabile dal Service Portal
+
+-  compilazione form su Service Portal
+
+.. image:: img/Attivare_supporto.png
+
+L’accessibilità ai singoli strumenti di assistenza è diversa a seconda
+dei singoli livelli di servizio attivati dall’utente/cliente (cfr.
+tabella di seguito riportata):
+
+
+.. image:: img/certificazioni_gdpr.png
+
+
+Le 3 tipologie di supporto sono collegate all’istanza di servizio. Ad
+esempio il cliente può attivare 2 istanze di DBaaS richiedendo il
+supporto Developer sull’istanza di Test e un supporto Premium per
+l’istanza di produzione purchè appartenenti ad Account differenti.
+
+**Riferimenti per il Supporto**
+
+Il Supporto è attivabile dagli utenti esterni sui seguenti canali
+
+Service Portal: chat, compilazione form su Service Portal
+
+E-mail alla casella: hd_servizinivola@csi.it
+
+Centro Unico di Contatto: tel. 011 0824221
