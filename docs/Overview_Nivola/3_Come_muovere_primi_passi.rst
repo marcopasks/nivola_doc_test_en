@@ -6,11 +6,11 @@
 Per inizare a utilizzare la piattaforma **Nivola**
 è necessario procedere seguendo i seguenti passaggi.
 
-    1. **Ricevere Accredito** [1]_
+    1. **L'accreditamento** [1]_
     2. **Completare i Livelli Organizzativi** [2]_
     3. **Attivare Utenti** [3]_
-    4. **Verificare Security Group** [4]_
-    5. **Istanziare Servizi** [5]_
+    4. **Verificare i Security Group** [4]_
+    5. **Attivare i Servizi** [5]_
 
 
 
@@ -20,7 +20,7 @@ Per inizare a utilizzare la piattaforma **Nivola**
 ======================
 
 Il primo passo per fruire dei servizi della piattaforma
-è ricevere dal supporto la comunicazione via e-mail del **primo accredito**. In questo modo l'utente accreditato,
+è ricevere dal Supporto la comunicazione via e-mail del **primo accredito**. In questo modo l'utente accreditato,
 sarà in grado di modellare la struttura organizzativa e conferire le abilitazioni necessarie per l'implementazione
 e gestione dell'infrastruttura che Nivola dovrà contenere.
 
@@ -38,8 +38,8 @@ e della **Divisione** sono la condizione necessaria alla generazione dell'**acco
 
 .. [3]
 
-**Attivare Utenti**
-===================
+**Attivare nuovi Utenti**
+=========================
 
 Successivamente ad aver costituito la struttura organizzativa,
 sarà possibile indicare a **Nivola*** gli **utenti** associati a **ruoli**
@@ -47,8 +47,8 @@ che ad ogni livello, potranno agire sugli oggetti con compiti specifici.
 
 .. [4]
 
-**Verificare Security Group**
-=============================
+**Verificare i Security Group**
+===============================
 
 In ogni **account** saranno istanziati i **servizi**. Per garantire la sicurezza e la connettività
 dell'infrastruttura sarà indispensabile controllare che i **Security Group**, in dotazione all'**account**, rispondano
@@ -59,8 +59,8 @@ dell'infrastruttura da dispiegare nell'account.
 
 .. [5]
 
-**Istanziare Servizi**
-======================
+**Attivare Servizi**
+====================
 Conclusi tutti i passaggi precedenti sarà possibile attivare i **servizi**. La piattaforma **Nivola**,
 attraverso il portale, mette a disposizione gli strumenti utili a
 **creare/modificare/cancellare/monitorare** le entità che compongono l'infrastruttura
