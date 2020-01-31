@@ -1,5 +1,6 @@
 .. _Lavorare_con_STAAS:
 
-**Lavorare con lo STAAS**
-**************************
- TO DO
+**Lavorare con lo Storage as Service**
+**************************************
+
+TO DO
