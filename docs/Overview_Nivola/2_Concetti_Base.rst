@@ -5,7 +5,7 @@
 ********************
 
 **Le availability zones**
---------------------------
+=========================
 
 Le zone di disponibilità (AZ) sono posizioni isolate all'interno delle aree dei data center da cui provengono e operano i servizi cloud: sono dunque aree geografiche in cui risiedono i data center dei fornitori di servizi di cloud pubblico. Le aziende clienti scelgono una o più zone di disponibilità per i loro servizi a seconda delle esigenze aziendali.
 Le aziende selezionano le zone di disponibilità per una serie di motivi, tra cui la conformità e la vicinanza ai clienti finali. Gli amministratori cloud possono anche scegliere di replicare i servizi su più zone di disponibilità per ridurre la latenza o proteggere le risorse. Gli amministratori possono spostare le risorse in un'altra zona di disponibilità in caso di interruzione. Alcuni servizi cloud possono anche essere limitati a determinate regioni o AZ.
@@ -16,7 +16,7 @@ La piattaforma Nivola è dispiegata su un modello multi-region e multi availabil
 
 
 **La struttura organizzativa**
-------------------------------
+==============================
 
 La struttura organizzativa è una suddivisione gerarchica che permette di personalizzare i servizi, l'accesso o le impostazioni per diversi gruppi di utenti o dispositivi. Nella piattaforma Nivola la struttura organizzativa si articola su 3 livelli:
 •	**Organizzazione**: è gerarchicamente l’entità organizzativa più elevata e può coincidere con il nome del cliente. Nella piattaforma le risorse sono a disposizione di varie organizzazioni, che sono però dal punto di vista logico completamente separate e indipendenti;
@@ -29,7 +29,7 @@ La struttura organizzativa è una suddivisione gerarchica che permette di person
 
 
 **Utenti, ruoli ed Account**
-----------------------------
+============================
 Da rivedere le bozze 31/01/2020
 
 
