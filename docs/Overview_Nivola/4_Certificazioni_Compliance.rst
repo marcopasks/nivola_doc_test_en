@@ -1,8 +1,8 @@
 .. _Certificazioni_Compliance:
 
 
-**Certificazioni e Compliance **
-********************************
+**Certificazioni e Compliance**
+*******************************
 
 **ISO 9001:2015**
 
