@@ -4,7 +4,21 @@
 **Certificazioni e Compliance**
 *******************************
 
+Lo sviluppo della piattaforma **Nivola** è stato condotto tenendo in
+grande considerazione tre aspetti fondamentali: - sicurezza informatica
+- organizzazione del servizio - affidabilità.
+
+Partendo da questi pilastri sono state individuati servizi, processi,
+organizzazione e soluzioni informatiche che rispondessero appieno alle
+normative italiane ed internazionali in particolare per i servizi di
+cloud computing e per i data center che ospitano le Availability Zones
+Nivola. Applicando questi pilastri abbiamo ottenuto le più importanti
+Certificazioni in ambito Cloud che ci rendono conformi ai maggiori
+standard di sicurezza e affidabilità.
+
 **ISO 9001:2015**
+
+.. image:: img/iso_9001.png
 
 La Certificazione assicura che il nostro sistema prevede la gestione
 sistematica dei rischi e delle opportunità, il monitoraggio costante dei
@@ -21,6 +35,9 @@ tempi e costi del servizio nell’ambito di:
 
 **ISO 27001:2013**
 
+.. image:: img/iso_27001.png
+
+
 La certificazione assicura che il nostro sistema prevede alla gestione
 della sicurezza delle informazioni per le attività di progettazione,
 realizzazione, erogazione e supporto di servizi di facility management
@@ -28,17 +45,25 @@ per il data center e servizi di cloud computing.
 
 **ISO 27017:2015**
 
+.. image:: img/iso_27017.png
+
 La Certificazione assicura che il nostro Sistema è conforme alle
 indicazioni e raccomandazioni sui controlli da effettuare per garantire
 la sicurezza delle informazioni in ambito Cloud.
 
 **ISO 27018:2014**
 
+.. image:: img/iso_27018.png
+
+
 La Certificazione assicura che il nostro Sistema è conforme alle
 direttive sulla tutela dei dati personali e quindi della privacy dei
 clienti che affidano le loro informazioni a un servizio Cloud.
 
 **ISO 20000-1:2018**
+
+.. image:: img/iso_20000.png
+
 
 La Certificazione assicura che la nostra Organizzazione attua tutte le
 best practices per stabilire, implementare, mantenere e migliorare un
@@ -47,12 +72,17 @@ supportare il management nel ciclo di vita dell’erogazione dei servizi.
 
 **ISO 22301:2012**
 
+.. image:: img/iso_22301.png
+
 La Certificazione assicura che la nostra Organizzazione attua
 comportamenti e raccomandazioni per migliorare la resilienza
 organizzativa di fronte a eventi che possono compromettere il business
 del CSI e la sua capacità di erogare prodotti/servizi.
 
 **ISO 50001:2011**
+
+.. image:: img/iso_50001.png
+
 
 La Certificazione assicura che il nostro Sistema di Gestione
 dell’Energia è stato pianificato e applicato nel rispetto dei requisiti
@@ -69,6 +99,9 @@ l'efficienza energetica dei processi produttivi promuovendo:
    all'efficienza energetica.
 
 **ANSI TIA 942 2017 Rating III**
+
+.. image:: img/tia_942.png
+
 
 La Certificazione assicura la capacità del nostro Data Center di
 garantire la continuità dei servizi erogati. Il Rating III certifica che
@@ -87,7 +120,7 @@ cloud. La Qualifica assicura che nell’erogazione dei nostri servizi alla
 pubblica amministrazione seguiamo tutti gli standard necessari per
 offrire servizi digitali alla PA. Informazioni aggiuntive sono
 visionabili nel Cloud Marketplace di AGID.
-
+https://cloud.italia.it/marketplace/
 
 
 
