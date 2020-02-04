@@ -72,7 +72,7 @@ supportare il management nel ciclo di vita dell’erogazione dei servizi.
 
 **ISO 22301:2012**
 
-.. image:: img/iso_22301.png
+.. image:: img/csq_22301.png
 
 La Certificazione assicura che la nostra Organizzazione attua
 comportamenti e raccomandazioni per migliorare la resilienza
