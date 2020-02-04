@@ -77,7 +77,7 @@ supportare il management nel ciclo di vita dell’erogazione dei servizi.
 
 .. image:: img/csq_22301.png
 
-La Certificazione denota che la nostra Organizzazione mette in atto
+La Certificazione riconosce che la nostra Organizzazione ha messo in atto
 comportamenti e raccomandazioni per migliorare la resilienza
 organizzativa di fronte a eventi che possono compromettere il business
 del CSI e la sua capacità di erogare prodotti/servizi.
