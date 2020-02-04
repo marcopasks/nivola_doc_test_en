@@ -24,6 +24,7 @@ standard di sicurezza e affidabilità.
 .. image:: img/iso_9001.png
    :width: 300px
    :height: 200px
+   :align: center
 
 La Certificazione assicura che il nostro sistema prevede la gestione
 sistematica dei rischi e delle opportunità, il monitoraggio costante dei
@@ -43,6 +44,7 @@ tempi e costi del servizio nell’ambito di:
 .. image:: img/iso_27001.png
    :width: 200px
    :height: 200px
+   :align: center
 
 La certificazione garantisce che la piattaforma ha la gestione
 della sicurezza delle informazioni per le attività di progettazione,
@@ -54,6 +56,7 @@ per il data center e servizi di cloud computing.
 .. image:: img/iso_27017.png
    :width: 200px
    :height: 200px
+   :align: center
 
 La Certificazione indica che Nivola è conforme alle
 indicazioni e raccomandazioni sui controlli da effettuare per garantire
@@ -64,7 +67,7 @@ la sicurezza delle informazioni in ambito Cloud.
 .. image:: img/iso_27018.png
    :width: 200px
    :height: 200px
-
+   :align: center
 
 La Certificazione attesta che il Sistema Nivola è conforme alle
 direttive sulla tutela dei dati personali e quindi della privacy dei
@@ -75,7 +78,7 @@ clienti che affidano le loro informazioni a un servizio Cloud.
 .. image:: img/iso_20000.png
    :width: 200px
    :height: 200px
-
+   :align: center
 
 La Certificazione dimostra che il CSI, come Cloud Provider, attua tutte le
 best practices per stabilire, implementare, mantenere e migliorare un
@@ -87,6 +90,7 @@ supportare il management nel ciclo di vita dell’erogazione dei servizi.
 .. image:: img/csq_22301.png
    :width: 200px
    :height: 200px
+   :align: center
 
 La Certificazione riconosce che la nostra Organizzazione ha messo in atto
 comportamenti e raccomandazioni per migliorare la resilienza
@@ -98,7 +102,7 @@ del CSI e la sua capacità di erogare prodotti/servizi.
 .. image:: img/iso_50001.png
    :width: 200px
    :height: 200px
-
+   :align: center
 
 La Certificazione determina che il nostro Sistema di Gestione
 dell’Energia è stato pianificato e realizzato nel rispetto della
@@ -119,7 +123,7 @@ l'efficienza energetica dei processi produttivi promuovendo:
 .. image:: img/tia_942.png
    :width: 300px
    :height: 200px
-   :align: left
+   :align: center
 
 
 La capacità del nostro Data Center di
