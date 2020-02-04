@@ -22,6 +22,7 @@ standard di sicurezza e affidabilità.
 **ISO 9001:2015**
 
 .. image:: img/iso_9001.png
+   :width: 100px
 
 La Certificazione assicura che il nostro sistema prevede la gestione
 sistematica dei rischi e delle opportunità, il monitoraggio costante dei
@@ -39,6 +40,7 @@ tempi e costi del servizio nell’ambito di:
 **ISO 27001:2013**
 
 .. image:: img/iso_27001.png
+   :width: 100px
 
 
 La certificazione garantisce che la piattaforma ha la gestione
