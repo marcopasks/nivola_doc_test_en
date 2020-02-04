@@ -23,6 +23,7 @@ standard di sicurezza e affidabilità.
 
 .. image:: img/iso_9001.png
    :width: 500px
+   :height: 500px    
 
 La Certificazione assicura che il nostro sistema prevede la gestione
 sistematica dei rischi e delle opportunità, il monitoraggio costante dei
