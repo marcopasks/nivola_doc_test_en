@@ -5,14 +5,17 @@
 *******************************
 
 Lo sviluppo della piattaforma **Nivola** è stato condotto tenendo in
-grande considerazione tre aspetti fondamentali: - sicurezza informatica
-- organizzazione del servizio - affidabilità.
+considerazione tre aspetti vincolanti:
 
-Partendo da questi pilastri sono state individuati servizi, processi,
+- **sicurezza informatica**
+- **organizzazione del servizio**
+- **affidabilità**.
+
+Partendo da questi pilastri sono stati individuati servizi, processi,
 organizzazione e soluzioni informatiche che rispondessero appieno alle
 normative italiane ed internazionali in particolare per i servizi di
 cloud computing e per i data center che ospitano le Availability Zones
-Nivola. Applicando questi pilastri abbiamo ottenuto le più importanti
+Nivola. Applicando questi vincoli abbiamo ottenuto le più importanti
 Certificazioni in ambito Cloud che ci rendono conformi ai maggiori
 standard di sicurezza e affidabilità.
 
@@ -38,7 +41,7 @@ tempi e costi del servizio nell’ambito di:
 .. image:: img/iso_27001.png
 
 
-La certificazione assicura che il nostro sistema prevede alla gestione
+La certificazione garantisce che la piattaforma ha la gestione
 della sicurezza delle informazioni per le attività di progettazione,
 realizzazione, erogazione e supporto di servizi di facility management
 per il data center e servizi di cloud computing.
@@ -47,7 +50,7 @@ per il data center e servizi di cloud computing.
 
 .. image:: img/iso_27017.png
 
-La Certificazione assicura che il nostro Sistema è conforme alle
+La Certificazione indica che Nivola è conforme alle
 indicazioni e raccomandazioni sui controlli da effettuare per garantire
 la sicurezza delle informazioni in ambito Cloud.
 
@@ -56,7 +59,7 @@ la sicurezza delle informazioni in ambito Cloud.
 .. image:: img/iso_27018.png
 
 
-La Certificazione assicura che il nostro Sistema è conforme alle
+La Certificazione attesta che il Sistema Nivola è conforme alle
 direttive sulla tutela dei dati personali e quindi della privacy dei
 clienti che affidano le loro informazioni a un servizio Cloud.
 
@@ -65,7 +68,7 @@ clienti che affidano le loro informazioni a un servizio Cloud.
 .. image:: img/iso_20000.png
 
 
-La Certificazione assicura che la nostra Organizzazione attua tutte le
+La Certificazione dimostra che il CSI, come Cloud Provider, attua tutte le
 best practices per stabilire, implementare, mantenere e migliorare un
 sistema di gestione dei servizi, ovvero un framework di riferimento per
 supportare il management nel ciclo di vita dell’erogazione dei servizi.
@@ -74,7 +77,7 @@ supportare il management nel ciclo di vita dell’erogazione dei servizi.
 
 .. image:: img/csq_22301.png
 
-La Certificazione assicura che la nostra Organizzazione attua
+La Certificazione denota che la nostra Organizzazione mette in atto
 comportamenti e raccomandazioni per migliorare la resilienza
 organizzativa di fronte a eventi che possono compromettere il business
 del CSI e la sua capacità di erogare prodotti/servizi.
@@ -84,9 +87,9 @@ del CSI e la sua capacità di erogare prodotti/servizi.
 .. image:: img/iso_50001.png
 
 
-La Certificazione assicura che il nostro Sistema di Gestione
-dell’Energia è stato pianificato e applicato nel rispetto dei requisiti
-legislativi cogenti in campo energetico ed è finalizzato a garantire
+La Certificazione determina che il nostro Sistema di Gestione
+dell’Energia è stato pianificato e realizzato nel rispetto della
+legislazione in materia energetica ed è volto a garantire
 l'efficienza energetica dei processi produttivi promuovendo:
 
 -  il risparmio energetico e la riduzione progressiva degli sprechi;
@@ -103,8 +106,8 @@ l'efficienza energetica dei processi produttivi promuovendo:
 .. image:: img/tia_942.png
 
 
-La Certificazione assicura la capacità del nostro Data Center di
-garantire la continuità dei servizi erogati. Il Rating III certifica che
+La capacità del nostro Data Center di
+garantire la continuità dei servizi erogati è garantita dall'attestato ottenuto. Il Rating III dimostra che
 il nostro Data Center è dotato di più sistemi di alimentazione e più
 sistemi di raffreddamento. Tutti i componenti sono ridondati. La maggior
 parte delle manutenzioni e degli aggiornamenti non richiedono di
@@ -115,16 +118,13 @@ data center e l'uptime minimo è del 99,98% su base annua.
 
 La Qualificazione a CSP (Cloud Service Provider) della PA affidataci da
 **AGID** ci posiziona agli occhi delle pubbliche amministrazioni come un
-Cloud Provider competente e affidabile cui è possibile demandare servizi
+Cloud Provider competente e affidabile cui è possibile demandare i servizi
 cloud. La Qualifica assicura che nell’erogazione dei nostri servizi alla
-pubblica amministrazione seguiamo tutti gli standard necessari per
+pubblica amministrazione seguiamo tutti gli standard previsti per
 offrire servizi digitali alla PA. Informazioni aggiuntive sono
 visionabili nel Cloud Marketplace di AGID.
 https://cloud.italia.it/marketplace/
 
-
-
-.. image:: img/certificazioni_gdpr.png
 
 
 
