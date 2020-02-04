@@ -41,7 +41,7 @@ tempi e costi del servizio nell’ambito di:
 **ISO 27001:2013**
 
 .. image:: img/iso_27001.png
-   :width: 300px
+   :width: 200px
    :height: 200px
 
 La certificazione garantisce che la piattaforma ha la gestione
