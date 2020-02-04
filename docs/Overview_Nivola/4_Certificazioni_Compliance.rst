@@ -117,9 +117,9 @@ l'efficienza energetica dei processi produttivi promuovendo:
 **ANSI TIA 942 2017 Rating III**
 
 .. image:: img/tia_942.png
-   :width: 200px
+   :width: 300px
    :height: 200px
-   :align: right
+   :align: left
 
 
 La capacità del nostro Data Center di
