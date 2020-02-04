@@ -22,7 +22,7 @@ standard di sicurezza e affidabilità.
 **ISO 9001:2015**
 
 .. image:: img/iso_9001.png
-   :width: 100px
+   :width: 500px
 
 La Certificazione assicura che il nostro sistema prevede la gestione
 sistematica dei rischi e delle opportunità, il monitoraggio costante dei
