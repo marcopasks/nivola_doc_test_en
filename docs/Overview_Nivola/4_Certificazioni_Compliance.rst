@@ -52,6 +52,8 @@ per il data center e servizi di cloud computing.
 **ISO 27017:2015**
 
 .. image:: img/iso_27017.png
+   :width: 200px
+   :height: 200px
 
 La Certificazione indica che Nivola è conforme alle
 indicazioni e raccomandazioni sui controlli da effettuare per garantire
@@ -60,6 +62,8 @@ la sicurezza delle informazioni in ambito Cloud.
 **ISO 27018:2014**
 
 .. image:: img/iso_27018.png
+   :width: 200px
+   :height: 200px
 
 
 La Certificazione attesta che il Sistema Nivola è conforme alle
@@ -69,6 +73,8 @@ clienti che affidano le loro informazioni a un servizio Cloud.
 **ISO 20000-1:2018**
 
 .. image:: img/iso_20000.png
+   :width: 200px
+   :height: 200px
 
 
 La Certificazione dimostra che il CSI, come Cloud Provider, attua tutte le
@@ -79,6 +85,8 @@ supportare il management nel ciclo di vita dell’erogazione dei servizi.
 **ISO 22301:2012**
 
 .. image:: img/csq_22301.png
+   :width: 200px
+   :height: 200px
 
 La Certificazione riconosce che la nostra Organizzazione ha messo in atto
 comportamenti e raccomandazioni per migliorare la resilienza
@@ -88,6 +96,8 @@ del CSI e la sua capacità di erogare prodotti/servizi.
 **ISO 50001:2011**
 
 .. image:: img/iso_50001.png
+   :width: 200px
+   :height: 200px
 
 
 La Certificazione determina che il nostro Sistema di Gestione
@@ -107,6 +117,9 @@ l'efficienza energetica dei processi produttivi promuovendo:
 **ANSI TIA 942 2017 Rating III**
 
 .. image:: img/tia_942.png
+   :width: 200px
+   :height: 200px
+   :align: right
 
 
 La capacità del nostro Data Center di
