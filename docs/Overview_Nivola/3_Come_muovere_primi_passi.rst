@@ -16,14 +16,13 @@ Per inizare a utilizzare la piattaforma **Nivola**
 
 .. [1]
 
-**Ricevere Accredito**
-======================
+**L'accreditamento**
+====================
 
-Il primo passo per fruire dei servizi della piattaforma
-è ricevere dal Supporto la comunicazione via e-mail del **primo accredito**. In questo modo l'utente accreditato,
-sarà in grado di modellare la struttura organizzativa e conferire le abilitazioni necessarie per l'implementazione
-e gestione dell'infrastruttura che Nivola dovrà contenere.
-
+Il primo passo per fruire dei servizi della piattaforma è ricevere dal Nivola Support Center la comunicazione via e-mail
+del primo accredito. In questo modo il Cliente riceve le informazioni relative al Nome dell'Organizzazione, Divisione e Account
+e l'elenco dei primi utenti accreditati contestualmente alle istruzioni di collegamento.
+Sarà quindi in grado di iniziare a creare i primi servizi.
 
 .. [2]
 
@@ -31,7 +30,7 @@ e gestione dell'infrastruttura che Nivola dovrà contenere.
 ======================================
 
 La piattaforma si compone di 3 livelli organizzativi quello deputato ad ospitare i servizi è
-l'**account**.  Nel caso, l'**account** non fosse stato definito dal supporto, prima di crearlo sarà indispensabile
+l'**account**.  Nel caso, l'**account** non fosse stato definito dal Nivola Support Center, prima di crearlo sarà indispensabile
 individuare o creare una **Divisione** da cui farlo dipendere. La presenza dell'**Organizzazione**
 e della **Divisione** sono la condizione necessaria alla generazione dell'**account**.
 

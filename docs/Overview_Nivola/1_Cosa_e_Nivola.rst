@@ -21,6 +21,12 @@ della collaborazione di migliaia di sviluppatori. Alla community partecipano pi�
 180 paesi nel mondo. Nivola estende le funzionalità base di OpenStack con servizi e processi specifici per la PA e per le imprese  ed il codice è rilasciato alla community open source sotto licenza
 GPL v3, coinvolgendo il mondo della ricerca e le stesse amministrazioni interessate a sostenerne lo sviluppo.
 
+
+**Un datacenter con la flessibilità di un software**
+----------------------------------------------------
+TO DO
+
+
 **Un mondo di servizi semplici e personalizzabili**
 ---------------------------------------------------
 
