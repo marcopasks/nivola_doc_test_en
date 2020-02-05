@@ -1,4 +1,4 @@
-.. _Lavorare_con_compute_service:
+.. _Lavorare_con_portale:
 
 **Lavorare con il Portale**
 ***************************
