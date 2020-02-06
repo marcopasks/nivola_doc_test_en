@@ -12,7 +12,7 @@ parte destra del video con l'**Elenco DBAAS** e i pulsanti da cui
 attivare le operazioni.
 
 Per **gestione del DBAAS** si intendono tutte le funzioni per l'utilizzo
-dell'istanza DB in precedenza creata :ref:`_Creare_DBAAS`.
+dell'istanza DB in precedenza creata :ref:`Creare_DBAAS`.
 Appartengono a questo gruppo di operazioni:
 
     1. **Cercare DBAAS** [1]_.
