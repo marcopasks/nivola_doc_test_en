@@ -30,12 +30,12 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -382,19 +382,19 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS.rst">
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>

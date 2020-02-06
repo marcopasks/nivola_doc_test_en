@@ -3,4 +3,8 @@
 **Lavorare con lo Storage as Service**
 **************************************
 
-TO DO
+.. toctree::
+   :maxdepth: 2
+
+   16.1_Creare_STAAS.rst
+   16.2_Gestire_DBAAS.rst
