@@ -46,9 +46,7 @@ tecnologie e con differenti flavors (caratteristiche del servizio in termini di
 CPU, RAM e disco):
 
     1. :ref:`Creare istanze del DBAAS <Creare_DBAAS>`.;
-
     2. :ref:`Gestire istanze del DBAAS <Gestire_DBAAS>`.;
-
     3. :ref:`Accedere al DbaaS <Accedere_DBAAS>`.;
 
 3. Reti e Sicurezza: insieme di funzioni necessarie alla gestione delle risorse di rete,
@@ -63,7 +61,6 @@ dalla piattaforma o con altri servizi installati dal consumer.
 
     1. :ref:`Creare Storage as Service <Creare_STAAS>`.;
     2. :ref:`Gestire Storage as Service  <Gestire_STAAS>`.;
-    3. :ref:`Usare il proprio Storage as Service <Lavorare_con_STAAS>`.;
 
 
 5. :ref:`Attivare il Nivola Support Center <Attivare_il_Supporto>`.:
