@@ -23,7 +23,7 @@ Appartengono a questo gruppo di operazioni:
 .. [1]
 
 **Cercare un istanza Dbaas**
-===========================
+============================
 
 All'interno di ciascun Account è possibile fare ricerche su tutte le istanze create
 La ricerca è eseguita tramite una stringa inserita dall’operatore.
