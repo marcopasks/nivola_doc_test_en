@@ -45,8 +45,8 @@ La piattaforma espone diversi Servizi, utilizzabili a seconda del ruolo con cui 
 tecnologie e con differenti flavors (caratteristiche del servizio in termini di
 CPU, RAM e disco):
 
-    1. :ref:`Creare istanze del DBAAS <Creare_DBAAS>`.;
-    2. :ref:`Gestire istanze del DBAAS <Gestire_DBAAS>`.;
+    1. :ref:`Creare istanze del DbaaS <Creare_DBAAS>`.;
+    2. :ref:`Gestire istanze del DbaaS <Gestire_DBAAS>`.;
     3. :ref:`Accedere al DbaaS <Accedere_DBAAS>`.;
 
 3. Reti e Sicurezza: insieme di funzioni necessarie alla gestione delle risorse di rete,
