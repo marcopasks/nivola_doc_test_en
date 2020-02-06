@@ -1,7 +1,7 @@
 .. _Cancellare_DBAAS:
 
-**Cancellare un Istanza Database as Sevicee*
-******************************************
+**Cancellare un Istanza Database as Service*
+********************************************
 
 Per **cancellare** un **istanza DBAAS** seguire i seguenti passaggi:
 
