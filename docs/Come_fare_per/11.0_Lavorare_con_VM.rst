@@ -1,12 +1,12 @@
-**Lavorare con VM**
-###################
+**Lavorare con Virtual Machine**
+################################
 
-In questa sezione parliamo delle VM.
+Tutte le funzioni per gestire il ciclo di vita delle Virtual Machine
 
 .. toctree::
    :maxdepth: 2
  
-   10.1_Creare_VM.rst
-   10.2_Gestire_VM.rst
-   10.3_Cancellare_VM.rst
-   10.4_Gestione_chiavi_ssh.rst
+   11.1_Creare_VM.rst
+   11.2_Gestire_VM.rst
+   11.3_Cancellare_VM.rst
+   11.4_Gestione_chiavi_ssh.rst
