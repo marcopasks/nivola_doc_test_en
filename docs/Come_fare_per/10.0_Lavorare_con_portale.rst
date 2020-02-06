@@ -36,9 +36,9 @@ La piattaforma espone diversi Servizi, utilizzabili a seconda del ruolo con cui 
 
 1. Compute dove è possibile creare, clonare stoppare, attivare e cancellare le Virtual Machine.
 
-    1. :ref:`Creare VM <Creare_VM>`
-    2. :ref:`Gestire VM <Gestire_VM>`
-    3. :ref:`Cancellare VM <Cancellare_VM>`
+    1. :ref:`**Creare VM** <Creare_VM>`
+    2. :ref:`**Gestire VM** <Gestire_VM>`
+    3. :ref:`**Cancellare VM** <Cancellare_VM>`
 
 
 2. Database: consente di fruire dei servizi di database su differenti
