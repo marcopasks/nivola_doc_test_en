@@ -56,7 +56,7 @@ della sicurezza, della microsegmentazione, di bilanciamento applicativo sia loca
 che geografico, di gestione dei nomi DNS statici e dinamici:
 
     1. :ref:`Creare Security Group <Creare_Security_Group>`.;
-    2. :ref:`Gestire le regole del Security Group <Gestione_regole_SG>`.;
+    2. :ref:`Gestire le regole del Security Group <Gestire_regole_SG>`.;
 
 4. Storage: permette di accedere a uno spazio disco con protocolli NFS e CIFS  ed è integrato con gli altri servizi previsti
 dalla piattaforma o con altri servizi installati dal consumer.
@@ -66,7 +66,5 @@ dalla piattaforma o con altri servizi installati dal consumer.
     3. :ref:`Usare il proprio Storage as Service <Lavorare_con_STAAS>`.;
 
 
-5. :ref:`Interagire con il Nivola Support Center <Intergagire_con_il_Supporto>`.:
-
-6. :ref:`Attivare il **Nivola Support Center**  <Attivare_il_Supporto>`.:
+5. :ref:`Attivare il Nivola Support Center <Attivare_il_Supporto>`.:
 

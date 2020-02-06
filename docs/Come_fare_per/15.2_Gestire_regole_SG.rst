@@ -1,7 +1,7 @@
 .. _Gestire_regole_SG:
 
-**Gestire regole Security group**
-*********************************
+**Gestire regole del Security Group**
+*************************************
 
 La funzione rientra in **Reti e Sicurezza**.  :ref:`La creazione del Security Group <Creare_Security_Group>`
 è utilizzabile dalla parte sinistra dello schermo,
