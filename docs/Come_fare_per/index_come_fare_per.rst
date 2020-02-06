@@ -5,7 +5,7 @@ In questa sezione si trovano una serie di tutorial per iniziare fin da subito
 ad interagire con la piattaforma, attraverso il portale.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
  
    02_Come_muovere_primi_passi.rst
    10.0_Lavorare_con_portale.rst
@@ -13,6 +13,7 @@ ad interagire con la piattaforma, attraverso il portale.
       10.2_Gestire_VM.rst
       10.3_Cancellare_VM.rst
       10.4_Gestione_chiavi_ssh.rst
+   11.0_Lavorare_con_VM.rst
    14.0_Lavorare_con_DBAAS.rst
    14.1_Creare_DBAAS.rst
    14.2_Gestire_DBAAS.rst
