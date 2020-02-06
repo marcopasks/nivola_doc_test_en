@@ -15,3 +15,12 @@ bloccano gli accessi da e verso altri account e/o reti.
 Gli utenti possono procedere in autonomia per quanto riguarda la creazione di regole
 che permettono l’accesso da internet verso il proprio account o
 da rete di backend verso il proprio account.
+
+
+.. toctree::
+   :maxdepth: 2
+
+   15.1_Creare_Security_Group.rst
+   15.2_Gestire_regole_SG.rst
+
+
