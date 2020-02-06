@@ -1,0 +1,12 @@
+**Lavorare con VM**
+###################
+
+In questa sezione parliamo delle VM.
+
+.. toctree::
+   :maxdepth: 2
+ 
+   10.1_Creare_VM.rst
+   10.2_Gestire_VM.rst
+   10.3_Cancellare_VM.rst
+   10.4_Gestione_chiavi_ssh.rst
