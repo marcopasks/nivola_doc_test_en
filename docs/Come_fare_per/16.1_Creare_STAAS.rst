@@ -1,7 +1,7 @@
 .. _Creare_STAAS:
 
-**Creare con lo Storage as Service**
-************************************
+**Creare lo Storage as Service**
+********************************
 
 TO DO
 
