@@ -1,7 +1,7 @@
 .. _Creare_DBAAS:
 
-**Creare DBAAS**
-*****************
+**Creare istanze del Database as Sevice**
+******************************************
 
 La funzione rientra nel **database**. La **creazione DBAAS** è utilizzabile dalla parte
 sinistra dello schermo, cliccando sulla pulsante **Istanze DBAAS**

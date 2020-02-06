@@ -1,7 +1,7 @@
 .. _Accedere_DBAAS:
 
-**Come accedere ai DB as a Service**
-************************************
+**Come accedere al Database as Sevice**
+***************************************
 
 L’accesso alle base dati può essere oltre che applicativo anche a livello utente. Quest’ultimo accesso può avvenire
 da rete VPN o dalla propria postazione di lavoro, esso però, non è diretto. Infatti, l’accesso avviene tramite un haproxy,
