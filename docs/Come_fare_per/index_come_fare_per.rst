@@ -20,8 +20,8 @@ ad interagire con la piattaforma, attraverso il portale.
       14.3_Cancellare_DBAAS.rst
       14.6_Accedere_DBAAS.rst
    15.0_Lavorare_con_i_servizi_di_rete.rst
-   15.1_Creare_Security_Group.rst
-   15.2_Gestire_regole_SG.rst
+      15.1_Creare_Security_Group.rst
+      15.2_Gestire_regole_SG.rst
    16.0_Lavorare_con_STAAS.rst
       16.1_Creare_STAAS.rst
       16.2_Gestire_STAAS.rst
