@@ -7,33 +7,28 @@
 **Le availability zones**
 =========================
 
-Le zone di disponibilità (AZ) sono posizioni isolate all'interno delle
-aree dei data center da cui sono forniti e operano i servizi cloud: sono
-dunque aree geografiche in cui risiedono i data center dei fornitori di
-servizi di cloud pubblico. Le aziende clienti scelgono una o più zone di
-disponibilità per i loro servizi a seconda delle esigenze aziendali.
-
-Le aziende clienti selezionano le zone di disponibilità per una serie di
-motivi, tra cui la conformità e la vicinanza ai loro clienti finali. Gli
-utenti amministratori delle risorse in cloud possono anche scegliere di
-replicare i servizi su più zone di disponibilità per ridurre la latenza
-o proteggere le risorse. Gli utenti amministratori possono spostare le
-risorse in un'altra zona di disponibilità in caso di interruzione.
-Alcuni servizi cloud possono anche essere limitati a determinate regioni
-o AZ.
-
-La piattaforma Nivola è dispiegata su un modello multi-region e multi
-availability zone. Attualmente (2020) dispone di una unica region e di 3
-AZ ospitate in 3 siti presso i data center del CSI Piemonte. I due siti
-di Torino e il sito di Vercelli sono collegati tra loro tramite anello
-in fibra ottica a bassissima latenza.
+Sono le aree geografiche in cui risiedono i data center dei fornitori di servizi di cloud pubblico. Le aziende clienti
+scelgono una o più zone di disponibilità per i loro servizi a seconda delle esigenze aziendali. Le Availability Zones
+sono zone di disponibilità costituite da infrastrutture indipendenti, isolate e ospitate all'interno dei data center
+del CSI Piemonte. In fase di creazione dei propri servizi è possibile scegliere l'Availability zone
+in base a specifiche esigenze di distribuzione geografica mantenendo inalterata l'alta affidabilità.
 
 
-.. image:: img/Avaliability-zones.png
+.. image:: img/Availability-zones.png
 
 
 **La struttura organizzativa**
 ==============================
+
+All'interno dNivola sarà possibile modellare una struttura organizzativa su tre livelli
+in modo da permettere di attritbuire responsabilità e gestione dei servizi
+secondo una gerarchia precisa. Nell'**Account** sarà istanziata l'infrastruttura
+in modo da soddisfare il fabbisogno tecnologico e di sicurezza necessario. Alla **Divisione**
+è demandato il compito di controllo consumo delle risorse degli Account che potrà creare
+in assoluta  autonomia. Il vertice della struttura è costituito dall'**Organizzazione**
+che avrà la visione completa dell'utilizzo della piattaforma con la possibilità di declinarla
+in base alle Divisioni e agli Account.
+
 
 
 La struttura organizzativa è la suddivisione gerarchica che permette di

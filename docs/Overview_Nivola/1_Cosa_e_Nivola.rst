@@ -22,15 +22,10 @@ della collaborazione di migliaia di sviluppatori. Alla community partecipano pi�
 GPL v3, coinvolgendo il mondo della ricerca e le stesse amministrazioni interessate a sostenerne lo sviluppo.
 
 
-**Un datacenter con la flessibilità di un software**
-----------------------------------------------------
-TO DO
-
-
 **Un mondo di servizi semplici e personalizzabili**
 ---------------------------------------------------
 
 Nivola semplifica l’adozione, l’accesso e l’utilizzo di nuovi servizi applicativi in cloud, indipendentemente dal modello
 di sourcing scelto dall’amministrazione, sia esso di sviluppo interno, di acquisizione dal mercato o di riuso da altra
-amministrazione. Il Cliente ha a disposizione un ampio catalogo di servizi facilmente adattabili alle proprie esigenze, esposti
- attraverso le Application Program Interfaces (API), un insieme uniforme di funzionalità accessibili via software.
+amministrazione. Il Cliente ha a disposizione un ampio catalogo di servizi facilmente adattabili alle proprie esigenze,
+esposti attraverso le Application Program Interfaces (API), un insieme uniforme di funzionalità accessibili via software.
