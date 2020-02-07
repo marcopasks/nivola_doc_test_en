@@ -20,11 +20,11 @@ in base a specifiche esigenze di distribuzione geografica mantenendo inalterata 
 **La struttura organizzativa**
 ==============================
 
-All'interno dNivola sarà possibile modellare una struttura organizzativa su tre livelli
+All'interno di Nivola sarà possibile modellare una struttura organizzativa su tre livelli
 in modo da permettere di attritbuire responsabilità e gestione dei servizi
 secondo una gerarchia precisa. Nell'**Account** sarà istanziata l'infrastruttura
 in modo da soddisfare il fabbisogno tecnologico e di sicurezza necessario. Alla **Divisione**
-è demandato il compito di controllo consumo delle risorse degli Account che potrà creare
+è demandato il compito di controllo del consumo delle risorse degli Account che potrà creare
 in assoluta  autonomia. Il vertice della struttura è costituito dall'**Organizzazione**
 che avrà la visione completa dell'utilizzo della piattaforma con la possibilità di declinarla
 in base alle Divisioni e agli Account.
