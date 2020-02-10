@@ -73,5 +73,5 @@ attraverso le seguenti operazioni:
         •	Definire l'intervallo delle porte nei campi **Da Porta** **A Porta**;
         •	La **Descrizione** della regola è da inserire nel textbox dedicato;
 
-    3. Al termine, per rendere cogente la regola prodotto, premere il pulsante **SALVA REGOLA**;
+    3. Al termine, per confermare la regola inserita, premere il pulsante **SALVA REGOLA**;
 
