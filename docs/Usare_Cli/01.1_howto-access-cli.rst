@@ -17,5 +17,5 @@ The second, used by business user is:
     ssh <login psnet>@cmpto2-cons02.site02.nivolapiemonte.it
 
 
-The "login psnet" is provided by Nivola  Center.
+The "login psnet" is provided by Nivola  Support Center.
 
