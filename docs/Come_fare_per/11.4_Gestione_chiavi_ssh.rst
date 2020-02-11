@@ -11,12 +11,12 @@ La funzione è utilizzabile da **Reti e Sicurezza** cliccando sulla voce **Chiav
 E' possibile creare **chiavi ssh** attraverso 2 metodi [1]_ [2]_
 ma per entrambi è necessario rispettare questi vincoli:
 
-- Il **nome della chiave ssh** deve essre univoco_ in tutto il sistema.
+- Il **nome della chiave ssh** deve essre **univoco** in tutto il sistema.
 
-- Il **nome della chiave ssh** non può superare i 40_ caratteri_
+- Il **nome della chiave ssh** non può superare i 40 caratteri
 
 - Nel **nome della chiave ssh** oltre le lettere e i numeri
-  gli unici caratteri_ particolari_ ammessi_ sono **"_"** e **"-"**
+  gli unici caratteri particolari ammessi sono **"_"** e **"-"**
 
 
 .. image:: img/Add_VM.png
@@ -63,4 +63,4 @@ Il sistema chiederà conferma dell'operazione:
 
 .. image:: img/Keyssh-conferma-cancellazione.png
 
-Confermare, cliccare su **"SI"** e la chiave verrà eliminata, scomparendo dall'elenco.
+Confermare, cliccando su **"SI"** e la chiave verrà eliminata, scomparendo dall'elenco.
