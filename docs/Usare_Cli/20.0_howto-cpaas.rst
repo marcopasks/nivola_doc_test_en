@@ -8,6 +8,7 @@ From CLI is possible to manage the Virtual Machines (VM). Generally the life cyc
 the following steps.
 
 - [Create]_ your Virtual machine
+- [Access]_ your Virtual machine
 - [Verify]_ the virtual machine into account
 - [Update]_ Virtual Machine
 - [Stop]_ Virtual Machine
@@ -208,12 +209,55 @@ To see the VM is running use the list command with the following syntax
        b0633d20-399e-4168-9f13-60fba49a40fe  vm-demo           vm.l8.large  running  2019-02-27T09:44:34Z  account-demo  SiteTorino02     10.138.160.62  vm-demo.site02.nivolapiemonte.it             Centos7  SubnetBE-torino02
 
 
+.. [Access]
+
+How to List Virtual Machine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The command below is used to acces on Virtual machine instantiated into your account.
+
+
+**Access**:
+
+
+.. code-block:: bash
+
+    $  beehive ssh nodes connect <node> [nodeuser=..] [options ...]
+
+      <node> is node name or uuid or ipadress
+      <nodeuser> is node user default is is root
+
+        optional arguments:
+        -h, --help            show this help message and exit
+        --debug               toggle debug output
+        --quiet               suppress all output
+        -o {json}             output handler
+        -v, --version         show program's version number and exit
+        -k KEY, --key KEY     Secret key file to use for encryption/decryption
+        --vault VAULT         Ansible vault password to use for inventory decryption
+        -e ENV, --env ENV     Execution environment
+        -E ENVS, --envs ENVS  Comma separated execution environments
+        -f FRMT, --frmt FRMT  response format
+        --color COLOR         response colered. Can be true or false. [default=true]
+        --verbose VERBOSITY   ansible verbosity
+        --cmds                list available commands
+        --notruncate          disable long string truncation
+        --truncate TRUNCATE   set max length of long string
+        --curl                log curl request
+        --fields FIELDS       response fields
+        --afields AFIELDS     response additional fields
+        -y, --assumeyes       Assume that the answer to any question which would be
+                              asked is yes.
+        -rt, --runtime        Enable command duration log.
+
+
+
 .. [Verify]
 
 How to List Virtual Machine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The command below is used to ontain the list Virtual machine instantiated into account.
+The command below is used to ontain the list Virtual machine instantiated into your account.
 
 
 **list**:

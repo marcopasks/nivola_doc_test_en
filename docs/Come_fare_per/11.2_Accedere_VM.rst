@@ -1,0 +1,11 @@
+.. _Accedere_VM:
+
+**Accedere alla Virtual Machine**
+=================================
+
+I requisiti necessari sono avere una  **login** e una **password** forniti dal **Nivola Support Center**.
+Verificata questa condizione procedere come segue:
+
+1) :ref:`Accedere alla Commad Line <howto-access-cli>`
+2) :ref:`Accedere allla VM seguendo quanto descritto nel paragrafo *Access your Virtual machine* <howto-cpaas>`
+

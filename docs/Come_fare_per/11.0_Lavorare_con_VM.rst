@@ -7,6 +7,7 @@ Tutte le funzioni per gestire il ciclo di vita delle Virtual Machine
    :maxdepth: 2
  
    11.1_Creare_VM.rst
-   11.2_Gestire_VM.rst
-   11.3_Cancellare_VM.rst
-   11.4_Gestione_chiavi_ssh.rst
+   11.2_Accedere_VM.rst
+   11.3_Gestire_VM.rst
+   11.4_Cancellare_VM.rst
+   11.5_Gestione_chiavi_ssh.rst
