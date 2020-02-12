@@ -18,7 +18,7 @@ Per la creazione di share, procedere come segue:
 .. image:: img/STAAS_crea_dimensioni.png
 
 4. Indicare dimensione dello Share indicando uno dei valori presenti bnella **combo box** e proseguire
-premendo il pulsante **VAI A NETWORKY**;
+premendo il pulsante **VAI A NETWORK**;
 
 .. image:: img/STAAS_crea_dimensioni_combo.png
 
@@ -31,4 +31,4 @@ Subnet**.  Al termine cliccare su **VAI A RIEPILOGO**;
 7. Controllare i parametri inseriti e premere, **CONFERMA E CREA SHARE** per vedere lo storage creato
 comparire nell'elenco;
 
-.. image:: img/STAAS_crea_vai_CONFERMA.png
+.. image:: img/STAAS_crea_vai_conferma.png
