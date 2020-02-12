@@ -7,7 +7,7 @@ Il servizioè attivabile dalla parte
 sinistra dello schermo, cliccando sulla label **Shares** sotto **Storage**.
 
 
-
+.. image:: img/STAAS_collegarsi.png
 
 
 

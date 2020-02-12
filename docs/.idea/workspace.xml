@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/11.2_Accedere_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/11.2_Accedere_VM.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +40,12 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/11.2_Accedere_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -131,8 +131,8 @@
         <option value="$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst" />
         <option value="$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/16.1_Creare_STAAS.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/11.2_Accedere_VM.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst" />
       </list>
     </option>
   </component>
@@ -160,6 +160,12 @@
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
@@ -383,16 +389,7 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_portale.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/16.1_Creare_STAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Usare_Cli/01.1_howto-access-cli.rst">
@@ -402,6 +399,15 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.2_Accedere_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
