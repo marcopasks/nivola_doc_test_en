@@ -24,8 +24,8 @@
 #yucca-footer .footer-banner{flex-grow: 1;}
 #yucca-footer .footer-intro {flex-grow: 1;background-position: top left 15px; padding-top: 45px; padding-left: 0px; }
 
-#yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png); background-size: 25% 25%;}
-#yucca-footer .footer-banner .logo-csi {background-image: url(../img/Logo_CSI_negativo.png);}
+#yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png); }
+#yucca-footer .footer-banner .logo-csi {background-image: url(../img/Logo_CSI_negativo.png); background-size: 25% 25%;}
 #yucca-footer .footer-banner .logo-rp, #yucca-footer .footer-banner .logo-csi{display: block;width: auto;height: 51px;background-position: center center;background-repeat: no-repeat;background-color: transparent;}
 
 #yucca-footer .footer-menu {border-top: 1px solid #646a6a;}
