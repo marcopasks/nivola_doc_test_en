@@ -22,10 +22,10 @@
 #yucca-footer{margin-top: 1.618em; padding: 1.618em 3.236em;background-color: #ecf1ed;}
 #yucca-footer .footer-info{display: flex;}
 #yucca-footer .footer-banner{flex-grow: 1;}
-#yucca-footer .footer-intro {flex-grow: 1;background-position: top left 15px; background: url(../img/logonivola_header_3.png) no-repeat; padding-top: 45px; padding-left: 0px; }
+#yucca-footer .footer-intro {flex-grow: 1;background-position: top left 15px; padding-top: 45px; padding-left: 0px; }
 
-#yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png);}
-#yucca-footer .footer-banner .logo-csi {background-image: url(../img/logo_csipiemonte_footer.png);}
+#yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png); }
+#yucca-footer .footer-banner .logo-csi {background-image: url(../img/Logo_CSI_negativo.png); background-size: 50% 50%;}
 #yucca-footer .footer-banner .logo-rp, #yucca-footer .footer-banner .logo-csi{display: block;width: auto;height: 51px;background-position: center center;background-repeat: no-repeat;background-color: transparent;}
 
 #yucca-footer .footer-menu {border-top: 1px solid #646a6a;}
