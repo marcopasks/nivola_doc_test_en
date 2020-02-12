@@ -3,6 +3,15 @@
 **Lavorare con lo Storage as Service**
 **************************************
 
+Il servizioè attivabile dalla parte
+sinistra dello schermo, cliccando sulla label **Shares** sotto **Storage**.
+
+
+
+
+
+
+
 .. toctree::
    :maxdepth: 2
 

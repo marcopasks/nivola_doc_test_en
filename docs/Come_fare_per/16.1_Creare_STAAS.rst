@@ -2,6 +2,5 @@
 
 **Creare lo Storage as Service**
 ********************************
-
-TO DO
-
+La funzione rientra nel servizio  **Storage**. La **creazione** è attivabile dalla parte
+sinistra dello schermo, cliccando sulla label **Shares** sotto **Storage**
