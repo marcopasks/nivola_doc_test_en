@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/11.2_Gestire_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/11.3_Cancellare_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/11.4_Cancellare_VM.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/11.4_Gestione_chiavi_ssh.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/11.5_Gestione_chiavi_ssh.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Usare_Cli/20.0_howto-cpaas.rst" afterDir="false" />
-    </list>
+    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +38,12 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/11.2_Accedere_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -394,9 +387,6 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.5_Gestione_chiavi_ssh.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_portale.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -407,6 +397,9 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.2_Accedere_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
