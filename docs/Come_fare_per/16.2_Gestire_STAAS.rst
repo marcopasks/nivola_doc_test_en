@@ -45,7 +45,7 @@ Per aumentare o diminuire la capienza del disco, seguire i seguenti passaggi:
 
        .. image:: img/STAAS_selezionato.png
 
-    2. Cliccare su tasto **Pannello gestione Volume**;
+    2. Premere il tasto **Pannello gestione Volume**;
 
       .. image:: img/STAAS_selezionato.png
 
@@ -53,7 +53,7 @@ Per aumentare o diminuire la capienza del disco, seguire i seguenti passaggi:
 
       .. image:: img/STAAS_selezionato.png
 
-    4. Cliccare sul pulsante **RESIZE** e attendere che la modifica sia apportata dal sistema;
+    4. Agire con il mouse sul pulsante **RESIZE** e attendere che la modifica sia apportata dal sistema;
 
       .. image:: img/STAAS_resize.png
 
@@ -79,7 +79,7 @@ occorre procedere seguendo questi passaggi:
 
       .. image:: img/STAAS__autorizza_piu.png
 
-    4. Utilizzando le combobox indicare al sistema **"Livello di accesso"",
+    4. Sfruttando le combobox indicare al sistema **"Livello di accesso"",
        **Tipo di accesso** e in base a quest'ultimo parametro, gli apparati
        autorizzati ad usarlo. Al termine premere **CREA AUTORIZZAZIONE**.;
 
@@ -109,6 +109,6 @@ Per revocare un **autorizzazione** concessa in precedenza
 
       .. image:: img/STAAS_autorizza_cancella.png
 
-    4. L'**autorizzazione** sarà depennata dall'**Elenco Autorizzazioni Share**;
+    4. L'**autorizzazione** sarà cancellata dall'**Elenco Autorizzazioni Share**;
 
       .. image:: img/STAAS_cancellata.png
