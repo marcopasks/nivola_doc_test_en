@@ -28,8 +28,8 @@ ad interagire con la piattaforma, attraverso il portale.
    17.0_Interagire_con_il_supporto.rst
    18.1_Comunicare_con_internet.rst
    18.2_Abilitare_vpn.rst
-   20.1_Gestione_password_esterni.rst
-   40_Consultare_costi_e_consumi.rst
+   20.0_Gestione_password_esterni.rst
+   40.0_Consultare_costi_e_consumi.rst
    50_Attivare_il_supporto.rst
 
 
