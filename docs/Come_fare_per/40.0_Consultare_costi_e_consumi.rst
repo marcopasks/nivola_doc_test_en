@@ -2,7 +2,18 @@
 
 **Consultare costi e consumi**
 ******************************
- 
-**TO DO**
-==================================
- 
+
+I **Costi e Consumi** sono visibili attraverso il menu posto alla
+sinistra dello schermo. Cliccando sulla label **Costi Consumi**
+sotto la label **Amministrazione**
+
+.. image:: img/Menu_laterale.png
+
+A seguito del clic su **Costi e Consumi**, il sistema presenterà nella
+parte destra del video i **Costi non rendicontati**
+e l'**Andamento dei Costi**.
+Il grafico la tabella esposti, fanno riferimento al **Consumo** e al **Costo**
+dei servizi acquistati e istanziati nell'account.
+
+
+.. image:: img/CostiConsumi_Grafici.png
