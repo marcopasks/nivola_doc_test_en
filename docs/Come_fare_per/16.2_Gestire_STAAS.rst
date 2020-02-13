@@ -8,13 +8,14 @@ posta, nella parte sinistra dello schermo. Cliccando su
 **Shares**,  il sistema popolerà la
 parte centrale del video con il **Pannello di Gestione Share**.
 
-Per **gestione dello STAAS* si intendono tutte le operazioni che consentono l'uso
-sistemistico dello spazio disco :ref:`allocato in precedenza <Creare_STAAS>`.
+Per **gestione dello STAAS** si intendono tutte le operazioni che consentono l'uso
+sistemistico dello spazio disco :ref:`creato <Creare_STAAS>` in precedenza.
 Appartengono a questo gruppo di attività:
 
     1. **Cercare Share** [1]_
-    2. **Modificare Share* [2]_
-    3. **Cancellare VM** [3]_
+    2. **Modificare capacità dello Share** [2]_
+    3. **Autorizzare ad usarlo** [3]_
+    4. **Cancellare autorizzazione** [4]_
 
 
 
@@ -38,13 +39,13 @@ Per eseguire una ricerca è necessario procedere come segue:
 .. [2]
 **Modificare Dimensione dello Share**
 =====================================
-Per cambiare la capienza del disco, seguire i seguenti passaggi:
+Per aumentare o diminuire la capienza del disco, seguire i seguenti passaggi:
 
     1. Selezionare lo storage dall’**Elenco Shares**;
 
        .. image:: img/STAAS_selezionato.png
 
-    2. Cliccare su tasto **"Pannello gestione Volume"**;
+    2. Cliccare su tasto **Pannello gestione Volume**;
 
       .. image:: img/STAAS_selezionato.png
 
@@ -59,24 +60,55 @@ Per cambiare la capienza del disco, seguire i seguenti passaggi:
 
 .. [3]
 
-**Startare le Virtual Machine**
-===============================
+**Autorizzare ad usarlo**
+=========================
 
-Per effettuare lo **start** della Virtual Machine, procedere come segue:
+Per permettere ad un host l'**autorizzazione** di accedere allo spazio
+di archiviazione istanziato
+occorre procedere seguendo questi passaggi:
 
-    1. Individuare il sever dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
+    1. Individuare lo **Shares** da condividere;
 
-       .. image:: img/Ricerca_VM.png
+       .. image:: img/STAAS_selezionato.png
 
-    2. Premere il pulsante **"Pannello gestione VM"**;
+    2. Cliccare su tasto **Autorizzazioni**;
 
-      .. image:: img/VM_Pannello_controllo.png
+      .. image:: img/STAAS_autorizza.png
 
-    3. Proseguire sfruttanto il tasto **"START/STOP"** e successivamente sul pulsante **"START"**;
+    3. Dall'**Elenco Autorizzazioni Share** premere il tasto **"+"";
 
-      .. image:: img/VM_start.png
+      .. image:: img/STAAS__autorizza_piu.png
 
+    4. Utilizzando le combobox indicare al sistema **"Livello di accesso"",
+       **Tipo di accesso** e in base a quest'ultimo parametro, gli apparati
+       autorizzati ad usarlo. Al termine premere **CREA AUTORIZZAZIONE**.;
 
+      .. image:: img/STAAS__autorizza_crea.png
 
+    5. La nuova **autorizzazione** andrà a popolare l'**Elenco Autorizzazioni Share**.;
 
+      .. image:: img/STAAS__autorizza_lista.png
 
+.. [4]
+
+**Cancellare autorizzazione**
+=============================
+
+Per revocare un **autorizzazione** concessa in precedenza
+è necessario seguirequesta sequenza di operazioni:
+
+    1. Individuare lo **Shares** a cui è si riferisce l'autorizzazione da rimuovere;
+
+       .. image:: img/STAAS_selezionato.png
+
+    2. Cliccare su tasto **Autorizzazioni**;
+
+      .. image:: img/STAAS_autorizza.png
+
+    3. Selezionare la check box dell'autorizzazione da annullare e premere sul tasto **"cestino"**;
+
+      .. image:: img/STAAS_autorizza_cancella.png
+
+    4. L'**autorizzazione** sarà depennata dall'**Elenco Autorizzazioni Share**;
+
+      .. image:: img/STAAS_cancellata.png

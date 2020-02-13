@@ -17,7 +17,7 @@ Per la creazione di share, procedere come segue:
 
 .. image:: img/STAAS_crea_dimensioni.png
 
-4. Indicare dimensione dello Share indicando uno dei valori presenti bnella **combo box** e proseguire
+4. Specificare dimensione dello Share indicando uno dei valori presenti nella **combo box** e proseguire
 premendo il pulsante **VAI A NETWORK**;
 
 .. image:: img/STAAS_crea_dimensioni_combo.png
