@@ -3,5 +3,80 @@
 **Gestire lo Storage as Service**
 *********************************
 
-TO DO
+La gestione del servizio è attivabile dalla voce **Storage**
+posta, nella parte sinistra dello schermo. Cliccando su
+**Shares**,  il sistema popolerà la
+parte centrale del video con il **Pannello di Gestione Share**.
+
+Per **gestione dello STAAS* si intendono tutte le operazioni che consentono l'uso
+sistemistico dello spazio disco :ref:`allocato in precedenza <Creare_STAAS>`.
+Appartengono a questo gruppo di attività:
+
+    1. **Cercare Share** [1]_
+    2. **Modificare Share* [2]_
+    3. **Cancellare VM** [3]_
+
+
+
+.. [1]
+
+**Cercare uno Share**
+=====================
+
+All'interno di ciascun Account è possibile fare ricerche su tutte le istanze create.
+La ricerca è eseguita tramite una stringa inserita dall’operatore.
+Nivola ricerca il set di caratteri nelle colonne dove sono elencate
+le caratteristiche dei server.
+Per eseguire una ricerca è necessario procedere come segue:
+
+    1. Inserire la stringa da usare come chiave di ricerca, sotto la label **"Ricerca"**
+       e attendere che il sistema concluda la ricerca;
+
+      .. image:: img/STAAS_cercare.png
+
+
+.. [2]
+**Modificare Dimensione dello Share**
+=====================================
+Per cambiare la capienza del disco, seguire i seguenti passaggi:
+
+    1. Selezionare lo storage dall’**Elenco Shares**;
+
+       .. image:: img/STAAS_selezionato.png
+
+    2. Cliccare su tasto **"Pannello gestione Volume"**;
+
+      .. image:: img/STAAS_selezionato.png
+
+    3. Cliccare sul simbolo a fianco alla dimensione e scegliere la nuova capacità dalla combo box proposta dal sistema;
+
+      .. image:: img/STAAS_selezionato.png
+
+    4. Cliccare sul pulsante **RESIZE** e attendere che la modifica sia apportata dal sistema;
+
+      .. image:: img/STAAS_resize.png
+
+
+.. [3]
+
+**Startare le Virtual Machine**
+===============================
+
+Per effettuare lo **start** della Virtual Machine, procedere come segue:
+
+    1. Individuare il sever dall’**Elenco VM** e fare clic sul bottone **Pannello gestione VM**;
+
+       .. image:: img/Ricerca_VM.png
+
+    2. Premere il pulsante **"Pannello gestione VM"**;
+
+      .. image:: img/VM_Pannello_controllo.png
+
+    3. Proseguire sfruttanto il tasto **"START/STOP"** e successivamente sul pulsante **"START"**;
+
+      .. image:: img/VM_start.png
+
+
+
+
 

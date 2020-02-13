@@ -3,13 +3,11 @@
 **Lavorare con lo Storage as Service**
 **************************************
 
-Il servizioè attivabile dalla parte
-sinistra dello schermo, cliccando sulla label **Shares** sotto **Storage**.
+Il servizio per la creazione e gestione di spazio disco è attivabile dalla parte
+sinistra dello schermo, cliccando sulla label **Shares** sotto la funzione **Storage**.
 
 
 .. image:: img/STAAS_collegarsi.png
-
-
 
 
 .. toctree::

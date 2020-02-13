@@ -503,11 +503,11 @@ utilizzati su Nivola, allo scopo di far acquisire la necessaria e graduale famil
 +--------------------------------------+--------------------------------------+
 | Site                                 | Aggregato di uno o più POD           |
 +--------------------------------------+--------------------------------------+
-| STAAS                                | Il servizio prevede la fornitura di  |
+| Storage as Service   STAAS           | Il servizio prevede la fornitura di  |
 |                                      | spazio disco prestazionale           |
 |                                      | raggiungibile via rete con           |
 |                                      | protocolli NFS e CIFS esclusivamente |
-|                                      | dalle macchine virtuali Nivola  La   |
+|                                      | dalle macchine virtuali Nivola. La   |
 |                                      | messa a disposizione dei servizi di  |
 |                                      | storage avviene su infrastrutture    |
 |                                      | ridondate e configurate in alta      |
