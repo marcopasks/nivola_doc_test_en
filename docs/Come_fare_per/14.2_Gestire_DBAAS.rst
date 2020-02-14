@@ -1,7 +1,7 @@
 .. _Gestire_DBAAS:
 
-**Gestire le istanze Database as Sevice**
-*****************************************
+**Gestire le istanze e utenti  Database as Sevice**
+***************************************************
 
 
 La gestione del **Data Base as Service** è attivabile da
