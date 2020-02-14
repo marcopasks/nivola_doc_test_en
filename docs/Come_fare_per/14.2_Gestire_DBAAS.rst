@@ -17,6 +17,9 @@ Appartengono a questo gruppo di operazioni:
 
     1. **Cercare un istanza Dbaas**. [1]_
     2. **Connettersi ad un istanza Dbaas** [2]_
+    3. **Creazione utente** [3]_
+    4. **Cancellazione utente** [4]_
+
 
 
 
@@ -41,15 +44,12 @@ le caratteristiche dei server. Per eseguire una ricerca è necessario procedere 
 
 
 .. [2]
+
 **Connettersi ad un istanza Dbaas**
 ===================================
 
-La funzione è fruibile attraverso il tasto connetti:
-
-.. image:: img/DBAAS_pulsante_connetti.png
-
-
-Per connettersi all'istanza procedere come segue:
+Per raggiungere un istanza del Database è necessario procedere
+nella maniera seguente:
 
     1. Selezionare l'istanza e premere **pulsante connetti** ;
 
@@ -65,3 +65,44 @@ Per connettersi all'istanza procedere come segue:
 
       .. image:: img/DBAAS_connetti_php.png
 
+.. [3]
+
+**Creazione utente**
+====================
+
+La funzione è fruibile attraverso il tasto **Pannello gestione Dbaas**:
+
+.. image:: img/VM_Pannello_controllo.png
+
+
+Per creare un nuovo utente procedere servono i seguenti passaggi:
+
+    1. Scegliere il tabstrip **UTENTI**;
+
+      .. image:: img/DBAAS_tabstrip_utenti.png
+
+    3. Indicare obbligatoriamente **nome utente**, **Tipologia** in via facoltativa
+       le **note*** e proseguire con il tasto **CREA UTENTE** ;
+
+      .. image:: img/DBAAS_utenti_dati.png
+
+
+.. [4]
+
+**Cancellazione utente**
+========================
+
+Per dismettere un utente è necessario utilizzare il tasto **Pannello gestione Dbaas**:
+
+.. image:: img/VM_Pannello_controllo.png
+
+
+La cancellazione dell'utente è effettuata seguendo il metodo di seguito descritto:
+
+    1. Scegliere il tabstrip **UTENTI**;
+
+      .. image:: img/DBAAS_tabstrip_utenti.png
+
+    2. Selezionare l'utente da eliminare e premere il tasto **DISMETTI UTENTE** ;
+
+      .. image:: img/DBAAS_utenti_dati.png

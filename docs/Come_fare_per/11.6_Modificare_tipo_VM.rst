@@ -4,8 +4,8 @@
 **Modificare il tipo della Virtual Machine**
 ============================================
 
-Il sistema consente con la modifica del **tipo della Virtual Machine**
-di cambiare la **CPU** e la **RAM** attribuiti al server in fase
+Il sistema consente, con la modifica del **tipo della Virtual Machine**,
+di sostituire la **CPU** e la **RAM** attribuiti al server in fase
 di creazione.
 
 Per **modificare il tipo VM** è necessario procedere in questo modo:

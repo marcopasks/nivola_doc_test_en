@@ -46,27 +46,17 @@ organizzativa si articola su 3 livelli:
    può avere più divisioni. Il concetto di Divisione rappresenta quindi
    una suddivisione logica dell’Organizzazione, e può riflettere dunque
    una divisione di tipo territoriale, organizzativa o di tipo di
-   business; inoltre ogni Divisione ha associato un portafoglio chiamato
-   Wallet che ne definisce il limite di spesa;
+   business; inoltre ciascuna Divisione controlla le risorse e i consumi
+   di ciascun Account all'interno della Divisione";
 
 -  **Account**: è l’ultimo livello organizzativo e dipende dalla
-   Divisione. Una Divisione può essere suddivisa in più account. La
-   suddivisione in account può ad esempio riflettere una suddivisione di
-   ambienti tra produzione , test e sviluppo oppure una suddivisione per
-   prodotti/applicazioni oppure può seguire la logica più idonea per il
-   cliente. Solo all’interno dell’account sono istanziati i servizi, che
-   possono essere diversi da un account all’altro. Si ricorda che avere
-   un ruolo di gestione sull’Account non significa puramente possedere
-   un’utenza, ma anche avere la possibilità operativa di utilizzare i
-   servizi per cui si è abilitati.
+   Divisione. Una Divisione contiene uno o più Account. L'Account è il livello
+   organizzativo all'interno del quale l'Utente potrà creare, controllare e
+   gestire i propri servizi. E' possibile creare molteplici Account con
+   lo scopo di separare progetti differenti, oppure distinguere ambienti
+   di sviluppo da quelli
+   di produzione oppure allo scopo di suddividere la rendicontazione dei consumi.
 
-..
-
-Per quanto riguarda l’organizzazione “CSI Piemonte” si è scelto che la
-divisione corrisponde alla soluzione applicativa e l’account corrisponde
-al prodotto.
-
-Riportiamo schematicamente l’albero della struttura organizzativa.
 
 .. image:: img/struttura-org.png
 
@@ -83,6 +73,8 @@ dei ruoli abilitati ad operare a questo livello.
 
 **Utenti, ruoli ed Account**
 ============================
+
+
 
 Si possono distinguere più ruoli all’interno della piattaforma, che si
 correlano alla struttura organizzativa definita. Ad ogni ruolo può
