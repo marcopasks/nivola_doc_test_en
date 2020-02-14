@@ -1,5 +1,5 @@
 /*.wy-body-for-nav{background: #fff url(../img/bg.png) repeat;}*/
-.wy-body-for-nav{background: #fff url(../img/Sfondo-vert1.png) repeat-y;}
+.wy-body-for-nav{background: #fff url(../img/Sfondo-vert1.png) no-repeat;}
 .wy-side-nav-search{background-color: #ecf1ed;}
 .wy-side-nav-search>a{color: #212529;}
 .wy-side-nav-search>div.version {margin:0; display: inline-block;font-size: .9em;color: #999b9d;}
