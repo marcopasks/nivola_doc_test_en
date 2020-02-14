@@ -20,22 +20,22 @@
 #yucca-header a{color: #212529; font-size: 1.2em; font-weight: bold;}
 #yucca-header #username{margin-left: 2.2em}
 
-#yucca-footer{margin-top: 1.618em; padding: 1.618em 3.236em;background-color: #ecf1ed;}
-#yucca-footer .footer-info{display: flex;}
-#yucca-footer .footer-banner{flex-grow: 1;}
-#yucca-footer .footer-intro {flex-grow: 1;background-position: top left 15px; padding-top: 45px; padding-left: 0px; }
+#nivola-footer{margin-top: 1.618em; padding: 1.618em 3.236em;background-color: #ecf1ed;}
+#nivola-footer .footer-info{display: flex;}
+#nivola-footer .footer-banner{flex-grow: 1;}
+#nivola-footer .footer-intro {flex-grow: 1;background-position: top left 15px; padding-top: 45px; padding-left: 0px; }
 
-#yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png); }
-#yucca-footer .footer-banner .logo-csi {background-image: url(../img/Logo_CSI_negativo.png); background-size: 50% 50%;}
-#yucca-footer .footer-banner .logo-rp, #yucca-footer .footer-banner .logo-csi{display: block;width: auto;height: 51px;background-position: center center;background-repeat: no-repeat;background-color: transparent;}
+#nivola-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png); }
+#nivola-footer .footer-banner .logo-csi {background-image: url(../img/Logo_CSI_negativo.png); background-size: 70% 70%;}
+#nivola-footer .footer-banner .logo-rp, #yucca-footer .footer-banner .logo-csi{display: block;width: auto;height: 51px;background-position: center center;background-repeat: no-repeat;background-color: transparent;}
 
-#yucca-footer .footer-menu {border-top: 1px solid #646a6a;}
-#yucca-footer .footer-menu  ul {padding-left: 0;}
-#yucca-footer .footer-menu  ul li {display: inline-flex; text-align: center; padding-top: 10px;}
-#yucca-footer .footer-menu  ul li+ li::before  { content: "|"; padding: 0 .5em; }
-#yucca-footer .footer-menu  ul li a:link, 
-#yucca-footer .footer-menu  ul li a:active, 
-#yucca-footer .footer-menu  ul li a:visited {text-decoration:none;}
+#nivola-footer .footer-menu {border-top: 1px solid #646a6a;}
+#nivola-footer .footer-menu  ul {padding-left: 0;}
+#nivola-footer .footer-menu  ul li {display: inline-flex; text-align: center; padding-top: 10px;}
+#nivola-footer .footer-menu  ul li+ li::before  { content: "|"; padding: 0 .5em; }
+#nivola-footer .footer-menu  ul li a:link, 
+#nivola-footer .footer-menu  ul li a:active, 
+#nivola-footer .footer-menu  ul li a:visited {text-decoration:none;}
 
 
 /*
