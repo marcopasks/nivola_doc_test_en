@@ -9,7 +9,7 @@
 
 
 .wy-nav-content-wrap{background-color: transparent;}
-.wy-nav-content{ box-shadow: 7px 0px 12px 1px #dee2e6;background-color: #fff; padding: 0;}
+.wy-nav-content{ box-shadow: 7px 0px 12px 1px #dee2e6;background-color: #fff; padding: 0; max-width: 900px;}
 .wy-nav-content .rst-content{padding: 1.618em 3.236em;}
 
 
