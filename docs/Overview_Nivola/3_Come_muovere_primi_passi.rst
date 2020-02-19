@@ -7,11 +7,10 @@ Per inizare a utilizzare la piattaforma **Nivola**
 è necessario procedere seguendo i seguenti passaggi.
 
     1. :ref:`Accreditamento`
-    2  :ref:`Completare i Livelli Organizzativi`
-    2. [Completare]_ i Livelli Organizzativi
-    3. [Abilitare]_ Utenti
-    4. [Verificare]_ i Security Group
-    5. [Attivare]_ i Servizi
+    2. :ref:`Completare i Livelli Organizzativi`
+    4. :ref:`Abilitare Utenti`
+    5. :ref:`Verificare i Security Group`
+    6. :ref:`Attivare i Servizi`
 
 
 
@@ -36,7 +35,7 @@ individuare o creare una **Divisione** da cui farlo dipendere. La presenza dell'
 e della **Divisione** sono la condizione necessaria alla generazione dell'**account**.
 
 
-.. [Abilitare]
+.. _Attivare nuovi Utenti:
 
 **Attivare nuovi Utenti**
 =========================
@@ -45,7 +44,7 @@ Successivamente ad aver costituito la struttura organizzativa,
 sarà possibile indicare a **Nivola*** gli **utenti** associati a **ruoli**
 che ad ogni livello, potranno agire sugli oggetti con compiti specifici.
 
-.. [Verificare]
+.. _Verificare i Security Group:
 
 **Verificare i Security Group**
 ===============================
@@ -57,7 +56,7 @@ permette di modellare i **firewall** in base alle necessità
 dell'infrastruttura da dispiegare nell'account.
 
 
-.. [Attivare]
+.. _Attivare Servizi:
 
 **Attivare Servizi**
 ====================
