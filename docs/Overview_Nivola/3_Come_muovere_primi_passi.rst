@@ -8,9 +8,9 @@ Per inizare a utilizzare la piattaforma **Nivola**
 
     1. :ref:`Accreditamento`
     2. :ref:`Completare i Livelli Organizzativi`
-    4. :ref:`Abilitare Utenti`
-    5. :ref:`Verificare i Security Group`
-    6. :ref:`Attivare i Servizi`
+    3. :ref:`Abilitare Utenti`
+    4. :ref:`Verificare i Security Group`
+    5. :ref:`Attivare i Servizi`
 
 
 
