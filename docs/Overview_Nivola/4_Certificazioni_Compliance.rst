@@ -49,7 +49,7 @@ tempi e costi del servizio nell’ambito di:
 La certificazione garantisce che la piattaforma ha la gestione
 della sicurezza delle informazioni per le attività di progettazione,
 realizzazione, erogazione e supporto di servizi di facility management
-per il data center e servizi di cloud computing.
+per il Data Center e servizi di cloud computing.
 
 **ISO 27017:2015**
 
@@ -132,7 +132,7 @@ il nostro Data Center è dotato di più sistemi di alimentazione e più
 sistemi di raffreddamento. Tutti i componenti sono ridondati. La maggior
 parte delle manutenzioni e degli aggiornamenti non richiedono di
 portare `offline <https://it.wikipedia.org/wiki/Online_e_offline>`__ il
-data center e l'uptime minimo è del 99,98% su base annua.
+Data Center e l'uptime minimo è del 99,98% su base annua.
 
 **Qualificazione CSP AGID – Cloud della PA**
 

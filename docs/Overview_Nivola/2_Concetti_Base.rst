@@ -89,8 +89,8 @@ utente.
 
 **Master di Organizzazione**: questo ruolo rappresenta gli utenti che
 possono svolgere funzioni amministrative all’interno dell’Organizzazione
-quali la creazione , sempre all’interno dell’organizzazione di
-pertinenza, delle division e degli account; può inoltre profilare gli
+quali la creazione, sempre all’interno dell’organizzazione di
+pertinenza, delle divisioni e degli account; può inoltre profilare gli
 utenti per renderli operativi all’interno della propria struttura ed
 eventualmente registrare utenti non ancora presenti sulla piattaforma.
 Il Master di Organizzazione può monitorare i costi e lo stato delle
@@ -115,7 +115,7 @@ della propria divisione.
 privilegi sulle funzioni di BackOffice (registrazione nuovi Utenti,
 Accreditamento, creazione livelli organizzativi) e monitoraggio costi e
 stato della piattaforma. L’Amministratore di BackOffice può profilare
-utenti con ruoli a qualsiasi livello dello struttura organizzativa. Può
+utenti con ruoli a qualsiasi livello della struttura organizzativa. Può
 inoltre accedere ai report dei costi e consumi aggregati a qualsiasi
 livello. Il ruolo è solitamente associato a utenti dei gruppi di
 gestione e supporto Csi Piemonte.

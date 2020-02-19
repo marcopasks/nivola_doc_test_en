@@ -3,10 +3,17 @@
 **Cosa è Nivola?**
 ******************
 
-Nivola è una piattaforma di cloud computing completamente open source che semplifica l’utilizzo dei servizi da parte della pubblica
-amministrazione e delle imprese. Nivola è realizzata dal CSI Piemonte e mette a disposizione potenza di calcolo, storage,
-rete e database e molto altro. Il risultato è quello di offrire ad ogni cliente la completa autonomia nella creazione del proprio sistema informativo e nella migrazione delle applicazioni, in assoluta sicurezza. I servizi sono facilmente scalabili, senza spese di licenza e di gestione dell’hardware. Ogni cliente può quindi creare in autonomia
-il proprio sistema informativo, pagando esclusivamente in base all’utilizzo, attraverso sistemi di rilevazione dei consumi effettivi
+Nivola è una piattaforma di cloud computing completamente open source che
+semplifica l’utilizzo dei servizi da parte della pubblica
+amministrazione e delle imprese. Nivola è realizzata dal CSI Piemonte
+e mette a disposizione potenza di calcolo, storage,
+rete e database e molto altro. L'obbiettivo è quello di offrire ad ogni cliente
+la completa autonomia nella creazione del proprio sistema informativo e nella
+migrazione delle applicazioni, in assoluta sicurezza. I servizi sono facilmente
+scalabili, senza spese di licenza e di gestione dell’hardware. Ogni cliente può
+quindi creare in autonomia il proprio sistema informativo, pagandolo
+esclusivamente in base all’utilizzo, attraverso sistemi di rilevazione
+ dei consumi effettivi
 
 
 **100% Open Source**

@@ -6,15 +6,15 @@
 Per inizare a utilizzare la piattaforma **Nivola**
 è necessario procedere seguendo i seguenti passaggi.
 
-    1. **L'accreditamento** [1]_
-    2. **Completare i Livelli Organizzativi** [2]_
-    3. **Attivare Utenti** [3]_
-    4. **Verificare i Security Group** [4]_
-    5. **Attivare i Servizi** [5]_
+    1. L' [accreditamento]_
+    2. [Completare]_ i Livelli Organizzativi
+    3. [Abilitare]_ Utenti
+    4. [Verificare]_ i Security Group
+    5. [Attivare]_ i Servizi
 
 
 
-.. [1]
+.. [accreditamento]
 
 **L'accreditamento**
 ====================
@@ -24,7 +24,7 @@ del primo accredito. In questo modo il Cliente riceve le informazioni relative a
 e l'elenco dei primi utenti accreditati contestualmente alle istruzioni di collegamento.
 Sarà quindi in grado di iniziare a creare i primi servizi.
 
-.. [2]
+.. [Completare]
 
 **Completare i Livelli Organizzativi**
 ======================================
@@ -35,7 +35,7 @@ individuare o creare una **Divisione** da cui farlo dipendere. La presenza dell'
 e della **Divisione** sono la condizione necessaria alla generazione dell'**account**.
 
 
-.. [3]
+.. [Abilitare]
 
 **Attivare nuovi Utenti**
 =========================
@@ -44,7 +44,7 @@ Successivamente ad aver costituito la struttura organizzativa,
 sarà possibile indicare a **Nivola*** gli **utenti** associati a **ruoli**
 che ad ogni livello, potranno agire sugli oggetti con compiti specifici.
 
-.. [4]
+.. [Verificare]
 
 **Verificare i Security Group**
 ===============================
@@ -56,7 +56,7 @@ permette di modellare i **firewall** in base alle necessità
 dell'infrastruttura da dispiegare nell'account.
 
 
-.. [5]
+.. [Attivare]
 
 **Attivare Servizi**
 ====================
