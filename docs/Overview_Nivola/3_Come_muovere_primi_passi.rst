@@ -7,6 +7,7 @@ Per inizare a utilizzare la piattaforma **Nivola**
 è necessario procedere seguendo i seguenti passaggi.
 
     1. :ref:`Accreditamento`
+    2  :ref:`Completare i Livelli Organizzativi`
     2. [Completare]_ i Livelli Organizzativi
     3. [Abilitare]_ Utenti
     4. [Verificare]_ i Security Group
@@ -14,7 +15,7 @@ Per inizare a utilizzare la piattaforma **Nivola**
 
 
 
-.. [accreditamento]
+.. _Accreditamento:
 
 **L'accreditamento**
 ====================
@@ -24,7 +25,7 @@ del primo accredito. In questo modo il Cliente riceve le informazioni relative a
 e l'elenco dei primi utenti accreditati contestualmente alle istruzioni di collegamento.
 Sarà quindi in grado di iniziare a creare i primi servizi.
 
-.. [Completare]
+.. _Completare i Livelli Organizzativi:
 
 **Completare i Livelli Organizzativi**
 ======================================
