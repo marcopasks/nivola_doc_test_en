@@ -1,0 +1,85 @@
+.. _Template_Sicurezza:
+
+**Template di Sicurezza**
+*************************
+
+I template di Sicurezza sono utilizzati
+nella fase di :ref:`La creazione del Security Group <Creare_Security_Group>`.
+Sono dei modelli, modificabili in seguito, a cui si attiene il Security Group
+per consentire la comunicazione dei devices al suo interno e con
+altri posti all'esterno del perimentro di sicurezza creato.
+
+I modelli fruibili, in alternativa tra loro, sono:
+
+
+
+    1. :ref:`Security Group BackEnd`
+    2. :ref:`Security Group FrontEnd`
+    3. :ref:`Security Group Simple`
+    4. :ref:`Security Group Isolated`
+    3. :ref:`Security Group Simple Private`
+
+
+.. _Security Group BackEnd:
+
+**Security Group BackEnd**
+==========================
+
+I servizi che assumono questo modello consentono di uscire
+dal Security Group senza alcuna limitazione in quanto a IP e alle Porte.
+
+Per gli Host collocati al suo interno, la comunicazione
+potrà avvenire senza regole in grado di inibire porte ed IP.
+
+Le macchine in grado di accedere saranno quelle
+poste sulle reti di di Management e di Gestione.
+
+.. _Security Group FrontEnd:
+
+**Security Group FrontEnd**
+===========================
+
+I Security Group che usano questo template permettono di uscire
+senza alcun vincolo di Ip e di porte.
+
+Dentro il perimetro del SG, le VM possono comunicare
+soltanto attraverso le **porte 80 e 443**.
+
+Gli host che di default sono in grado raggiungere il SG creato con questo template
+sono quelli attestati sulla rete Management e la rete di Gestione.
+
+
+
+.. _Security Group Simple:
+
+**Security Group Simple**
+=========================
+
+E' un modello che impedisce ogni tipo di comunicazione da e
+verso l'esterno del Security group che lo adotta.
+La trasmissione e la comunicazione tra gli host dello stesso SG
+non ha alcun vincolo
+
+
+.. _Security Group Isolated:
+
+**Security Group Isolated**
+===========================
+
+Questo template caratterizza il SG che lo utilizza ad impedire
+agli host al suo interno di comunicare tra loro
+mentre l'uscita è priva di limitazioni.
+L'ingresso è consentito ai server delle reti di management e di Gestione.
+
+
+
+.. _Security Group Simple private:
+
+**Security Group Simple Private**
+=================================
+
+Isola completamente il Security group che nasce assumendolo come
+template. Dall'esterno nessuno degli host è raggiungibile
+sia per comunicare che ricevere informazioni.
+E' completamente libera la comunicazione tra i devices
+all'interno dello stesso SG.

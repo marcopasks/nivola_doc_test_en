@@ -10,7 +10,8 @@ RUPAR Cloud CSI.
 ================
 
 Questo tipo di modello di rete è stato pensato per ospitare gli asset del CSI,
-utilizzati per erogare servizi per i propri clienti. L’immagine sottostante descrive le possibili comunicazioni di rete:
+utilizzati per erogare servizi per i propri clienti.
+L’immagine sottostante descrive le possibili comunicazioni di rete:
 
 
 .. image:: img/Modelli-rete.png

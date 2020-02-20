@@ -22,5 +22,7 @@ da rete di backend verso il proprio account.
 
    15.1_Creare_Security_Group.rst
    15.2_Gestire_regole_SG.rst
+   15.3_Template_Sicurezza.rst
+
 
 
