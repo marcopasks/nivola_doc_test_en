@@ -26,7 +26,8 @@ Sono presenti tre reti:
 
 RUPAR Cloud ENTI.
 =================
-Questo tipo di modello è stato pensato per ospitare i servizi degli Enti che intendono avvalersi del cloud del CSI.
+Questo tipo di modello è stato ideato per ospitare
+i servizi degli Enti che intendono avvalersi del cloud del CSI.
 L’immagine sottostate descrive le possibili comunicazioni di rete:
 
 
@@ -42,7 +43,7 @@ Sono presenti due reti:
 Private Cluod – Internet.
 =========================
 
-Questo tipo di modello è pensato per gli Enti non
+Questo tipo di modello è idoneo per gli Enti non
 in RUPAR o per le aziende che intendono utilizzare il CSI come proprio Cloud Provider.
 
 .. image:: img/Modelli-rete-cloud-internet.png
@@ -55,10 +56,13 @@ Sono presenti due reti:
 
 Private Cloud – RUPAR.
 ======================
-Questo tipo di modello è pensato per gli Enti che sono in RUPAR, che hanno un proprio accesso verso Internet e che vogliono usarlo per i propri servizi ospitati sul Cloud del CSI.
-L’immagine sottostante descrive questa situazione:
+Questo tipo di modello è funzionale per gli Enti che sono in RUPAR, che hanno
+un proprio accesso verso Internet e che vogliono usarlo per i propri servizi
+ospitati sul Cloud del CSI.
 
-.. image:: img/Modelli-rete-private-cloud-rupar.
+L’immagine sottostante descrive questo scenario:
+
+.. image:: img/Modelli-rete-private-cloud-rupar.png
 
 
 -	RUPAR, si riferisce ad un piano di indirizzamento RUPAR dell’Ente;
