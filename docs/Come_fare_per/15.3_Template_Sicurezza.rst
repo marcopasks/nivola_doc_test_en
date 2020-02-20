@@ -7,7 +7,7 @@ I template di Sicurezza sono utilizzati
 nella fase di :ref:`La creazione del Security Group <Creare_Security_Group>`.
 Sono dei modelli, modificabili in seguito, a cui si attiene il Security Group
 per consentire la comunicazione dei devices al suo interno e con
-altri posti all'esterno del perimentro di sicurezza creato.
+altri istanziati all'esterno del perimentro di sicurezza generato.
 
 I modelli fruibili, in alternativa tra loro, sono:
 
@@ -34,6 +34,9 @@ potrà avvenire senza regole in grado di inibire porte ed IP.
 Le macchine in grado di accedere saranno quelle
 poste sulle reti di di Management e di Gestione.
 
+.. image:: img/Template-backend.png
+
+
 .. _Security Group FrontEnd:
 
 **Security Group FrontEnd**
@@ -46,8 +49,9 @@ Dentro il perimetro del SG, le VM possono comunicare
 soltanto attraverso le **porte 80 e 443**.
 
 Gli host che di default sono in grado raggiungere il SG creato con questo template
-sono quelli attestati sulla rete Management e la rete di Gestione.
+sono quelli attestati sulla rete Management e su quella di Gestione.
 
+.. image:: img/Template-frontend.png
 
 
 .. _Security Group Simple:
@@ -56,9 +60,11 @@ sono quelli attestati sulla rete Management e la rete di Gestione.
 =========================
 
 E' un modello che impedisce ogni tipo di comunicazione da e
-verso l'esterno del Security group che lo adotta.
+verso l'esterno del Security Group che lo adotta.
 La trasmissione e la comunicazione tra gli host dello stesso SG
-non ha alcun vincolo
+non ha alcun vincolo.
+
+.. image:: img/Template-simple.png
 
 
 .. _Security Group Isolated:
@@ -72,8 +78,11 @@ mentre l'uscita è priva di limitazioni.
 L'ingresso è consentito ai server delle reti di management e di Gestione.
 
 
+.. image:: img/Template-isolated.png
 
-.. _Security Group Simple private:
+
+
+.. _Security Group Simple Private:
 
 **Security Group Simple Private**
 =================================
@@ -83,3 +92,5 @@ template. Dall'esterno nessuno degli host è raggiungibile
 sia per comunicare che ricevere informazioni.
 E' completamente libera la comunicazione tra i devices
 all'interno dello stesso SG.
+
+.. image:: img/Template-simpleprivate.png
