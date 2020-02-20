@@ -12,13 +12,14 @@ Per **gestione delle VM** si intendono tutte le operazioni che consentono l'uso
 sistemistico del server in precedenza generato :ref:`_Creare_VM`.
 Appartengono a questo gruppo di operazioni:
 
-    1. **Cercare VM** [1]_
-    2. **Stoppare VM** [2]_
-    3. **Accendere VM** [3]_
+    1. :ref:`Cercare VM`
+    2. :ref:`Stoppare VM`
+    3. :ref:`Accendere VM`
 
 
 
-.. [1]
+
+.. _Cercare VM:
 
 **Cercare le Virtual Machine**
 ==============================
@@ -38,7 +39,8 @@ Per eseguire una ricerca è necessario procedere come segue:
       .. image:: img/Elenco_VM.png
 
 
-.. [2]
+.. _Stoppare VM:
+
 **Stoppare le Virtual Machine**
 ===============================
 Per fermare l'attività della Virtual Machine, seguire i seguenti passaggi:
@@ -56,7 +58,8 @@ Per fermare l'attività della Virtual Machine, seguire i seguenti passaggi:
       .. image:: img/VM_stop.png
 
 
-.. [3]
+.. _Accendere VM:
+
 
 **Startare le Virtual Machine**
 ===============================
