@@ -35,9 +35,9 @@ individuare o creare una **Divisione** da cui farlo dipendere. La presenza dell'
 e della **Divisione** sono la condizione necessaria alla generazione dell'**account**.
 
 
-.. _Attivare nuovi Utenti:
+.. _Abilitare Utenti:
 
-**Attivare nuovi Utenti**
+**Abilitare Utenti**
 =========================
 
 Successivamente ad aver costituito la struttura organizzativa,
@@ -56,9 +56,9 @@ permette di modellare i **firewall** in base alle necessità
 dell'infrastruttura da dispiegare nell'account.
 
 
-.. _Attivare Servizi:
+.. _Attivare i Servizi:
 
-**Attivare Servizi**
+**Attivare i Servizi**
 ====================
 Conclusi tutti i passaggi precedenti sarà possibile attivare i **servizi**. La piattaforma **Nivola**,
 attraverso il portale, mette a disposizione gli strumenti utili a
