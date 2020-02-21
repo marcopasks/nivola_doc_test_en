@@ -26,7 +26,7 @@ Per istanziare un Security Group, procedere seguendo i passaggi successivi:
 
 •	Inserire **Nome del Security Group** nella textbox, rispettando la regola che non deve contenere spazi e non superare i 10 caratteri;
 •	Scrivere la **Descrizione** nella casella di testo;
-•	Optare per un **Template di sicurezza** selezionandolo tra quelli proposti;
+•	Optare per un :ref:`**Template di Sicurezza**<Template_Sicurezza>` selezionandolo tra quelli proposti;
 •	Indicare il **VPC di riferimento** evidenziandolo dalla checkbox;
 
 
