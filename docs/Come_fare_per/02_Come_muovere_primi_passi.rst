@@ -6,19 +6,19 @@
 Per inizare a utilizzare la piattaforma **Nivola**
 è necessario procedere seguendo i seguenti passaggi.
 
-    1. **Richiedere Accredito** [1]_
-    2. **Ricevere Accredito** [2]_
-    3. **Completare i Livelli Organizzativi** [3]_
-    4. **Attivare Utenti** [4]_
-    5. **Verificare Security Group** [5]_
-    6. **Istanziare Servizi** [6]_
+    1. :ref:`Richiedere Accredito`
+    2. :ref:`Ricevere Accredito`
+    3. :ref:`Completare i Livelli Organizzativi`
+    4. :ref:`Attivare Utenti`
+    5. :ref:`Verificare Security Group`
+    6. :ref:`Istanziare Servizi`
 
 
 .. image:: img/Primi_Passi.png
 
 
 
-.. [1]
+.. _Richiedere Accredito:
 
 **Richiedere Accredito**
 ========================
@@ -47,7 +47,7 @@ maggiori dettagli e informazioni anche inerenti la cessazione del servizio. Nel 
 
 
 
-.. [2]
+.. _Ricevere Accredito:
 
 **Ricevere Accredito**
 ======================
@@ -61,7 +61,7 @@ conferire ulteriori abilitazioni.
 Da sostituire
 
 
-.. [3]
+.. _Completare i Livelli Organizzativi:
 
 **Completare i Livelli Organizzativi**
 ======================================
@@ -72,12 +72,7 @@ individuare o creare una **Divisione** da cui farlo dipendere. La presenza dell'
 e della **Divisione** sono la condizione necessaria alla generazione dell'**account**.
 
 
-
-
-
-
-
-.. [4]
+.. _Attivare Utenti:
 
 **Attivare Utenti**
 ===================
@@ -86,7 +81,9 @@ Successivamente ad aver costituito la struttura organizzativa,
 sarà possibile indicare a **Nivola*** gli **utenti** associati a **ruoli**
 che ad ogni livello, potranno agire sugli oggetti con compiti specifici.
 
-.. [5]
+
+
+.. _Verificare Security Group:
 
 **Verificare Security Group**
 =============================
@@ -98,7 +95,7 @@ permette di modellare i **firewall** in base alle necessità
 dell'infrastruttura da dispiegare nell'account.
 
 
-.. [6]
+.. _Istanziare Servizi:
 
 **Istanziare Servizi**
 ======================

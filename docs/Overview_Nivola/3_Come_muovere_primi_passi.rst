@@ -1,7 +1,7 @@
 .. _Come_muovere_primi_passi:
 
-**Come muovere i primi passi**
-******************************
+**Come iniziare ad usare la piattaforma**
+*****************************************
 
 Per inizare a utilizzare la piattaforma **Nivola**
 è necessario procedere seguendo i seguenti passaggi.
