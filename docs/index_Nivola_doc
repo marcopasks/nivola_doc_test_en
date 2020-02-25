@@ -6,8 +6,9 @@
    :maxdepth: 2
 
    10_0_Overview_Nivola.rst
-   20.0_Linee_guida.rst
-   30.0_Service_Portal.rst
+   20.0_Come_muovere_primi_passi.rst
+   30.0_Service_portal.rst
    40.0_Come_fare_per.rst
-   60.0_Glossario.rst
-   70.0_Usare_Cli.rst
+   50.0_Linee_guida.rst
+   60.0_Usare_Cli.rst
+   70.0_Glossario.rst
