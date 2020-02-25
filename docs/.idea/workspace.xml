@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Come_muovere_primi_passi/index_come_muovere_primi_passi.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_muovere_primi_passi/index_come_muovere_primi_passi.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_muovere_primi_passi/index_Come_muovere_primi_passi.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index_Nivola_doc" beforeDir="false" afterPath="$PROJECT_DIR$/index_Nivola_doc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/11.2_Accedere_VM.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
@@ -41,12 +34,22 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/index_come_muovere_primi_passi.rst">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/index_Come_muovere_primi_passi.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Glossario/Glossario.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Glossario/index_Glossario.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -131,13 +134,13 @@
         <option value="$PROJECT_DIR$/Come_fare_per/15.3_Template_Sicurezza.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/3_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" />
-        <option value="$PROJECT_DIR$/index_Nivola_doc" />
         <option value="$PROJECT_DIR$/Come_muovere_primi_passi/index_come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst" />
+        <option value="$PROJECT_DIR$/index_Nivola_doc" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -213,7 +216,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.26190478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
@@ -254,12 +258,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/16.1_Creare_STAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/16.2_Gestire_STAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_scegli_tipologia.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -395,16 +393,22 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.3_Template_Sicurezza.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/index_come_muovere_primi_passi.rst">
+    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
+    <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Glossario/Glossario.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Glossario/index_Glossario.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/index_Come_muovere_primi_passi.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
