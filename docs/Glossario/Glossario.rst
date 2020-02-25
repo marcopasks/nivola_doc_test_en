@@ -460,6 +460,11 @@ familiarità con la piattaforma.
 | Region                               | Aggregato di una o più Availability  |
 |                                      | Zone                                 |
 +--------------------------------------+--------------------------------------+
+| Rupar                                | Rupar Piemonte è la Rete Unitaria    |
+|                                      | della Pubblica Amministrazione a cui |
+|                                      | possono aderire tutti gli Enti       |
+|                                      | locali piemontesi                    |
++--------------------------------------+--------------------------------------+
 
 -------------------------
 
