@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Come_muovere_primi_passi/img/Primi_Passi.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,7 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -63,7 +65,7 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -85,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Usare_Cli/80.0_howto-copy-file.rst" />
         <option value="$PROJECT_DIR$/Usare_Cli/70.0_howto-start-stop-vm.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/18.1_Comunicare_con_internet" />
         <option value="$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS" />
@@ -130,16 +131,17 @@
         <option value="$PROJECT_DIR$/Overview_Nivola/3_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_muovere_primi_passi/index_come_muovere_primi_passi.rst" />
-        <option value="$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst" />
         <option value="$PROJECT_DIR$/index_Nivola_doc" />
         <option value="$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst" />
         <option value="$PROJECT_DIR$/Service_Portal/index_Service_Portal.rst" />
         <option value="$PROJECT_DIR$/Glossario/Glossario.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/index_Overview_Nivola.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn.rst" />
+        <option value="$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -158,11 +160,6 @@
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
@@ -185,6 +182,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Attivita_sistemista\GIT\nivola_doc_test\docs\Come_muovere_primi_passi\img" />
       <recent name="C:\Attivita_sistemista\GIT\nivola_doc_test\docs\Come_muovere_primi_passi" />
       <recent name="C:\Attivita_sistemista\GIT\nivola_doc_test\docs\Come_fare_per\img" />
       <recent name="C:\Attivita_sistemista\GIT\nivola_doc_test\docs\Service_Portal" />
@@ -221,7 +219,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.26190478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
@@ -385,9 +382,6 @@
     <entry file="file://$PROJECT_DIR$/Glossario/index_Glossario.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/index_Come_muovere_primi_passi.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -413,6 +407,9 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>

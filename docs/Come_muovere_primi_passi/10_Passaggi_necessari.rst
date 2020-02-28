@@ -1,6 +1,6 @@
 .. _Passaggi_necessari:
 
-**Requisiti necessari**
+**Passaggi necessari**
 ======================
 
 
@@ -21,7 +21,7 @@ Per inizare a utilizzare la piattaforma **Nivola**
 .. _Processo di Accredito:
 
 **Processo di Accredito**
-========================
+=========================
 
 Per poter utilizzare i servizi esposti dalla piattaforma Nivola è necessario accreditarsi secondo il seguente processo:
 
