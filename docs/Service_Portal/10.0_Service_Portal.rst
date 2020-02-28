@@ -3,38 +3,80 @@
 **Il Service Portal**
 =====================
 
-Per utilizzare al portale è necessario avere una logine ed una password
-valide.
 
+    1. :ref:`Cosa è il Service Portal`
+    2. :ref:`Accesso al Servizio`
+    3. :ref:`Interfaccia Utente`
 
-Il **portale** della piattaforma **Nivola** mette a disposizione
-degli user un insieme di funzionalità per creare dei servizi, gestirli
-e controllarli.
-La dashboard è formata da una **parte centrale** dove
-è possibile scegliere il **ruolo**  e il livello
-organizzativo con cui poter operare nella piattaforma. Proseguendo
-nella descrizione, sempre nella parte centrale, il sistema presenta le informazioni
-inerenti all'uso della piattaforma e alle eventuali comunicazioni riguardo
-alle funzioni attive o a nuove soluzioni.
+.. _Cosa è il Service Portal:
 
-Nella parte sinistra sono state raggruuppate le funzioni utili al ruolo
-come per esempio, la **gestione wallet** per un master della Divisione.
-Sotto la voce **servizi** sono state inserite le funzioni afferenti agli oggetti
-istanziati o che si intendono creare.
+**Cosa è il Service Portal**
+============================
 
-I passaggi che normalmente si fanno durante l'uso del portale prevedono:
-
-1) Accreditarmento.
-2) Scelta del binomio Ruolo e Livello Organizzativo.
-3) Utilizzo servizi della piattaforma.
+Il Service Portal consiste nell’ area riservata di Nivola, che integra in un'unica interfaccia web tutte le funzionalità offerte dalla piattaforma cloud.
+Il Service Portal mette a disposizione tutta la gamma di funzioni realizzate per creare, controllare e gestire in autonomia la propria infrastruttura cloud.
+Attraverso un insieme di wizard grafici le virtual machine, i database e tutti i servizi offerti da Nivola sono utilizzabili in modo intuitivo e semplice da parte degli utenti, anche da chi non ha conoscenze tecniche specifiche. L’utente può tenere costantemente sotto controllo lo stato delle risorse tramite l’integrazione con i cruscotti di monitoraggio, le informazioni e i report sui costi e consumi, può creare nuovi servizi e mettersi in contatto con l’assistenza tramite più canali di comunicazione.
 
 
 
-.. image:: img/Service-portal.png
+
+.. _Accesso al Servizio:
+
+**Accesso al Servizio**
+=======================
+
+
+Per accedere al Service Portal di Nivola è necessario inserire, nel proprio browser, la seguente URL: https://portal.nivolapiemonte.it/.
+L’accesso allo user portal avviene mediante autenticazione. Attualmente sono previste tre tipologie di autenticazione :
+
+•	CSI (credenziali di CSI Piemonte)
+
+
+.. image:: img/Credenziali.png
+
+
+•	Azienda . E’ possibile accedere utilizzando
+    credenziali SPID o Sistema Piemonte per la pubblica amministrazione
+
+.. image:: img/Azienda.png
+
+
+•	PA. E’ possibile accedere utilizzando credenziali SPID o RUPAR.
+
+.. image:: img/PA.png
+
+
+.. _Interfaccia Utente:
 
 
 
-**Descrizione di alto livello, Spiegare modalità di accesso, servizi disponibili,
-confgiurabilità della dashboard,
-selezione dell'account,
-etc…Ogni citazione di funzionalità va referenziata e linkata.**
+**Interfaccia Utente**
+======================
+
+Dopo l’autenticazione all’utente viene presentata la propria Home Page personalizzata. I contenuti visualizzati
+dipendono dal ruolo che riveste l’utente all’interno del Sistema.
+La Home Page utente si distingue in 3 sezioni distinte.
+
+1 – Barra di stato
+
+.. image:: img/BarraStato.png
+
+E’ posizionata in alto nel sistema, ed indica quale è l’utente e il profilo con
+cui l’utente è loggato nel sistema.
+L’utente, se ha altri ruoli associati,  può cambiare il profilo con cui agisce
+all’interno del sistema. Premendo su
+
+.. image:: img/Ruolo.png
+
+Viene presentato il
+menu “Cambia profilo” con cui l’utente può modificare il proprio profilo
+
+.. image:: img/Profilo.png
+
+Permette all’utente di contattare l’assistenza via chat.
+
+.. image:: img/Cornetta.png
+
+Premere invece |.. image:: img/Cornetta.png| per accedere alla documentazione on line di
+Nivola.
+
