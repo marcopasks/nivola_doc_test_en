@@ -3,80 +3,215 @@
 **Il Service Portal**
 =====================
 
+-  **Cosa è il SP**
 
-    1. :ref:`Cosa è il Service Portal`
-    2. :ref:`Accesso al Servizio`
-    3. :ref:`Interfaccia Utente`
+-  **Accesso al Servizio**
 
-.. _Cosa è il Service Portal:
+-  **Interfaccia utente**
 
-**Cosa è il Service Portal**
-============================
+**Cosa è il SP**
 
-Il Service Portal consiste nell’ area riservata di Nivola, che integra in un'unica interfaccia web tutte le funzionalità offerte dalla piattaforma cloud.
-Il Service Portal mette a disposizione tutta la gamma di funzioni realizzate per creare, controllare e gestire in autonomia la propria infrastruttura cloud.
-Attraverso un insieme di wizard grafici le virtual machine, i database e tutti i servizi offerti da Nivola sono utilizzabili in modo intuitivo e semplice da parte degli utenti, anche da chi non ha conoscenze tecniche specifiche. L’utente può tenere costantemente sotto controllo lo stato delle risorse tramite l’integrazione con i cruscotti di monitoraggio, le informazioni e i report sui costi e consumi, può creare nuovi servizi e mettersi in contatto con l’assistenza tramite più canali di comunicazione.
+Il Service Portal consiste nell’ **area riservata di Nivola**, che
+integra in un'unica interfaccia web tutte le funzionalità offerte dalla
+piattaforma cloud.
 
+Il Service Portal mette a disposizione tutta la gamma di funzioni
+realizzate per creare, controllare e gestire in autonomia la propria
+infrastruttura cloud.
 
-
-
-.. _Accesso al Servizio:
+Attraverso un insieme di wizard grafici le virtual machine, i database e
+tutti i servizi offerti da Nivola sono utilizzabili in modo intuitivo e
+semplice da parte degli utenti, anche da chi non ha conoscenze tecniche
+specifiche. L’utente può tenere costantemente sotto controllo lo stato
+delle risorse tramite l’integrazione con i cruscotti di monitoraggio, le
+informazioni e i report sui costi e consumi, può creare nuovi servizi e
+mettersi in contatto con l’assistenza tramite più canali di
+comunicazione.
 
 **Accesso al Servizio**
-=======================
 
+Per accedere al **Service Portal** di Nivola è necessario inserire, nel
+proprio browser, la seguente URL: https://portal.nivolapiemonte.it/.
 
-Per accedere al Service Portal di Nivola è necessario inserire, nel proprio browser, la seguente URL: https://portal.nivolapiemonte.it/.
-L’accesso allo user portal avviene mediante autenticazione. Attualmente sono previste tre tipologie di autenticazione :
+L’accesso allo user portal avviene mediante autenticazione. Attualmente
+sono previste tre tipologie di autenticazione :
 
-•	CSI (credenziali di CSI Piemonte)
+-  CSI (credenziali di CSI Piemonte)
 
+..
 
-.. image:: img/Credenziali.png
+   |image0|
 
+-  Azienda . E’ possibile accedere utilizzando credenziali SPID o
+      Sistema Piemonte per la pubblica amministrazione.
 
-•	Azienda . E’ possibile accedere utilizzando
-    credenziali SPID o Sistema Piemonte per la pubblica amministrazione
+..
 
-.. image:: img/Azienda.png
+   |image1|
 
+-  PA. E’ possibile accedere utilizzando credenziali SPID o RUPAR.
 
-•	PA. E’ possibile accedere utilizzando credenziali SPID o RUPAR.
+..
 
-.. image:: img/PA.png
+   |image2|
 
+**Interfaccia utente**
 
-.. _Interfaccia Utente:
+Dopo l’autenticazione all’utente viene presentata la propria Home Page
+personalizzata. I contenuti visualizzati dipendono dal ruolo che riveste
+l’utente all’interno del Sistema.
 
-
-
-**Interfaccia Utente**
-======================
-
-Dopo l’autenticazione all’utente viene presentata la propria Home Page personalizzata. I contenuti visualizzati
-dipendono dal ruolo che riveste l’utente all’interno del Sistema.
 La Home Page utente si distingue in 3 sezioni distinte.
 
-1 – Barra di stato
+**1 – Barra di stato**
 
-.. image:: img/BarraStato.png
+|image3|
 
-E’ posizionata in alto nel sistema, ed indica quale è l’utente e il profilo con
-cui l’utente è loggato nel sistema.
-L’utente, se ha altri ruoli associati,  può cambiare il profilo con cui agisce
-all’interno del sistema. Premendo su
+E’ posizionata in alto nel sistema, ed indica quale è l’utente e il
+profilo con cui l’utente è loggato nel sistema.
 
-.. image:: img/Ruolo.png
+L’utente, se ha altri ruoli associati, può cambiare il profilo con cui
+agisce all’interno del sistema. Premendo su
 
-Viene presentato il
-menu “Cambia profilo” con cui l’utente può modificare il proprio profilo
+|image4|
 
-.. image:: img/Profilo.png
+Viene presentato il menu “Cambia profilo” con cui l’utente può
+modificare il proprio profilo.
 
-Permette all’utente di contattare l’assistenza via chat.
+|image5|
 
-.. image:: img/Cornetta.png
+|image6| Permette all’utente di contattare l’assistenza via chat.
 
-Premere invece |.. image:: img/Cornetta.png| per accedere alla documentazione on line di
+Premere invece |image7| per accedere alla documentazione on line di
 Nivola.
 
+Per uscire dal sistema e chiudere la sessione di lavoro premere il
+simbolo |image8|
+
+**2- Menu di navigazione**
+
+Il menù laterale di sinistra contiene l’elenco dei servizi che l’utente
+può consultare e utilizzare in base al proprio profilo.
+
+Il menù di navigazione è composto da più sezioni in base alla tipologia
+dei servizi.
+
+La prima sezione
+
+|image9|
+
+permette di accedere a tutto il materiale informativo su Nivola tramite
+la voce “Documentazione”, permette di contattare l’assistenza tramite la
+voce “Assistenza” e di avere il dettaglio delle notizie e delle
+informazioni sulla piattaforma tramite “Notizie”.
+
+La sezione “Strumenti”
+
+|image10|
+
+Contiene le voci di menu per poter accedere agli strumenti offerti dalla
+piattaforma ai suoi utenti. Da qui si potrà accedere ad esempio alle
+console di monitoraggio oppure ai sistemi di visualizzazione dei log.
+
+La sezione “Servizi” è il menu dei Servizi offerti dalla piattaforma
+Nivola. In questa voce l’utente troverà l’elenco di tutti i servizi su
+cui può operare all’interno di Nivola per crearsi le proprie risorse
+Cloud.
+
+|image11|
+
+Nella Sezione “Amministrazione” vengono rese disponibili tutte quelle
+voci che permettono all’utente di gestire, in base al proprio profilo,
+la profilazione e l’accreditamento utente, oppure può visualizzare i
+dettagli della propria struttura organizzativa e accedere alle pagine di
+dettaglio dei costi e consumi del proprio Cloud.
+
+|image12|
+
+**3 - Home Page**
+
+E’ la pagina iniziale presentata all’utente della piattaforma. E’
+composta da un insieme di dashboard dinamiche visualizzate di default in
+base al profilo con cui si accede. Tramite questa home page l’utente può
+vedere in sintesi i consumi e lo stato dei propri servizi e consultare
+le ultime notizie pubblicate.
+
+|image13|
+
+La Home Page è personalizzabile dall’utente che può impostarne la
+visualizzazione e la disposizione delle dashboard in base alle sue
+preferenze o priorità.
+
+Per attivare la modalità di modifica della Home Page premere
+
+|image14|
+
+A questo punto sarà possibile:
+
+-  Disabilitare la visualizzazione di una dashboard. Per fare questo
+   premere il simbolo evidenziato presente nella dashboard che vi vuole
+   non più visualizzare in quanto non di interesse
+
+|image15|
+
+-  Spostare la dashboard all’interno del riquadro della HomePage. Per
+   far questo tenere premuto il mouse sulla barra blu della dashboard e
+   spostarla all’interno dell’area di lavoro. Rilasciare il mouse dopo
+   aver definito la nuova posizione.
+
+Per confermare le modifiche alla disposizione impostata è rendere
+effettiva la Home Page personalizzata è necessario premere
+
+|image16|
+
+.. |image0| image:: img/image1.png
+   :width: 3.32292in
+   :height: 2.19792in
+.. |image1| image:: img/image2.png
+   :width: 3.98958in
+   :height: 2.70833in
+.. |image2| image:: img/image3.png
+   :width: 3.90625in
+   :height: 2.64583in
+.. |image3| image:: img/image4.png
+   :width: 6.69306in
+   :height: 0.43958in
+.. |image4| image:: img/image5.png
+   :width: 4.02083in
+   :height: 0.53125in
+.. |image5| image:: img/image6.png
+   :width: 4.60417in
+   :height: 1.3125in
+.. |image6| image:: img/image7.png
+   :width: 0.3125in
+   :height: 0.27083in
+.. |image7| image:: img/image8.png
+   :width: 0.32292in
+   :height: 0.28125in
+.. |image8| image:: img/image9.png
+   :width: 0.30208in
+   :height: 0.29167in
+.. |image9| image:: img/image10.png
+   :width: 2.57292in
+   :height: 2.48958in
+.. |image10| image:: img/image11.png
+   :width: 2.625in
+   :height: 0.95833in
+.. |image11| image:: img/image12.png
+   :width: 2.66667in
+   :height: 2.89583in
+.. |image12| image:: img/image13.png
+   :width: 2.64583in
+   :height: 1.875in
+.. |image13| image:: img/image14.png
+   :width: 6.69306in
+   :height: 3.40278in
+.. |image14| image:: img/image15.png
+   :width: 0.55208in
+   :height: 0.63542in
+.. |image15| image:: img/image16.png
+   :width: 3.47917in
+   :height: 1.76042in
+.. |image16| image:: img/image17.png
+   :width: 0.53125in
+   :height: 0.58333in
