@@ -182,51 +182,19 @@ effettiva la Home Page personalizzata è necessario premere
 |image16|
 
 .. |image0| image:: img/image0.png
-   :width: 3.32292in
-   :height: 2.19792in
-.. |image1| image:: img/image2.png
-   :width: 3.98958in
-   :height: 2.70833in
-.. |image2| image:: img/image3.png
-.. |image3| image:: img/image4.png
-   :width: 6.69306in
-   :height: 0.43958in
-.. |image4| image:: img/image5.png
-   :width: 4.02083in
-   :height: 0.53125in
-.. |image5| image:: img/image6.png
-   :width: 4.60417in
-   :height: 1.3125in
-.. |image6| image:: img/image7.png
-   :width: 0.3125in
-   :height: 0.27083in
-.. |image7| image:: img/image8.png
-   :width: 0.32292in
-   :height: 0.28125in
-.. |image8| image:: img/image9.png
-   :width: 0.30208in
-   :height: 0.29167in
-.. |image9| image:: img/image10.png
-   :width: 2.57292in
-   :height: 2.48958in
-.. |image10| image:: img/image11.png
-   :width: 2.625in
-   :height: 0.95833in
-.. |image11| image:: img/image12.png
-   :width: 2.66667in
-   :height: 2.89583in
-.. |image12| image:: img/image13.png
-   :width: 2.64583in
-   :height: 1.875in
-.. |image13| image:: img/image14.png
-   :width: 6.69306in
-   :height: 3.40278in
-.. |image14| image:: img/image15.png
-   :width: 0.55208in
-   :height: 0.63542in
-.. |image15| image:: img/image16.png
-   :width: 3.47917in
-   :height: 1.76042in
-.. |image16| image:: img/image17.png
-   :width: 0.53125in
-   :height: 0.58333in
+.. |image1| image:: img/image1.png
+.. |image2| image:: img/image2.png
+.. |image3| image:: img/image3.png
+.. |image4| image:: img/image4.png
+.. |image5| image:: img/image5.png
+.. |image6| image:: img/image6.png
+.. |image7| image:: img/image7.png
+.. |image8| image:: img/image8.png
+.. |image9| image:: img/image9.png
+.. |image10| image:: img/image10.png
+.. |image11| image:: img/image11.png
+.. |image12| image:: img/image12.png
+.. |image13| image:: img/image13.png
+.. |image14| image:: img/image14.png
+.. |image15| image:: img/image15.png
+.. |image16| image:: img/image16.png
