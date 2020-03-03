@@ -181,7 +181,7 @@ effettiva la Home Page personalizzata è necessario premere
 
 |image16|
 
-.. |image0| image:: img/Credenziali.png
+.. |image0| image:: img/image0.png
    :width: 3.32292in
    :height: 2.19792in
 .. |image1| image:: img/image2.png
