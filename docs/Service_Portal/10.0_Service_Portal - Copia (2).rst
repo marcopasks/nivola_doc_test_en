@@ -188,8 +188,8 @@ effettiva la Home Page personalizzata è necessario premere
    :width: 3.98958in
    :height: 2.70833in
 .. |image2| image:: img/image3.png
-   :width: 2.90625in
-   :height: 1.64583in
+   :width: 3.90625in
+   :height: 2.64583in
 .. |image3| image:: img/image4.png
    :width: 6.69306in
    :height: 0.43958in
