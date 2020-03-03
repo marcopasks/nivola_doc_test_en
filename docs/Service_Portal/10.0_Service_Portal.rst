@@ -182,11 +182,11 @@ effettiva la Home Page personalizzata è necessario premere
 |image16|
 
 .. |image0| image:: img/image0.png
-    :align: center
+   :align: center
 .. |image1| image:: img/image1.png
-    :align: center
+   :align: center
 .. |image2| image:: img/image2.png
-    :align: center
+   :align: center
 .. |image3| image:: img/image3.png
     :align: center
 .. |image4| image:: img/image4.png
