@@ -182,19 +182,35 @@ effettiva la Home Page personalizzata è necessario premere
 |image16|
 
 .. |image0| image:: img/image0.png
+    :align: center
 .. |image1| image:: img/image1.png
+    :align: center
 .. |image2| image:: img/image2.png
+    :align: center
 .. |image3| image:: img/image3.png
+    :align: center
 .. |image4| image:: img/image4.png
+    :align: center
 .. |image5| image:: img/image5.png
+    :align: center
 .. |image6| image:: img/image6.png
+    :align: center
 .. |image7| image:: img/image7.png
+    :align: center
 .. |image8| image:: img/image8.png
+    :align: center
 .. |image9| image:: img/image9.png
+    :align: center
 .. |image10| image:: img/image10.png
+    :align: center
 .. |image11| image:: img/image11.png
+    :align: center
 .. |image12| image:: img/image12.png
+    :align: center
 .. |image13| image:: img/image13.png
+    :align: center
 .. |image14| image:: img/image14.png
+    :align: center
 .. |image15| image:: img/image15.png
+    :align: center
 .. |image16| image:: img/image16.png
