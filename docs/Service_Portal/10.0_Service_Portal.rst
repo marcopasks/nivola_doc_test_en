@@ -11,36 +11,53 @@
 
 **Cosa è il SP**
 
-Il Service Portal consiste nell’ **area riservata di Nivola**, che
-integra in un'unica interfaccia web tutte le funzionalità offerte dalla
-piattaforma cloud.
+Il Nivola Service Portal (NSP) costituisce l'Area Riservata per i clienti ed
+integra in un'interfaccia web tutte le funzionalità offerte della
+piattaforma. Mette a disposizione tutta la gamma di funzioni realizzate
+per creare, controllare e gestire in autonomia i propri servizi cloud.
 
-Il Service Portal mette a disposizione tutta la gamma di funzioni
-realizzate per creare, controllare e gestire in autonomia la propria
-infrastruttura cloud.
-
-Attraverso un insieme di wizard grafici le virtual machine, i database e
-tutti i servizi offerti da Nivola sono utilizzabili in modo intuitivo e
-semplice da parte degli utenti, anche da chi non ha conoscenze tecniche
-specifiche. L’utente può tenere costantemente sotto controllo lo stato
+Attraverso un insieme di wizard grafici semplici ed intuitivi tutti i servizi
+offerti da Nivola sono utilizzabili  da
+parte degli utenti, anche da chi non possiede competenze tecniche specifiche.
+L’utente può tenere costantemente sotto controllo lo stato
 delle risorse tramite l’integrazione con i cruscotti di monitoraggio, le
 informazioni e i report sui costi e consumi, può creare nuovi servizi e
-mettersi in contatto con l’assistenza tramite più canali di
-comunicazione.
+mettersi con il *Nivola Support Center* utilizzando
+differenti canali di comunicazione.
 
 **Accesso al Servizio**
 
-Per accedere al **Service Portal** di Nivola è necessario inserire, nel
-proprio browser, la seguente URL: https://portal.nivolapiemonte.it/.
+Terminata la fase di accreditamento, per accedere al Nivola Service Portal
+è sufficiente collegarsi all'URL  https://portal.nivolapiemonte.it/ con
+le proprie credenziali scegliendo tra i seguenti sistemi di autenticazione:
 
-L’accesso allo user portal avviene mediante autenticazione. Attualmente
-sono previste tre tipologie di autenticazione :
+1.	SPID
+2.	CIE - Carte di Identità Elettronica
+3.	TS-CNS - Sistema Tessere Sanitaria
+4.	PSNet
+5.	Sistema Piemonte
 
--  CSI (credenziali di CSI Piemonte)
+Indipendentemente dal sistema di autenticazione scelto dall'utente,
+il Nivola Service Portal procederà a
 
-..
+1.	ridirigere l'utente verso l'Identity Provider corretto per la verifica delle credenziali
+2.	ricavare il Codice Fiscale dell'utente
+3.	autorizzare l'accesso alla piattaforma Nivola  in base al proprio profilo
+
+Questa è la finestra che viene presentata all'utente al momento dell'accesso:
+
+
 
    |image0|
+
+
+In funzione della tipologia di Cliente, l'utente potrà scegliere tra
+
+•	Azienda, per le Imprese
+•	PA, per i clienti Pubblica Amministrazione
+•	CSI, per il personale CSI Piemonte
+
+
 
 -  Azienda . E’ possibile accedere utilizzando credenziali SPID o
       Sistema Piemonte per la pubblica amministrazione.
