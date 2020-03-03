@@ -74,7 +74,7 @@ In funzione della tipologia di Cliente, l'utente potrà scegliere tra
 
 **Interfaccia utente**
 
-Dopo l’autenticazione all’utente viene presentata la propria Home Page
+Dopo :ref:`l'autenticazione <_Processo di Accredito>` all’utente viene presentata la propria Home Page
 personalizzata. I contenuti visualizzati dipendono dal ruolo che riveste
 l’utente all’interno del Sistema.
 
