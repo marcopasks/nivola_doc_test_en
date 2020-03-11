@@ -8,7 +8,8 @@ ad interagire con la piattaforma, attraverso il portale.
    :maxdepth: 2
  
    02_Come_muovere_primi_passi.rst
-   10.0_Lavorare_con_portale.rst
+   04 Creare_Utente
+   10 Creare_Account
    11.0_Lavorare_con_VM.rst
       11.1_Creare_VM.rst
       11.2_Gestire_VM.rst

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_portale.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overview_Nivola/3_Certificazioni_Compliance.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Overview_Nivola/3_Certificazioni_Compliance.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,23 +22,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Service_Portal/index_Service_Portal.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Service_Portal/img/image4.png">
-          <provider selected="true" editor-type-id="images" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Certificazioni_Compliance.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Service_Portal/img/image5.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Creare_Account.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/05.0_Creare_Utente.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -81,9 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Usare_Cli/70.0_howto-start-stop-vm.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/18.1_Comunicare_con_internet" />
-        <option value="$PROJECT_DIR$/Come_fare_per/14.6_Accedere_DBAAS" />
         <option value="$PROJECT_DIR$/Overview_Nivola/2_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.4_Gestione_chiavi_ssh.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn" />
@@ -110,7 +115,6 @@
         <option value="$PROJECT_DIR$/Come_fare_per/16.2_Gestire_STAAS.rst" />
         <option value="$PROJECT_DIR$/Usare_Cli/index_Usare_Cli.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/40.0_Consultare_costi_e_consumi.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/11.6_Modificare_tipo_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst" />
@@ -132,10 +136,14 @@
         <option value="$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst" />
         <option value="$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst" />
         <option value="$PROJECT_DIR$/Service_Portal/index_Service_Portal.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/05.0_Creare_utente.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/10.0_Creare_Account.rst" />
+        <option value="$PROJECT_DIR$/Overview_Nivola/3_Certificazioni_Compliance.rst" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -147,12 +155,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="Overview_Nivola" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
@@ -172,7 +186,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,9 +232,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.26190478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.22693452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
       <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.21502976" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -260,15 +272,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_crea_generali.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_crea_dimensioni_combo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_crea_dimensioni.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_collegarsi.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -343,9 +346,6 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Come_muovere_primi_passi.rst" />
-    <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Certificazioni_Compliance.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/index_Come_muovere_primi_passi.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -379,34 +379,44 @@
     <entry file="file://$PROJECT_DIR$/Service_Portal/img/image1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
+    <entry file="file://$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst" />
+    <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image6.png">
+    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image4.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Service_Portal/img/image5.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image4.png">
+    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image6.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Service_Portal/10.0_Service_Portal.rst">
+    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service_Portal/img/image2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index_Nivola_doc">
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/05.0_Creare_Utente.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/10.0_Creare_Account.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Service_Portal/index_Service_Portal.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Certificazioni_Compliance.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
