@@ -184,10 +184,10 @@ nel Cloud Marketplace di AGID. https://cloud.italia.it/marketplace/service/12
  |pic1|  |pic2|  |pic3|
 
 .. |pic1| image:: img/Cert_infrastruttura.png
-   :width: 33,33%
+   :width: 33%
 
 .. |pic2| image:: img/Cert_iaas.png
-   :width: 33,33%
+   :width: 33%
 
 .. |pic3| image:: img/Cert_paas.png
-   :width: 33,33%
+   :width: 33%
