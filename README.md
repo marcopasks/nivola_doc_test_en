@@ -1,8 +1,6 @@
 nivola-user-docs
 nivola-user-docs is a project that contains the user documentation of the Nivola Service Portal.
-The documentation is publicated on readthedocs
-
-Here a more specific description of packages and modules.
+Built with Sphinx using a theme provided by Read the Docs.
 
 Authors and Contributors
 Davide Corona
