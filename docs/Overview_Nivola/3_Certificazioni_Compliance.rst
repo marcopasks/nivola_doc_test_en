@@ -190,4 +190,4 @@ nel Cloud Marketplace di AGID. https://cloud.italia.it/marketplace/service/12
    :width: 31%
 
 .. |pic3| image:: img/Cert_paas.png
-   :width: 31%
+   :width: 28%
