@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Nivola'
-copyright = '2019, CSI Piemonte'
+copyright = '2020, CSI Piemonte'
 author = 'CSI Piemonte'
 
 # The short X.Y version
@@ -88,7 +88,7 @@ pygments_style = None
 # html_theme_options = {}
 html_theme_options = {
     'canonical_url': '',
-    'analytics_id': 'UA-93560252-3',  #  Provided by Google in your dashboard
+   # 'analytics_id': 'UA-93560252-3',  #  Provided by Google in your dashboard
     'logo_only': False,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
@@ -152,7 +152,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Yucca.tex', 'Nivola Documentation',
+    (master_doc, 'Nivola.tex', 'Nivola Documentation',
      'CSI Piemonte', 'manual'),
 ]
 
