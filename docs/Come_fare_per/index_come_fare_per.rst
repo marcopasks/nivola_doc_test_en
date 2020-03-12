@@ -30,6 +30,9 @@ ad interagire con la piattaforma, attraverso il portale.
    18.1_Comunicare_con_internet.rst
    18.2_Abilitare_vpn.rst
    20.0_Gestione_password_esterni.rst
+   30.0_Strumenti.rst
+      30.1_Monitoraggio.rst
+      30.2_Log.rst
    40.0_Consultare_costi_e_consumi.rst
    50.0_Attivare_il_supporto.rst
 
