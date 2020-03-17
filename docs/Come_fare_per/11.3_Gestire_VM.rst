@@ -28,15 +28,15 @@ All'interno di ciascun Account è possibile fare ricerche su tutte le istanze cr
 La ricerca è eseguita tramite una stringa inserita dall’operatore.
 Nivola ricerca il set di caratteri nelle colonne dove sono elencate
 le caratteristiche dei server.
-Per eseguire una ricerca è necessario procedere come segue:
+Per eseguire una ricerca è necessario procedere in questo modo:
 
     1. Inserire la stringa da usare come chiave di ricerca, sotto la label **"Ricerca"** e premere invio;
 
-       .. image:: img/Ricerca_VM.png
+       .. image:: img/VM_Elenco.png
 
-    2. Attendere che il sistema alimenti, con il risultato, la parte destra del video;
+    2. Il sistema popolerà lo schermo, con le VM che soddisfano il criterio di selezione;
 
-      .. image:: img/Elenco_VM.png
+      .. image:: img/VM_Selezionate.png
 
 
 .. _Stoppare VM:
@@ -53,7 +53,7 @@ Per fermare l'attività della Virtual Machine, seguire i seguenti passaggi:
 
       .. image:: img/VM_Pannello_controllo.png
 
-    3. Cliccare su tasto **"START/STOP"** e successivamente su pulsante **"STOP"** e la VM sarà stoppata;
+    3. Cliccare su tasto **"START/STOP"**, successivamente su pulsante **"STOP"** e la VM verrà stoppata;
 
       .. image:: img/VM_stop.png
 
