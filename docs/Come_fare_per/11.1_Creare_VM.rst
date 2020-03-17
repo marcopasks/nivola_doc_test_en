@@ -54,7 +54,7 @@ virtual machine, per farlo, Nivola mette a disposizione 3 metodi distinti.
 
 Con questa soluzione il sistema propone una serie di **chiavi ssh** da cui scegliere.
 L'operatore potrà individuare la chiave sfruttando la checkbox
-e successivamente, premere **VAI A RIPEILOGO**;
+e successivamente, concludere premendo **VAI A RIEPILOGO**;
 
 .. image:: img/key-ssh-selezionata-da-lista.png
 
