@@ -19,35 +19,35 @@ Per la creazione del server, dalla lista, procedere in questo modo:
 .. image:: img/Add_VM.png
 
 2. Inserire il **Nome della virtual machine** nella textbox e scegliere il **TEMPLATE**
-   da cui generare la virtual machine. Per farlo baste un clic su uno degli OS propposti
-   come pulsanti e in ultimo sul pulsante **VAI TIPO VM**;
+   da cui generare la virtual machine. Per farlo baste un clic su uno degli OS proposti
+   e in ultimo sul pulsante **VAI TIPO VM**;
+
+.. image:: img/Template_VM.png
+
+3. Specificare il type, la CPU, la RAM e il Disco sfruttando il **CheckBox** in testa ad ogni riga esposta
+dal portale e cliccare sul pulsante **VAI A DISCO**;
 
 .. image:: img/Tipo_VM.png
 
-4. Specificare il type, la CPU, la RAM e il Disco sfruttando il **CheckBox** in testa ad ogni riga esposta
-dal portale e cliccare sul pulsante **VAI A DISCO**;
-
-.. image:: img/Risorse_VM.png
-
-5. Indicare dimensione del disco ed eventualmente, aggiungere altri dischi,
+4. Indicare dimensione del disco ed eventualmente, aggiungere altri dischi,
 sfruttando il pulsante **AGGIUNGI DISCO AGGIUNTIVO**. Al termine,
 proseguire cliccando su **VAI A NETWORK E SECURITY**;
 
 .. image:: img/Disco_VM.png
 
-6. Sfruttando le combo box proposte, inserire: **Region, Availability Zone,
+5. Sfruttando le combo box proposte, inserire: **Region, Availability Zone,
 Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**;
 
-.. image:: img/Network_Security_VM.png
+.. image:: img/Tags_VM.png
 
-7. Nel caso servissero, è possibile assegnare dei tag alla virtual machine,
+6. Nel caso servissero, è possibile assegnare dei tags alla virtual machine,
 scrivendoli nella casella di testo e premendo invio.
 E' possibile eliminare quanto inserito in precedenza, cliccando la **"X"**
 a fianco dei tags da cancellare. Alla fine, proseguire premendo **VAI A SICUREZZA**;
 
-.. image:: img/Tags_VM.png
+.. image:: img/Network_Security_VM.png
 
-8. In questa fase è obbligatorio generarare una **CHIAVE SSH** da associare alla
+7. In questa fase è obbligatorio generarare una **CHIAVE SSH** da associare alla
 virtual machine, per farlo, Nivola mette a disposizione 3 metodi distinti.
 
 **SCEGLIENDO UNA DELLE CHIAVI DALLA LISTA**
@@ -96,15 +96,15 @@ selezionarla dalla lista e premere **VAI A RIPEILOGO**;
 
 .. image:: img/key-ssh-selezionata-da-lista.png
 
-9. Controllare gli attributi del server da creare
+8. Controllare gli attributi del server da creare
 e validarli premendo sul pulsante **CONFERMA E CREA LA VIRTUAL MACHINE**.
 Il portale procederà alla creazione della **VM** utilizzando i parametri
 inseriti dall'operatore;
 
 .. image:: img/Riepilogo_VM.png
 
-10. Attendere qualche secondo e il server, comparirà nell’**ELENCO VM**.
-Lo stato iniziale della **Virtual Machine** sarà **acceso** e
+9. Attendere qualche secondo e il server, comparirà nell’**ELENCO VM**.
+Lo stato iniziale della nuova **Virtual Machine** sarà **acceso** e
 quindi disponibile.
 
 
