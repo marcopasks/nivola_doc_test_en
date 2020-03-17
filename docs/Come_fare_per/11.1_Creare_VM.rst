@@ -38,7 +38,7 @@ proseguire cliccando su **VAI A NETWORK E SECURITY**;
 5. Sfruttando le combo box proposte, inserire: **Region, Availability Zone,
 Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**;
 
-.. image:: img/Network_Security_VM_VM.png
+.. image:: img/Network_Security_VM.png
 
 6. Nel caso servissero, è possibile assegnare dei tags alla virtual machine,
 scrivendoli nella casella di testo e premendo invio.
@@ -47,7 +47,7 @@ a fianco dei tags da cancellare. Alla fine, proseguire premendo **VAI A SICUREZZ
 
 .. image:: img/Tags_VM.png
 
-7. In questa fase è obbligatorio generarare una **CHIAVE SSH** da associare alla
+7. In questa fase è obbligatorio generare una **CHIAVE SSH** da associare alla
 virtual machine, per farlo, Nivola mette a disposizione 3 metodi distinti.
 
 **SCEGLIENDO UNA DELLE CHIAVI DALLA LISTA**
@@ -75,7 +75,7 @@ digitata. Terminare premendo **CREA CHIAVE**
 
 .. image:: img/Keyssh-ex-novo.png
 
-dopo di che distinguerla nella lista e premere **VAI A RIPEILOGO**;
+dopo di che distinguerla nella lista e premere **VAI A RIEPILOGO**;
 
 .. image:: img/key-ssh-selezionata-da-lista.png
 
@@ -92,7 +92,7 @@ premere **IMPORTA**;
 .. image:: img/Importa-key-ssh.png
 
 Conclusa la generazione della **chiave ssh**, utilizzare la checkbox per
-selezionarla dalla lista e premere **VAI A RIPEILOGO**;
+selezionarla dalla lista e premere **VAI A RIEPILOGO**;
 
 .. image:: img/key-ssh-selezionata-da-lista.png
 

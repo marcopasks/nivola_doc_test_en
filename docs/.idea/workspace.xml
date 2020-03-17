@@ -390,9 +390,6 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Template_VM.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Disco_VM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Elenco_VM.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -415,6 +412,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Old_Network_Security_VM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Disco_VM.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst">
