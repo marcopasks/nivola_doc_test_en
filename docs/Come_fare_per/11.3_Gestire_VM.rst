@@ -9,7 +9,7 @@ a destra della voce, apparirà  **VM** e a seguito di un clic il sistema popoler
 parte centrale del video con l'**Elenco delle VM**.
 
 Per **gestione delle VM** si intendono tutte le operazioni che consentono l'uso
-sistemistico del server in precedenza generato :ref:`_Creare_VM`.
+sistemistico del server in precededenza :ref:`creato<_Creare_VM>`.
 Appartengono a questo gruppo di operazioni:
 
     1. :ref:`Cercare VM`

@@ -12,8 +12,7 @@ la completa autonomia nella creazione del proprio sistema informativo e nella
 migrazione delle applicazioni, in assoluta sicurezza. I servizi sono facilmente
 scalabili, senza spese di licenza e di gestione dell’hardware. Ogni cliente può
 quindi creare in autonomia il proprio sistema informativo, pagandolo
-esclusivamente in base all’utilizzo, attraverso sistemi di rilevazione
- dei consumi effettivi
+esclusivamente in base all’utilizzo, attraverso sistemi di rilevazione dei consumi effettivi
 
 
 **100% Open Source**
