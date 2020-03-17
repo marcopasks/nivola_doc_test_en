@@ -64,13 +64,13 @@ Con questo metodo si chiede al sistema di generare direttamente una
 nuova **chiave ssh**;
 
 
-Il processo inizia premendo il tasto **"+"**
+La funzione inizia premendo il tasto **"+"**
 
 .. image:: img/Add_VM.png
 
-Nella casella di testo, **Inserire nome della nuova chiave**
-dando modo al sistema di generare la chiave
-unenedo il nome dell'aacount al termine della stringa appena
+Nella casella di testo, **inserire nome della nuova chiave**
+dando modo al sistema di dare un nome alla chiave
+aggiungendo il suffisso "key", il nome dell'account al termine della stringa
 digitata. Terminare premendo **CREA CHIAVE**
 
 .. image:: img/Keyssh-ex-novo.png
@@ -81,12 +81,12 @@ dopo di che distinguerla nella lista e premere **VAI A RIEPILOGO**;
 
 **IMPORTANDO LA CHIAVE SSH**
 
-Premere il tasto per la "creazione"
+Premere il tasto per l' "importazione"
 
 .. image:: img/Crea-ssh-da-lista.png
 
 **Inserire il nome chiave**, immettere la chiave precedentemente generata
-nel campo di testo  **Inserire la chiave** e
+da un sistema esterno a Nivola, nel campo di testo  **Inserire la chiave** e
 premere **IMPORTA**;
 
 .. image:: img/Importa-key-ssh.png

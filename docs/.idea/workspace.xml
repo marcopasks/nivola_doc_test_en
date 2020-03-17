@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/Crea-keyssh-ex-novo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/Crea-keyssh-ex-novo.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -405,9 +406,6 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Keyssh-da-cancellare.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Keyssh-ex-novo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Menu_laterale.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -415,6 +413,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Disco_VM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Keyssh-ex-novo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst">
