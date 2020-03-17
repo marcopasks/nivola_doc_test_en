@@ -20,5 +20,5 @@ Per **cancellare** una Virtual Machine procedere con le seguenti operazioni:
 
     4. La VM sarà **eliminata definitivamente** scomparendo dall'elenco.
 
-      .. image:: img/VM_cancellata.png
+      .. image:: img/VM_Cancellata.png
 
