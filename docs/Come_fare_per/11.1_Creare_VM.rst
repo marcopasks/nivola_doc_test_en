@@ -10,37 +10,22 @@ sinistra dello schermo, cliccando sulla label **VM** sotto **Compute**
 A seguito di un clic su **VM**, il sistema popolerà la
 parte destra del video con l'**Elenco delle VM**.
 
-.. image:: img/Elenco_VM.png
+.. image:: img/VM_Elenco.png
 
-Per la creazione di un server, procedere come segue:
+Per la creazione del server, dalla lista, procedere in questo modo:
 
 1. Fare clic sul pulsante **"+""**:
 
 .. image:: img/Add_VM.png
 
-2. Inserire il **Nome della virtual machine** nella textbox;
-
-.. code-block:: bash
-
-    $ Queste indicazioni sono vincolanti solo per gli account dell'Organizzazione CSI
-
-      Per i nomi da assegnare ai Server il modello da seguire è < ambiente >-< middleware >< n >-< codice prodotto >:
-
-        **Ambiente**  : Il campo evidenzia solo quelli diversi da produzione (dev, tst, coll).
-        **Middleware**; prevede i seguenti valori jboss, tomcat, wf (web server internet), wfrupar (web server rupar),
-                        Nel caso la Vm sia  DB NON as-a-service si utilizzerano questi nomi: Postgresql --> pg e MySQL --> mysql.
-                        I nomi dei DB as-a-service sono assegnati dal gruppo di supporto.
-        Il valore numerico **(n)** serve per distinguere i sistemi con la stessa funzione.
-        Il campo **codice prodotto** è il codice prodotto riportato sulle anagrafiche aziendali (10 caratteri).
-
-
-3. Scegliere il **TEMPLATE** da cui generare la virtual machine facendo un clic su uno degli OS propposti come pulsanti
-e successivamente sul pulsante **VAI TIPO VM**;
+2. Inserire il **Nome della virtual machine** nella textbox e scegliere il **TEMPLATE**
+   da cui generare la virtual machine. Per farlo baste un clic su uno degli OS propposti
+   come pulsanti e in ultimo sul pulsante **VAI TIPO VM**;
 
 .. image:: img/Tipo_VM.png
 
 4. Specificare il type, la CPU, la RAM e il Disco sfruttando il **CheckBox** in testa ad ogni riga esposta
-dal portale e di seguito cliccare il pulsante **VAI A DISCO**;
+dal portale e cliccare sul pulsante **VAI A DISCO**;
 
 .. image:: img/Risorse_VM.png
 
@@ -50,7 +35,7 @@ proseguire cliccando su **VAI A NETWORK E SECURITY**;
 
 .. image:: img/Disco_VM.png
 
-6. Sfruttando le combo box, proposte da Nivola, inserire: **Region, Availability Zone,
+6. Sfruttando le combo box proposte, inserire: **Region, Availability Zone,
 Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**;
 
 .. image:: img/Network_Security_VM.png
@@ -58,14 +43,15 @@ Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**;
 7. Nel caso servissero, è possibile assegnare dei tag alla virtual machine,
 scrivendoli nella casella di testo e premendo invio.
 E' possibile eliminare quanto inserito in precedenza, cliccando la **"X"**
-a fianco dei tags da cancellare. Alla fine, proseguire premendo **VAI A CHIAVI SSH**;
+a fianco dei tags da cancellare. Alla fine, proseguire premendo **VAI A SICUREZZA**;
 
 .. image:: img/Tags_VM.png
 
 8. In questa fase è obbligatorio generarare una **CHIAVE SSH** da associare alla
-virtual machine, per farlo, Nivola mette a disposizione 3 metodi;
+virtual machine, per farlo, Nivola mette a disposizione 3 metodi distinti.
 
 **SCEGLIENDO UNA DELLE CHIAVI DALLA LISTA**
+
 Con questa soluzione il sistema propone una serie di **chiavi ssh** da cui scegliere.
 L'operatore potrà individuare la chiave sfruttando la checkbox
 e successivamente, premere **VAI A RIPEILOGO**;
@@ -73,15 +59,22 @@ e successivamente, premere **VAI A RIPEILOGO**;
 .. image:: img/key-ssh-selezionata-da-lista.png
 
 **CREANDO CHIAVE SSH EX NOVO**
+
 Con questo metodo si chiede al sistema di generare direttamente una
-nuova **chiave ss**;
+nuova **chiave ssh**;
 
 
 Il processo inizia premendo il tasto **"+"**
 
 .. image:: img/Add_VM.png
 
-Nella casella di testo,**Inserire nome della nuova chiave** e premere **CREA CHIAVE**
+Nella casella di testo, **Inserire nome della nuova chiave**
+dando modo al sistema di generare la chiave
+unenedo il nome dell'aacount al termine della stringa appena
+digitata. Terminare premendo **CREA CHIAVE**
+
+.. image:: img/Keyssh-ex-novo.png
+
 dopo di che distinguerla nella lista e premere **VAI A RIPEILOGO**;
 
 .. image:: img/key-ssh-selezionata-da-lista.png

@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/Disco_VM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/Disco_VM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/Network_Security_VM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/Network_Security_VM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/Riepilogo_VM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/Riepilogo_VM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/Tags_VM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/Tags_VM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/Tipo_VM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/Tipo_VM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/VM_innesco_crea.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/VM_innesco_crea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/key-ssh-selezionata-da-lista.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/key-ssh-selezionata-da-lista.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,16 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/16.0_Lavorare_con_STAAS.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/30.1_Monitoraggio.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
@@ -43,28 +41,38 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Disco_VM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Risorse_VM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_Elenco.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_innesco_crea.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/11.4_Cancellare_VM.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/30.0_Strumenti.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/18.1_Comunicare_con_internet.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/14.0_Lavorare_con_DBAAS.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -86,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linee_guida/2_Modelli_di_sicurezza.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/20.0_Gestione_password_esterni.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/4_Come_stimare_i_costi_del_tuo_Cloud.rst" />
@@ -137,6 +144,7 @@
         <option value="$PROJECT_DIR$/Overview_Nivola/1_Cosa_e_Nivola.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/11.4_Cancellare_VM.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst" />
       </list>
     </option>
   </component>
@@ -271,18 +279,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.5_Gestione_chiavi_ssh.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.6_Modificare_tipo_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.1_Creare_DBAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/14.3_Cancellare_DBAAS.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -331,9 +327,6 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Service_Portal/img/image0.png">
@@ -415,7 +408,22 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.4_Cancellare_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_innesco_crea.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_Elenco.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Risorse_VM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Disco_VM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.1_Creare_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>

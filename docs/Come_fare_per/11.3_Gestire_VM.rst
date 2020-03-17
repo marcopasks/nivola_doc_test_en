@@ -74,7 +74,7 @@ Per effettuare lo **start** della Virtual Machine, procedere come segue:
 
       .. image:: img/VM_Pannello_controllo.png
 
-    3. Proseguire sfruttanto il tasto **"START/STOP"** e successivamente sul pulsante **"START"**;
+    3. Concludere con il tasto **"START/STOP"** e successivamente sul pulsante **"START"**;
 
       .. image:: img/VM_start.png
 
