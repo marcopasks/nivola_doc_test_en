@@ -14,7 +14,7 @@ parte destra del video con l'**Elenco delle VM**.
 
 Per la creazione del server, dalla lista, procedere in questo modo:
 
-1. Fare clic sul pulsante **"+""**:
+1. Fare clic sul pulsante **"+"**:
 
 .. image:: img/Add_VM.png
 
