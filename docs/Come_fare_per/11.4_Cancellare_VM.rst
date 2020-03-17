@@ -4,7 +4,7 @@
 **Cancellare le Virtual Machine**
 =================================
 
-Per **cancellare** una Virtual Machine seguire i seguenti passaggi:
+Per **cancellare** una Virtual Machine procedere con le seguenti operazioni:
 
     1. Cercare e Selezionare, dall’**Elenco VM**, l'host da eliminare;
 
@@ -14,6 +14,11 @@ Per **cancellare** una Virtual Machine seguire i seguenti passaggi:
 
       .. image:: img/Pulsante_cancella.png
 
-    3. Confermare sfruttando il pulsante **"SI"** e la VM sarà **eliminata definitivamente**;
+    3. Confermare l'operazione, sfruttando il pulsante **"SI"**;
 
       .. image:: img/VM_Conferma_cancella.png
+
+    4. La VM sarà **eliminata definitivamente** scomparendo dall'elenco.
+
+      .. image:: img/VM_cancellata.png
+
