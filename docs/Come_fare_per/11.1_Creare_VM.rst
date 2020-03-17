@@ -27,7 +27,7 @@ Per la creazione del server, dalla lista, procedere in questo modo:
 3. Specificare il type, la CPU, la RAM e il Disco sfruttando il **CheckBox** in testa ad ogni riga esposta
 dal portale e cliccare sul pulsante **VAI A DISCO**;
 
-.. image:: img/Tipo_VM.png
+.. image:: img/CpuRamDisco_VM.png
 
 4. Indicare dimensione del disco ed eventualmente, aggiungere altri dischi,
 sfruttando il pulsante **AGGIUNGI DISCO AGGIUNTIVO**. Al termine,
@@ -38,14 +38,14 @@ proseguire cliccando su **VAI A NETWORK E SECURITY**;
 5. Sfruttando le combo box proposte, inserire: **Region, Availability Zone,
 Subnet e Gruppo di sicurezza**.  Al termine cliccare su **VAI A TAGS**;
 
-.. image:: img/Tags_VM.png
+.. image:: img/Network_Security_VM_VM.png
 
 6. Nel caso servissero, è possibile assegnare dei tags alla virtual machine,
 scrivendoli nella casella di testo e premendo invio.
 E' possibile eliminare quanto inserito in precedenza, cliccando la **"X"**
 a fianco dei tags da cancellare. Alla fine, proseguire premendo **VAI A SICUREZZA**;
 
-.. image:: img/Network_Security_VM.png
+.. image:: img/Tags_VM.png
 
 7. In questa fase è obbligatorio generarare una **CHIAVE SSH** da associare alla
 virtual machine, per farlo, Nivola mette a disposizione 3 metodi distinti.
