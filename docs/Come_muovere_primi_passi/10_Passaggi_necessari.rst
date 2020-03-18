@@ -75,7 +75,7 @@ e della **Divisione** sono la condizione necessaria alla generazione dell'**acco
 ===================
 
 Successivamente ad aver costituito la struttura organizzativa,
-sarà possibile indicare a **Nivola*** gli **utenti** associati a **ruoli**
+sarà possibile indicare a **Nivola** gli **utenti** associati a **ruoli**
 che ad ogni livello, potranno agire sugli oggetti con compiti specifici.
 
 
