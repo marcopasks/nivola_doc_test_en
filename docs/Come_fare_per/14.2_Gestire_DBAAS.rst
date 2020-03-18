@@ -20,7 +20,7 @@ Appartengono a questo gruppo di operazioni:
     3. :ref:`Creazione utente`
     4. :ref:`Cancellazione utente`
 
-.. _Cercare un istanza Dbaas:
+.. _Cercare un istanza DbaaS:
 
 **Cercare un istanza DbaaS**
 ============================
