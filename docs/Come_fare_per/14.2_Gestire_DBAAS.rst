@@ -15,17 +15,14 @@ Per **gestione del DBAAS** si intendono tutte le funzioni per l'utilizzo
 dell'istanza DB in precedenza :ref:`creata <Creare_DBAAS>`
 Appartengono a questo gruppo di operazioni:
 
-    1. **Cercare un istanza Dbaas**. [1]_
-    2. **Connettersi ad un istanza Dbaas** [2]_
-    3. **Creazione utente** [3]_
-    4. **Cancellazione utente** [4]_
+    1. :ref:`Cercare un istanza DbaaS`
+    2. :ref:`Connettersi ad un istanza DbaaS`
+    3. :ref:`Creazione utente`
+    4. :ref:`Cancellazione utente`
 
+.. _Cercare un istanza Dbaas:
 
-
-
-.. [1]
-
-**Cercare un istanza Dbaas**
+**Cercare un istanza DbaaS**
 ============================
 
 All'interno di ciascun Account è possibile fare ricerche su tutte le istanze create
@@ -43,9 +40,10 @@ le caratteristiche dei server. Per eseguire una ricerca è necessario procedere 
 
 
 
-.. [2]
 
-**Connettersi ad un istanza Dbaas**
+.. _Connettersi ad un istanza DbaaS:
+
+**Connettersi ad un istanza DbaaS**
 ===================================
 
 Per raggiungere un istanza del Database è necessario procedere
@@ -65,7 +63,7 @@ nella maniera seguente:
 
       .. image:: img/DBAAS_connetti_php.png
 
-.. [3]
+.. _Creazione utente:
 
 **Creazione utente**
 ====================
@@ -87,7 +85,7 @@ Per creare un nuovo utente procedere servono i seguenti passaggi:
       .. image:: img/DBAAS_utenti_dati.png
 
 
-.. [4]
+.. _Cancellazione utente:
 
 **Cancellazione utente**
 ========================

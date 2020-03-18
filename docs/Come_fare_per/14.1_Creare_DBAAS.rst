@@ -64,7 +64,7 @@ a fianco dei tags. Premere **VAI A RIEPILOGO** per proseguire.
 
 .. image:: img/DBAAS_vai_tags.png
 
-9. Nel **riepilogo** dopo aver controllato i parametri inseriti
+9. Nel **riepilogo**, dopo aver controllato i parametri inseriti
 nel processo di creazione, cliccare su **"CONFERMA E CREA L'ISTANZA"**
 per materializzare la nuova istanza.
 
