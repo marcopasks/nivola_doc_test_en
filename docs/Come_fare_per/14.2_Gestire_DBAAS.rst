@@ -49,15 +49,19 @@ le caratteristiche dei server. Per eseguire una ricerca è necessario procedere 
 Per raggiungere un istanza del Database è necessario procedere
 nella maniera seguente:
 
-    1. Selezionare l'istanza e premere **pulsante connetti** ;
+    1. Selezionare l'istanza;
 
        .. image:: img/DBAAS_scegli_php.png
 
-    2. Attendere che il sistema esponga l'**url** del pannello di controllo;
+    2. Premere **pulsante connetti** ;
+
+       .. image:: img/Pulsante_connetti.png
+
+    3. Attendere che il sistema esponga l'**url** del pannello di controllo;
 
       .. image:: img/DBAAS_connetti_link.png
 
-    3. Dopo il clic sull'indirizzo, Nivola, metterà a disposizione dell'operatore il tool
+    4. Dopo il clic sull'indirizzo, Nivola, metterà a disposizione dell'operatore il tool
        per l'amministrazione dell'istanza. Per completare il percorso, sarà necessario indicare **nome utente**
        e **Password**;
 
@@ -73,14 +77,14 @@ La funzione è fruibile attraverso il tasto **Pannello gestione Dbaas**:
 .. image:: img/VM_Pannello_controllo.png
 
 
-Per creare un nuovo utente procedere servono i seguenti passaggi:
+Dop aver attivato la funzione, procedere attraverso i questi passaggi:
 
     1. Scegliere il tabstrip **UTENTI**;
 
       .. image:: img/DBAAS_tabstrip_utenti.png
 
     3. Indicare obbligatoriamente **nome utente**, **Tipologia** in via facoltativa
-       le **note*** e proseguire con il tasto **CREA UTENTE** ;
+       le **note*** e concludere con il tasto **CREA UTENTE** ;
 
       .. image:: img/DBAAS_utenti_dati.png
 
