@@ -99,7 +99,7 @@ non ha limitazioni.
 Questo template caratterizza il SG che lo utilizza ad impedire
 agli host al suo interno di comunicare tra loro
 mentre l'uscita è priva di filtri.
-L'ingresso è consentito ai server delle reti di management e di Gestione.
+L'ingresso è consentito esclusivamente ai server delle reti di Management e di Gestione.
 
 
 .. image:: img/SG_Template_rule_isolated.png
