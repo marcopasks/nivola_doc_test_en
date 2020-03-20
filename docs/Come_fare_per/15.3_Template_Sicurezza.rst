@@ -7,9 +7,31 @@ I template di Sicurezza sono utilizzati
 nella fase di :ref:`creazione del Security Group <Creare_Security_Group>`.
 Sono dei modelli, modificabili in seguito, a cui si attiene il Security Group
 per consentire la comunicazione dei server virtuali al suo interno e con
-altri istanziati all'esterno del perimetro di sicurezza generato.
+altri istanziati all'esterno del perimetro di sicurezza implentato.
 
-I modelli fruibili, in alternativa tra loro, sono:
+Per acquisire familiarità con la tematica dei template è importante
+saper distinguere i **CIDR** sui cui si attestano gli host delle
+reti di Management e quelli di Gestione. La tabella riportata in seguit
+è lo schema a cui l'utente può fare riferimento.
+
++------------------------+-----------------------------------------+
+|          CIDR          |             DESCRIZIONE                 |
++========================+=========================================+
+| 158.102./*             | **Classe di indirizzi IP** degli host   |
+|                        | attestati sulla rete di **Gestione**    |
++------------------------+-----------------------------------------+
+| 10.102.184./*          | **Classe di indirizzi IP** degli host   |
+|                        | attestati sulla rete di **Gestione**    |
++------------------------+-----------------------------------------+
+| 10.138.154./*          | **Classe di indirizzi IP** degli host   |
+|                        | attestati sulla rete di **Management**  |
++------------------------+-----------------------------------------+
+| 10.138.218./*          | **Classe di indirizzi IP** degli host   |
+|                        | attestati sulla rete di **Management**  |
++------------------------+-----------------------------------------+
+
+
+I modelli utilizzabili, in alternativa tra loro, sono:
 
 
 
