@@ -11,7 +11,7 @@ altri istanziati all'esterno del perimetro di sicurezza implentato.
 
 Per acquisire familiarità con la tematica dei template è importante
 saper distinguere i **CIDR** sui cui si attestano gli host delle
-reti di Management e quelli di Gestione. La tabella riportata in seguit
+reti di Management e quelli di Gestione. La tabella riportata 
 è lo schema a cui l'utente può fare riferimento.
 
 +------------------------+-----------------------------------------+
