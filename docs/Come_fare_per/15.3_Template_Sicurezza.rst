@@ -53,7 +53,7 @@ dal Security Group senza alcuna limitazione in quanto a IP e alle Porte.
 Per gli Host collocati al suo interno, la comunicazione
 potrà avvenire senza filtri in grado di inibire porte ed IP.
 
-Le uniche macchine in grado di accedere saranno quelle
+Le uniche macchine in grado di accedere saranno soltanto quelle
 poste sulle reti di di Management e di Gestione.
 
 .. image:: img/Template-backend.png
@@ -94,13 +94,16 @@ non ha limitazioni.
 **Security Group Isolated**
 ===========================
 
+.. image:: img/Template-isolated.png
+
 Questo template caratterizza il SG che lo utilizza ad impedire
 agli host al suo interno di comunicare tra loro
 mentre l'uscita è priva di filtri.
 L'ingresso è consentito ai server delle reti di management e di Gestione.
 
 
-.. image:: img/Template-isolated.png
+.. image:: img/SG_Template_rule_isolated.png
+
 
 
 
