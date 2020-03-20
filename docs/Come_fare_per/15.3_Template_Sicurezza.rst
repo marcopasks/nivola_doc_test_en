@@ -123,7 +123,7 @@ L'ingresso è consentito esclusivamente ai server delle reti di Management e di 
 Isola completamente il Security group che nasce assumendolo come
 template. Dall'esterno nessuno degli host è raggiungibile
 sia per ricevere e che per comunicare.
-E' completamente libera la comunicazione tra gli host
-all'interno dello stesso SG.
+La comunicazione, tra gli host all'interno dello stesso SG, è
+priva di ogni restrizione in entrata ed in uscita.
 
 .. image:: img/SG_Template_rule_simpleprivate.png
