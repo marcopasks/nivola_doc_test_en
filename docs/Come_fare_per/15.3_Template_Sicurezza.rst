@@ -11,7 +11,7 @@ altri istanziati all'esterno del perimetro di sicurezza implentato.
 
 Per acquisire familiarità con la tematica dei template è importante
 saper distinguere i **CIDR** sui cui si attestano gli host delle
-reti di Management e quelli di Gestione. La tabella riportata 
+reti di Management e quelli di Gestione. La tabella riportata
 è lo schema a cui l'utente può fare riferimento.
 
 +------------------------+-----------------------------------------+
@@ -51,9 +51,9 @@ I servizi che assumono questo modello consentono di uscire
 dal Security Group senza alcuna limitazione in quanto a IP e alle Porte.
 
 Per gli Host collocati al suo interno, la comunicazione
-potrà avvenire senza regole in grado di inibire porte ed IP.
+potrà avvenire senza filtri in grado di inibire porte ed IP.
 
-Le macchine in grado di accedere saranno quelle
+Le uniche macchine in grado di accedere saranno quelle
 poste sulle reti di di Management e di Gestione.
 
 .. image:: img/Template-backend.png
@@ -70,7 +70,7 @@ senza alcun vincolo di Ip e di porte.
 Dentro il perimetro del SG, le VM possono comunicare
 soltanto attraverso le **porte 80 e 443**.
 
-Gli host che di default sono in grado raggiungere il SG creato con questo template
+Gli host che di default sono in grado raggiungere il SG, creato con questo template,
 sono quelli attestati sulla rete Management e su quella di Gestione.
 
 .. image:: img/Template-frontend.png
@@ -84,7 +84,7 @@ sono quelli attestati sulla rete Management e su quella di Gestione.
 E' un modello che impedisce ogni tipo di comunicazione da e
 verso l'esterno del Security Group che lo adotta.
 La trasmissione e la comunicazione tra gli host dello stesso SG
-non ha alcun vincolo.
+non ha limitazioni.
 
 .. image:: img/Template-simple.png
 
@@ -96,7 +96,7 @@ non ha alcun vincolo.
 
 Questo template caratterizza il SG che lo utilizza ad impedire
 agli host al suo interno di comunicare tra loro
-mentre l'uscita è priva di limitazioni.
+mentre l'uscita è priva di filtri.
 L'ingresso è consentito ai server delle reti di management e di Gestione.
 
 
@@ -111,8 +111,8 @@ L'ingresso è consentito ai server delle reti di management e di Gestione.
 
 Isola completamente il Security group che nasce assumendolo come
 template. Dall'esterno nessuno degli host è raggiungibile
-sia per comunicare che ricevere informazioni.
-E' completamente libera la comunicazione tra i devices
+sia per ricevere e che per comunicare.
+E' completamente libera la comunicazione tra gli host
 all'interno dello stesso SG.
 
 .. image:: img/Template-simpleprivate.png
