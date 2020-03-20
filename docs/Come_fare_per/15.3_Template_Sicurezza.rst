@@ -47,6 +47,8 @@ I modelli utilizzabili, in alternativa tra loro, sono:
 **Security Group BackEnd**
 ==========================
 
+.. image:: img/Template-backend.png
+
 I servizi che assumono questo modello consentono di uscire
 dal Security Group senza alcuna limitazione in quanto a IP e alle Porte.
 
@@ -56,13 +58,15 @@ potrà avvenire senza filtri in grado di inibire porte ed IP.
 Le uniche macchine in grado di accedere saranno soltanto quelle
 poste sulle reti di di Management e di Gestione.
 
-.. image:: img/Template-backend.png
+.. image:: img/SG_Template_rule_bckend.png
 
 
 .. _Security Group FrontEnd:
 
 **Security Group FrontEnd**
 ===========================
+
+.. image:: img/Template-frontend.png
 
 I Security Group che usano questo template permettono di uscire
 senza alcun vincolo di Ip e di porte.
@@ -73,7 +77,7 @@ soltanto attraverso le **porte 80 e 443**.
 Gli host che di default sono in grado raggiungere il SG, creato con questo template,
 sono quelli attestati sulla rete Management e su quella di Gestione.
 
-.. image:: img/Template-frontend.png
+.. image:: img/SG_Template_rule_frontend.png
 
 
 .. _Security Group Simple:
@@ -81,12 +85,14 @@ sono quelli attestati sulla rete Management e su quella di Gestione.
 **Security Group Simple**
 =========================
 
+.. image:: img/Template-simple.png
+
 E' un modello che impedisce ogni tipo di comunicazione da e
 verso l'esterno del Security Group che lo adotta.
-La trasmissione e la comunicazione tra gli host dello stesso SG
-non ha limitazioni.
+La trasmissione e la comunicazione è  consentita
+unicamente tra gli host dello stesso SG.
 
-.. image:: img/Template-simple.png
+.. image:: img/SG_Template_rule_simple.png
 
 
 .. _Security Group Isolated:
@@ -112,10 +118,12 @@ L'ingresso è consentito esclusivamente ai server delle reti di Management e di 
 **Security Group Simple Private**
 =================================
 
+.. image:: img/Template-simpleprivate.png
+
 Isola completamente il Security group che nasce assumendolo come
 template. Dall'esterno nessuno degli host è raggiungibile
 sia per ricevere e che per comunicare.
 E' completamente libera la comunicazione tra gli host
 all'interno dello stesso SG.
 
-.. image:: img/Template-simpleprivate.png
+.. image:: img/SG_Template_rule_simpleprivate.png
