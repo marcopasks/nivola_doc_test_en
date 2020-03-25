@@ -15,8 +15,8 @@ gli host delle reti di Management e quelli di Gestione.
 
 Per **rete di gestione** sono da interdersi tutte le reti su cui
 sono collocate le postazioni degli amministratori di sistema.
-La **rete di management** invece è
-la rete dove sono connessi tutti gli host e/o server
+Sulla **rete di management** invece, è
+dove sono connessi tutti gli host e/o server
 infrastrutturali, dedicati ai servizi.
 
 La tabella riportata è lo schema a cui l'utente può fare riferimento.
