@@ -1,6 +1,6 @@
 .. _Creare_DBAAS:
 
-**Creare istanze del Database as Sevice**
+**Creare istanze del Database as a Service**
 ******************************************
 
 La funzione rientra nel **Database as Service**. La **creazione DBaaS** è utilizzabile dalla parte
