@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/16.1_Creare_STAAS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/16.1_Creare_STAAS.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Come_fare_per/16.2_Gestire_STAAS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/16.2_Gestire_STAAS.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_crea.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_crea.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_lista.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_lista.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/STAAS_collegarsi.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/STAAS_collegarsi.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +22,6 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/16.2_Gestire_STAAS.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_piu.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -69,6 +61,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_Pannello_controllo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_piu.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -398,9 +395,6 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Pulsante_connetti.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Pulsante_cancella.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/VM_modifica_flavour.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -416,13 +410,16 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Add_VM.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_piu.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_crea.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_lista.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Pulsante_cancella.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_piu.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/16.2_Gestire_STAAS.rst">

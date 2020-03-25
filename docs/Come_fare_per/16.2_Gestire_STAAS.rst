@@ -15,10 +15,7 @@ Appartengono a questo gruppo di attività:
     1. :ref:`Cercare Share`
     2. :ref:`Modificare capacità dello Share`
     3. :ref:`Autorizzare l'uso`
-    4. :ref:`Togliere autorizzazione`
-
-
-    1. :ref:`Cercare VM`
+    4. :ref:`Togliere l'autorizzazione`
 
 
 .. _Cercare uno Share:
@@ -38,11 +35,13 @@ Per eseguire una ricerca è necessario procedere come segue:
       .. image:: img/STAAS_cercare.png
 
 
-.. _Modificare Dimensione dello Share
+.. _Modificare capacità dello Share:
 
-**Modificare Dimensione dello Share**
-=====================================
-Per aumentare o diminuire la capienza del disco, seguire i seguenti passaggi:
+**Modificare capacità dello Share**
+====================================
+
+Per aumentare o diminuire la capienza del disco, seguire quanto
+riportato di seguito:
 
     1. Selezionare lo storage dall’**Elenco Shares**;
 
@@ -65,10 +64,10 @@ Per aumentare o diminuire la capienza del disco, seguire i seguenti passaggi:
       .. image:: img/STAAS_resize.png
 
 
-.. _Autorizzare ad usarlo:
+.. _Autorizzare l'uso:
 
-**Autorizzare ad usarlo**
-=========================
+**Autorizzare l'uso**
+=====================
 
 Per permettere ad un host l'**autorizzazione** di accedere allo spazio
 di archiviazione istanziato
@@ -96,13 +95,13 @@ occorre procedere seguendo questi passaggi:
 
       .. image:: img/STAAS_autorizza_lista.png
 
-.. _Togliere autorizzazione:
+.. _Togliere l'autorizzazione:
 
-**Togliere autorizzazione**
-===========================
+**Togliere l'autorizzazione**
+=============================
 
 Per revocare un **autorizzazione** concessa in precedenza
-è necessario seguirequesta sequenza di operazioni:
+è necessario seguire queste operazioni:
 
     1. Individuare lo **Shares** a cui è si riferisce l'autorizzazione da rimuovere;
 
@@ -112,10 +111,14 @@ Per revocare un **autorizzazione** concessa in precedenza
 
       .. image:: img/STAAS_autorizza.png
 
-    3. Selezionare la check box dell'autorizzazione da annullare e premere sul tasto **"cestino"**;
+    3. Selezionare la check box dell'autorizzazione da annullare;
 
       .. image:: img/STAAS_autorizza_cancella.png
 
-    4. L'**autorizzazione** sarà cancellata dall'**Elenco Autorizzazioni Share**;
+    4. Premere sul tasto **"cestino"**;
+
+      .. image:: img/Pulsante_cancella.png
+
+    5. L'**autorizzazione** sarà cancellata dall'**Elenco Autorizzazioni Share**;
 
       .. image:: img/STAAS_cancellata.png
