@@ -12,9 +12,9 @@ Per **gestione dello STAAS** si intendono tutte le operazioni che consentono l'u
 sistemistico dello spazio disco :ref:`creato <Creare_STAAS>` in precedenza.
 Appartengono a questo gruppo di attività:
 
-    1. :ref:`Cercare Share`
+    1. :ref:`Cercare uno Share`
     2. :ref:`Modificare capacità dello Share`
-    3. :ref:`Autorizzare l'uso`
+    3. :ref:`Condividere Share`
     4. :ref:`Togliere l'autorizzazione`
 
 
@@ -64,14 +64,14 @@ riportato di seguito:
       .. image:: img/STAAS_resize.png
 
 
-.. _Autorizzare l'uso:
+.. _Condividere Share:
 
-**Autorizzare l'uso**
+**Condividere Share**
 =====================
 
 Per permettere ad un host l'**autorizzazione** di accedere allo spazio
-di archiviazione istanziato
-occorre procedere seguendo questi passaggi:
+di archiviazione,
+occorre procedere seguendo questi passi:
 
     1. Individuare lo **Share** da condividere;
 
