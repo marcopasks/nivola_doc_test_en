@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,22 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/SG_pulsante_crea.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -49,22 +64,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_crea_dimensioni_combo.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_modifica_dimensione.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_modifica.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_autorizza_piu.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -86,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/20.0_Gestione_password_esterni.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/4_Come_stimare_i_costi_del_tuo_Cloud.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" />
@@ -107,7 +106,6 @@
         <option value="$PROJECT_DIR$/Overview_Nivola/2_Concetti_Base.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/4_Certificazioni_Compliance.rst" />
         <option value="$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/3_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/02_Come_muovere_primi_passi.rst" />
         <option value="$PROJECT_DIR$/Come_muovere_primi_passi/index_come_muovere_primi_passi.rst" />
@@ -137,6 +135,8 @@
         <option value="$PROJECT_DIR$/Come_fare_per/40.0_Consultare_costi_e_consumi.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" />
       </list>
     </option>
   </component>
@@ -164,21 +164,6 @@
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -271,12 +256,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/key-ssh-selezionata-da-lista.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Keyssh-conferma-cancellazione.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Keyssh-da-cancellare.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -346,9 +325,6 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_utenti_dati.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Template-backend.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -415,13 +391,22 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/40.0_Consultare_costi_e_consumi.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/14.2_Gestire_DBAAS.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.1_Creare_Security_Group.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/SG_pulsante_crea.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
