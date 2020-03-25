@@ -1,6 +1,6 @@
 .. _news:
 
-Release Notes
+**Release Notes**
 ===================================
 
 .. _release-1.8.0:
@@ -14,7 +14,7 @@ New:
     il dettaglio di tutti i costi legati al proprio account
 
 *   l'utente master di account ha la possibilità di creare in completa autonomia
-    virtual machine con Sitema Operativo Windows
+    virtual machine con Sistema Operativo Windows
     
 Changed
 
