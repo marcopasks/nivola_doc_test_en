@@ -27,8 +27,10 @@ Subnet**.  Al termine cliccare su **VAI A RIEPILOGO**;
 
 .. image:: img/STAAS_crea_vai_riepilogo.png
 
-
-7. Controllare i parametri inseriti e premere, **CONFERMA E CREA SHARE** per vedere lo storage creato
-comparire nell'elenco;
+7. Controllare i parametri inseriti e premere, **CONFERMA E CREA SHARE**;
 
 .. image:: img/STAAS_crea_conferma.png
+
+8. Lo storage creato comparire nell'elenco;
+
+.. image:: img/STAAS_crea_termina.png

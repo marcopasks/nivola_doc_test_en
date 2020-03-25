@@ -12,14 +12,16 @@ Per **gestione dello STAAS** si intendono tutte le operazioni che consentono l'u
 sistemistico dello spazio disco :ref:`creato <Creare_STAAS>` in precedenza.
 Appartengono a questo gruppo di attività:
 
-    1. **Cercare Share** [1]_
-    2. **Modificare capacità dello Share** [2]_
-    3. **Autorizzare ad usarlo** [3]_
-    4. **Cancellare autorizzazione** [4]_
+    1. :ref:`Cercare Share`
+    2. :ref:`Modificare capacità dello Share`
+    3. :ref:`Autorizzare l'uso`
+    4. :ref:`Togliere autorizzazione`
 
 
+    1. :ref:`Cercare VM`
 
-.. [1]
+
+.. _Cercare uno Share:
 
 **Cercare uno Share**
 =====================
@@ -36,7 +38,8 @@ Per eseguire una ricerca è necessario procedere come segue:
       .. image:: img/STAAS_cercare.png
 
 
-.. [2]
+.. _Modificare Dimensione dello Share
+
 **Modificare Dimensione dello Share**
 =====================================
 Per aumentare o diminuire la capienza del disco, seguire i seguenti passaggi:
@@ -47,18 +50,22 @@ Per aumentare o diminuire la capienza del disco, seguire i seguenti passaggi:
 
     2. Premere il tasto **Pannello gestione Volume**;
 
+      .. image:: img/VM_Pannello_controllo.png
+
+    3. Cliccare sul simbolo **modifica** a fianco alla dimensione;
+
+      .. image:: img/Pulsante_modifica.png
+
+    4.Scegliere la nuova capacità dalla combo box proposta dal sistema;
+
       .. image:: img/STAAS_selezionato.png
 
-    3. Cliccare sul simbolo a fianco alla dimensione e scegliere la nuova capacità dalla combo box proposta dal sistema;
-
-      .. image:: img/STAAS_selezionato.png
-
-    4. Agire con il mouse sul pulsante **RESIZE** e attendere che la modifica sia apportata dal sistema;
+    5. Agire con il mouse sul pulsante **RESIZE** e attendere che il sistema apporti la modifica;
 
       .. image:: img/STAAS_resize.png
 
 
-.. [3]
+.. _Autorizzare ad usarlo:
 
 **Autorizzare ad usarlo**
 =========================
@@ -67,7 +74,7 @@ Per permettere ad un host l'**autorizzazione** di accedere allo spazio
 di archiviazione istanziato
 occorre procedere seguendo questi passaggi:
 
-    1. Individuare lo **Shares** da condividere;
+    1. Individuare lo **Share** da condividere;
 
        .. image:: img/STAAS_selezionato.png
 
@@ -75,24 +82,24 @@ occorre procedere seguendo questi passaggi:
 
       .. image:: img/STAAS_autorizza.png
 
-    3. Dall'**Elenco Autorizzazioni Share** premere il tasto **"+"";
+    3. Dall'**Elenco Autorizzazioni Share** premere il tasto **"+"**;
 
-      .. image:: img/STAAS__autorizza_piu.png
+      .. image:: img/Add_VM.png
 
     4. Sfruttando le combobox indicare al sistema **"Livello di accesso"",
        **Tipo di accesso** e in base a quest'ultimo parametro, gli apparati
        autorizzati ad usarlo. Al termine premere **CREA AUTORIZZAZIONE**.;
 
-      .. image:: img/STAAS__autorizza_crea.png
+      .. image:: img/STAAS_autorizza_crea.png
 
     5. La nuova **autorizzazione** andrà a popolare l'**Elenco Autorizzazioni Share**.;
 
-      .. image:: img/STAAS__autorizza_lista.png
+      .. image:: img/STAAS_autorizza_lista.png
 
-.. [4]
+.. _Togliere autorizzazione:
 
-**Cancellare autorizzazione**
-=============================
+**Togliere autorizzazione**
+===========================
 
 Per revocare un **autorizzazione** concessa in precedenza
 è necessario seguirequesta sequenza di operazioni:
