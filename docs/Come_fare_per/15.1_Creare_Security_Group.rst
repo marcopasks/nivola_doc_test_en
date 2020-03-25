@@ -18,7 +18,7 @@ dello schermo.
 
 Per istanziare un Security Group, procedere seguendo i passaggi successivi:
 
-1. Fare clic sul pulsante **"+""**:
+1. Fare clic sul pulsante **"+"**:
 
 .. image:: img/Add_VM.png
 

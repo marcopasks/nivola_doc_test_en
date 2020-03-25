@@ -12,11 +12,12 @@ e successivamente su **Security Group** nel sottomenù.
 
 Costituiscono questo gruppo di operazioni:
 
-    1. **Cercare Security Group** [1]_.
-    2. **Visualizzare regole Security Group** [2]_
-    3. **Aggiungere regole Security Group** [3]_
+    1. :ref:`Cercare un Security Group`
+    2. :ref:`Visualizzare regole del Security Group`
+    3. :ref:`Aggiungere regole al Security Group`
 
-.. [1]
+
+.. _Cercare un Security Group:
 
 **Cercare un Security Group**
 =============================
@@ -30,7 +31,8 @@ le caratteristiche dei server. Per eseguire una ricerca è necessario procedere 
 
        .. image:: img/SG_ricerca.png
 
-.. [2]
+
+.. _Visualizzare regole del Security Group:
 
 **Visualizzare regole del Security Group**
 ==========================================
@@ -51,7 +53,7 @@ nel dettaglio seguendo questi passaggi:
        .. image:: img/SG_regole.png
 
 
-.. [3]
+.. _Aggiungere regole al Security Group:
 
 **Aggiungere regole al Security Group**
 =======================================
@@ -75,3 +77,4 @@ attraverso le seguenti operazioni:
 
     3. Al termine, per confermare la regola inserita, premere il pulsante **SALVA REGOLA**;
 
+        .. image:: img/Salva_regola.png
