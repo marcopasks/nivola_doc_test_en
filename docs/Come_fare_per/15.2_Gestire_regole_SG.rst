@@ -58,15 +58,15 @@ nel dettaglio seguendo questi passaggi:
 **Aggiungere regole al Security Group**
 =======================================
 
-Le regole di un **Security Group** sono generate
-attraverso le seguenti operazioni:
+Per aggiungere una regola ad un **Security Group** si dovranno
+effettuare le seguenti operazioni:
 
 
     1. Dopo aver individuato il SG, selezionarlo e premere pulsante **Modifica Security Group**;
 
        .. image:: img/Pulsante_modifica.png
 
-    2. Inserire i parametri necessari al sistema per definire la regola:
+    2. Inserire i parametri necessari al sistema per definire la nuova regola:
 
         •	**Tipo di regola** scegliendo uno dei valori presenti nella comboox;
         •	**Dominio** indicandolo tra quelli proposti;
@@ -77,4 +77,4 @@ attraverso le seguenti operazioni:
 
     3. Al termine, per confermare la regola inserita, premere il pulsante **SALVA REGOLA**;
 
-        .. image:: img/Salva_regola.png
+        .. image:: img/SG_Salva_regola.png
