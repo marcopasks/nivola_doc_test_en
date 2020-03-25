@@ -57,7 +57,7 @@ riportato di seguito:
 
     4.Scegliere la nuova capacità dalla combo box proposta dal sistema;
 
-      .. image:: img/STAAS_selezionato.png
+      .. image:: img/STAAS_modifica_dimensione.png
 
     5. Agire con il mouse sul pulsante **RESIZE** e attendere che il sistema apporti la modifica;
 
