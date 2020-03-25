@@ -37,7 +37,7 @@ come spiegato nei passaggi successivamente descritti.
 
 .. image:: img/VPC_parametri.png
 
-3. Terminare la richiesta, premendo su **INVIA**;
+3. Terminare la richiesta, premendo il tasto **INVIA**;
 
 .. image:: img/VPC_pulsante_invia.png
 
