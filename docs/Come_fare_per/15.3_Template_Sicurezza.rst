@@ -5,28 +5,35 @@
 
 I template di Sicurezza sono utilizzati
 nella fase di :ref:`creazione del Security Group <Creare_Security_Group>`.
-Sono dei modelli, modificabili in seguito, a cui si attiene il Security Group
-per consentire la comunicazione dei server virtuali al suo interno e con
-altri istanziati all'esterno del perimetro di sicurezza implentato.
+
+Ogni template ha delle policies definite di default, che permettono la comunicazione
+tra server posti all'interno e all'esterno dello stesso SG.
 
 Per acquisire familiarità con la tematica dei template è importante
-saper distinguere i **CIDR** sui cui si attestano gli host delle
-reti di Management e quelli di Gestione. La tabella riportata
-è lo schema a cui l'utente può fare riferimento.
+conoscere i **CIDR** (subnet, indirizzi IP) su cui si attestano
+gli host delle reti di Management e quelli di Gestione.
+
+Per **rete di gestione** sono da interdersi tutte le reti su cui
+sono collocate le postazioni degli amministratori di sistema.
+La **rete di management** invece è
+la rete dove sono connessi tutti gli host e/o server
+infrastrutturali, dedicati ai servizi.
+
+La tabella riportata è lo schema a cui l'utente può fare riferimento.
 
 +------------------------+-----------------------------------------+
 |          CIDR          |             DESCRIZIONE                 |
 +========================+=========================================+
-| 158.102./*             | **Classe di indirizzi IP** degli host   |
+| 158.102.160.0/24       | **Classe di indirizzi IP** degli host   |
 |                        | attestati sulla rete di **Gestione**    |
 +------------------------+-----------------------------------------+
-| 10.102.184./*          | **Classe di indirizzi IP** degli host   |
+| 10.102.184.0/24        | **Classe di indirizzi IP** degli host   |
 |                        | attestati sulla rete di **Gestione**    |
 +------------------------+-----------------------------------------+
-| 10.138.154./*          | **Classe di indirizzi IP** degli host   |
+| 10.138.154.0/24        | **Classe di indirizzi IP** degli host   |
 |                        | attestati sulla rete di **Management**  |
 +------------------------+-----------------------------------------+
-| 10.138.218./*          | **Classe di indirizzi IP** degli host   |
+| 10.138.218.0/24        | **Classe di indirizzi IP** degli host   |
 |                        | attestati sulla rete di **Management**  |
 +------------------------+-----------------------------------------+
 
@@ -56,7 +63,7 @@ Per gli Host collocati al suo interno, la comunicazione
 potrà avvenire senza filtri in grado di inibire porte ed IP.
 
 Le uniche macchine in grado di accedere saranno soltanto quelle
-poste sulle reti di di Management e di Gestione.
+poste sulle reti di Management e di Gestione.
 
 .. image:: img/SG_Template_rule_bckend.png
 
@@ -121,8 +128,8 @@ L'ingresso è consentito esclusivamente ai server delle reti di Management e di 
 .. image:: img/Template-simpleprivate.png
 
 Isola completamente il Security group che nasce assumendolo come
-template. Dall'esterno nessuno degli host è raggiungibile
-sia per ricevere e che per comunicare.
+template, quindi nessuno degli host è raggiungibile
+sia per ricevere e per comunicare.
 La comunicazione, tra gli host all'interno dello stesso SG, è
 priva di ogni restrizione in entrata ed in uscita.
 
