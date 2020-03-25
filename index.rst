@@ -11,4 +11,5 @@
     docs/Linee_guida/index_linee_guida.rst    
     docs/Usare_Cli/index_Usare_Cli.rst
     docs/Glossario/index_Glossario.rst
+    docs/Notes/index_ReleaseNotes.rst
 
