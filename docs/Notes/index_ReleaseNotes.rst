@@ -8,7 +8,7 @@
 Service Portal 1.8.0 (2020-03-27)
 ---------------------------------
 
-New:
+**New**
 
 *   rilasciata funzionalità che per mette all'utente Master di Account di visualizzare
     il dettaglio di tutti i costi legati al proprio account
@@ -16,12 +16,12 @@ New:
 *   l'utente master di account ha la possibilità di creare in completa autonomia
     virtual machine con Sistema Operativo Windows
     
-Changed
+**Changed**
 
 *   La procedura di creazione chiavi dbaas è stata aggiornata on la richiesta del parametro
     Disco Aggiuntivo
 
-Fixed:    
+**Fixed**    
     
 *   Bug Risolti (issue:4422)
 
