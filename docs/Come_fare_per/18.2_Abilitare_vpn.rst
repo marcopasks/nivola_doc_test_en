@@ -5,16 +5,20 @@
 
 Gli ambienti creati su Nivola possono essere amministrati raggiungendo le VM tramite
 VPN, che possono essere abilitate dai referenti CSI utilizzando l’apposito
-processo previsto. Il profilo VPN da indicare in fase di richiesta è
-5143_CUSTOM_Fornitori_Nivola_Default. Contestualmente a questa attivazione,
+processo previsto.
+Il **profilo VPN** da indicare in fase di richiesta è
+**5143_CUSTOM_Fornitori_Nivola_Default**. Contestualmente a questa attivazione,
 le utenze esterne al CSI saranno registrate come
-*nome.cognome@fornitori.nivola*
+**nome.cognome@fornitori.nivola**
 e dovranno impostare la password attraverso la procedura descritta al
 seguente indirizzo: https://comunica.csi.it/cambia-password/index.html.
+
+
 Le utenze esterne una volta abilitato il canale VPN, è possibile
 accedere alla CLI su cui ci si autentica utilizzando le credenziali
-nome.cognome@fornitori.nivola e password impostata. La password ha
-una scadenza di tre mesi e deve essere rinnovata
+nome.cognome@fornitori.nivola e password impostata.
+
+La password ha una scadenza di tre mesi e deve essere rinnovata
 all’indirizzo https://comunica.csi.it/cambia-password/index.html.
 
 Nel caso in cui il richiedente esterno disponesse già di un accesso
