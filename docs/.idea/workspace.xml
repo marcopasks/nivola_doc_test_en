@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/img/VPC_parametri.png" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/img/VPC_parametri.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +34,13 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -64,11 +69,6 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/STAAS_modifica_dimensione.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -87,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Come_fare_per/20.0_Gestione_password_esterni.rst" />
         <option value="$PROJECT_DIR$/Overview_Nivola/4_Come_stimare_i_costi_del_tuo_Cloud.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.0_Lavorare_con_compute_service.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.1_Creare_VM.rst" />
@@ -138,6 +137,7 @@
         <option value="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" />
       </list>
     </option>
   </component>
@@ -257,9 +257,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Keyssh-da-cancellare.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Menu_laterale.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -408,6 +405,9 @@
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
