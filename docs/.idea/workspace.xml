@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -54,7 +53,7 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -136,8 +135,8 @@
         <option value="$PROJECT_DIR$/Come_fare_per/50.0_Attivare_il_supporto.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/18.2_Abilitare_vpn.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst" />
       </list>
     </option>
   </component>
@@ -406,13 +405,13 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.0_Lavorare_con_i_servizi_di_rete.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.3_Template_Sicurezza.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/15.5_Creare_VPC.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/15.2_Gestire_regole_SG.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>

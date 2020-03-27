@@ -71,10 +71,10 @@ effettuare le seguenti operazioni:
 
         •	**Tipo di regola** scegliendo uno dei valori presenti nella comboox;
         •	**Dominio** indicandolo tra quelli proposti;
-        •	Il range degli IP scrivendolo sotto la label **Classless Inter-Domain Routing** ;
+        •	Il range degli IP scrivendolo sotto la label **Classless Inter-Domain Routing**;
         •	**Protocollo** indicandolo tra le opzioni possibili;
         •	Definire l'intervallo delle porte nei campi **Da Porta** **A Porta**;
-        •	La **Descrizione** della regola è da inserire nel textbox dedicato;
+        •	La **Descrizione** della regola è da inserire, scrivendola, nel textbox;
 
     3. Al termine, per salvare la regola inserita, premere il pulsante **SALVA REGOLA**;
 
