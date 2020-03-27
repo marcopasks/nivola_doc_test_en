@@ -1,7 +1,7 @@
 .. _Abilitare_vpn:
 
 **Come abilitare la VPN**
-**************************
+*************************
 
 Gli ambienti creati su Nivola possono essere amministrati raggiungendo le VM tramite
 VPN, che possono essere abilitate dai referenti CSI utilizzando l’apposito
@@ -14,8 +14,8 @@ e dovranno impostare la password attraverso la procedura descritta al
 seguente indirizzo: https://comunica.csi.it/cambia-password/index.html.
 
 
-Le utenze esterne una volta abilitato il canale VPN, è possibile
-accedere alla CLI su cui ci si autentica utilizzando le credenziali
+L'utente esterno, una volta abilitato il canale VPN, potrà
+accedere alla CLI autenticandosi utilizzando le credenziali
 nome.cognome@fornitori.nivola e password impostata.
 
 La password ha una scadenza di tre mesi e deve essere rinnovata
