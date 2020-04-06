@@ -1,3 +1,5 @@
+.. _Lavorare_con_VM:
+
 **Lavorare con Virtual Machine**
 ################################
 
