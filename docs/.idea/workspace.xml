@@ -27,7 +27,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente .rst">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
@@ -131,10 +131,10 @@
         <option value="$PROJECT_DIR$/Come_fare_per/05.0_Creare_Utente.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente - Copia.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/11.0_Lavorare_con_VM.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente .rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/05.2_Accreditare_Utente.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/10.0_Creare_Account.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente .rst" />
       </list>
     </option>
   </component>
@@ -213,7 +213,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.22693452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
@@ -404,7 +403,7 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/index_come_fare_per.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente .rst">
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
