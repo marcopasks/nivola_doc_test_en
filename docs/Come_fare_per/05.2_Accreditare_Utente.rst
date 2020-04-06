@@ -15,7 +15,7 @@ La funzione **Accreditamento di utente** è attivabile attraverso due distinte m
    .. image:: img/Utente_pulsante_add.png
 
 Dopo aver attivato la funzione, compilare la form presentata dal sistema
-indicando: *Codice Fiscale*, *Nome^, *Cognome* e il *tipo di accesso*
+indicando: *Codice Fiscale*, *Nome*, *Cognome* e il *tipo di accesso*
 e al termine premere il tasto **REGISTRA UTENTE**.
 
   .. image:: img/Utente_form_crea.png
