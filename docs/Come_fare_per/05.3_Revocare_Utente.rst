@@ -15,12 +15,11 @@ Premere sul pulsante **Accredita utente**
 
   .. image:: img/Utente_pulsante_accredito.png
 
-Nella form, nella lista degli accreditamenti,
-individuare quello da revocare
+Dalla lista degli accreditamenti, individuare quello da revocare
 
  .. image:: img/Utente_elenco_accrediti.png
 
-Premere il tasto **Revoca accreditamento**
+Per completare l'operazione, cliccare il tasto **Revoca accreditamento**
 
   .. image:: img/Utente_pulsante_Togliaccredito.png
 
