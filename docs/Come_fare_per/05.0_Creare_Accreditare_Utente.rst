@@ -10,3 +10,4 @@ Tutte le funzioni per gestire il ciclo di vita degli utenti nel Portale Nivola.
 
    05.1_Creare_Utente.rst
    05.2_Accreditare_Utente.rst
+   05.3_Revocare_Utente.rst

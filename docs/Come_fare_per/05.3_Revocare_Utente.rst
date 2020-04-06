@@ -1,0 +1,22 @@
+.. _Revocare_Utente:
+
+**Revocare Utente**
+###################
+
+La funzione è attivabile dall'elenco **Utenti Registrati**
+
+   .. image:: img/Utente_innesco_accredito.png
+
+Dall'elenco selezionare l'utente da accreditare mettendo una spunta sulla Checkbox relativa
+
+  .. image:: img/Utente_elenco.png
+
+Premere sul pulsante **Accredita utente**
+
+  .. image:: img/Utente_pulsante_accredito.png
+
+Nella form, nella lista degli accreditamenti,
+individuare quello da revocare e premere il tasto **Revoca accreditamento**
+
+  .. image:: img/Utente_pulsante_Togliaccredito.png
+
