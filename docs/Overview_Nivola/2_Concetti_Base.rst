@@ -16,6 +16,7 @@ in base a specifiche esigenze di distribuzione geografica mantenendo inalterata 
 
 .. image:: img/Availability-zones.png
 
+.. _struttura_Organizzativa:
 
 **La struttura organizzativa**
 ==============================

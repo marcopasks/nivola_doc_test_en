@@ -5,14 +5,14 @@
 
 .. _release-1.8.0:
 
-Service Portal 1.8.0 (2020-03-27)
+Service Portal 1.8.0 (2020-04-08)
 ---------------------------------
 
 **New**
 
 *   Rilasciato nuovo ruolo utente "Viewer di Account":  da oggi potranno essere accreditati
     utenti con il ruolo di Viewer di Account. Per i dettagli operativi del ruolo si rimanda 
-    alla sezione :ref:`Utenti, Ruolo ed Account <utenti-ruoli>`
+    alla sezione :ref:`Utenti, Ruoli ed Account <utenti-ruoli>`
 
 *   l'utente Master di Divisione ha a disposizione una nuova funzionalità in modo da poter
     accreditare e registare utenti all'interno della propria struttura organizzativa.
