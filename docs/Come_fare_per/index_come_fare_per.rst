@@ -8,7 +8,9 @@ ad interagire con la piattaforma, attraverso il portale.
    :maxdepth: 2
  
    02_Come_muovere_primi_passi.rst
-   05 Creare_Accreditare_Utente.rst
+   05.0_Creare_Accreditare_Utente.rst
+      05.1_Creare_Utente.rst
+      05.2_Accreditare_Utente.rst
    10 Creare_Account
    11.0_Lavorare_con_VM.rst
       11.1_Creare_VM.rst
