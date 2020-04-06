@@ -3,22 +3,21 @@
 **Accreditare Utente**
 ######################
 
-La funzione **Accreditamento di utente** è attivabile attraverso due distinte modalità:
+La funzione **Accreditamento di utente** è attivabile dall'elenco **Utenti Registrati**
 
-1. Dalla parte sinistra dello schermo, cliccando sulla label **Registra Nuovo Utente**
-   nel gruppo **Amministrazione**
+   .. image:: img/Utente_innesco_accredito.png
 
-   .. image:: img/Utente_innesco_damenu.png
+Dall'elenco selezionare l'utente da accreditare mettendo una spunta sulla Checkbox relativa
 
-2. Dall'elenco **Utenti Registrati**
+  .. image:: img/Utente_elenco.png
 
-   .. image:: img/Utente_pulsante_add.png
+Premere sul pulsante **Accredita utente**
 
-Dopo aver attivato la funzione, compilare la form presentata dal sistema
-indicando: *Codice Fiscale*, *Nome*, *Cognome* e il *tipo di accesso*
-e al termine premere il tasto **REGISTRA UTENTE**.
+  .. image:: img/Utente_pulsante_accredito.png
 
-  .. image:: img/Utente_form_crea.png
+Nella nuova form, sfruttando le Combo Box, indicare **Ruolo**, **Organizzazione**,
+**Divisione**, **Account** e premere il tasto **Accredita**
 
-L'utente, se i dati inseriti saranno corretti, verrà generato e reso disponibile per
-l'**Accreditamento**.
+  .. image:: img/Utente_form_accredito.png
+
+L'utente sarà accreditato nel livello organizzativo e nel ruolo indicati.
