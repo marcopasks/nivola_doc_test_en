@@ -21,5 +21,5 @@ e al termine premere il tasto **REGISTRA UTENTE**.
 
   .. image:: img/Utente_form_crea.png
 
-L'utente, se i dati inseriti saranno corretti, verrà generato e reso disponibile per
-l'**Accreditamento**.
+L'utente, se i dati inseriti saranno corretti, verrà generato e quindi disponibile per
+l' :ref:`Accreditamento <Accreditare_Utente>`
