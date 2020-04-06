@@ -10,12 +10,13 @@ La funzione **Creazione di un utente** è attivabile attraverso due distinte mod
 
    .. image:: img/Utente_innesco_damenu.png
 
-2. Dall'elenco **Utenti Registrati**
+2. Dall'elenco **Utenti Registrati**, premendo il tasto
 
    .. image:: img/Utente_pulsante_add.png
 
-Dopo aver attivato la funzione, compilare la form presentata dal sistema
-indicando: *Codice Fiscale*, *Nome^, *Cognome* e il *tipo di accesso*
+
+In entrambe i casi, dopo aver attivato la funzione, compilare la form
+presentata dal sistema indicando: *Codice Fiscale*, *Nome^, *Cognome* e il *tipo di accesso*
 e al termine premere il tasto **REGISTRA UTENTE**.
 
   .. image:: img/Utente_form_crea.png
