@@ -154,10 +154,10 @@ Riassumendo:
 -  Un Master di Organizzazione può :ref:`accreditare o revocare utenti <Creare_Accreditare_Utente>`
    all’interno delle proprie divisioni o account
 
--  Un Master di Divisione può accreditare o revocare utenti all’interno
+-  Un Master di Divisione può :ref:`accreditare o revocare utenti <Creare_Accreditare_Utente>` all’interno
    dei propri account.
 
--  L’Amministratore di Backoffice può accreditare o revocare ruoli agli
+-  L’Amministratore di Backoffice può :ref:`accreditare o revocare ruoli <Creare_Accreditare_Utente>` agli
    utenti a qualsiasi livello della struttura gerarchica.
 
 
