@@ -1,9 +1,9 @@
 .. _Creare_Accreditare_Utente:
 
-**Creare, Accreditare un Utente**
-#################################
+**Gestire un Utente**
+#####################
 
-Tutte le funzioni per gestire il ciclo di vita degli utenti nel Portale Nivola.
+Sono le funzioni per gestire il ciclo di vita degli utenti nel Portale Nivola.
 
 .. toctree::
    :maxdepth: 2
