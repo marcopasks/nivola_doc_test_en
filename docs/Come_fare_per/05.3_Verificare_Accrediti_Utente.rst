@@ -1,0 +1,29 @@
+.. _Verificare_Accredi_Utente:
+
+**Verificare Accrediti dell' Utente**
+#####################################
+
+La funzione per la **Verificare Accrediti dell' Utente**
+è attivabile dal pulsante **Elenco utenti registrati**
+
+
+   .. image:: img/Utente_innesco_accredito.png
+
+Dall'elenco selezionare l'utente  del quale
+si necessita leggere i dettagli, mettendo una spunta sulla Checkbox relativa
+
+  .. image:: img/Utente_elenco.png
+
+Premere sul pulsante **Visualizza dettali utente**
+
+  .. image:: img/Pulsante_visualizza_dettagli.png
+
+La prima pagina è quella relativa all'**Anagrafica**
+
+  .. image:: img/Utente_form_anagrafica.png
+
+Sfruttando il tabstrip sarà visibile pagina
+con l'elenco dei **Ruoli e i Permessi** dell'utente.
+
+  .. image:: img/Utente_form_ruoli.png
+
