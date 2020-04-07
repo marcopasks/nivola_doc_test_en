@@ -151,7 +151,7 @@ Backoffice.
 
 Riassumendo:
 
--  Un Master di Organizzazione può accreditare o revocare utenti
+-  Un Master di Organizzazione può :ref:`accreditare o revocare utenti <Creare_Accreditare_Utente>`
    all’interno delle proprie divisioni o account
 
 -  Un Master di Divisione può accreditare o revocare utenti all’interno

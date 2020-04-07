@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst" line="63" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Come_fare_per/05.3_Verificare_Accrediti_Utente.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Come_fare_per/05.3_Verificare_Accrediti_Utente.rst" afterDir="false" />
-    </list>
+    <list default="true" id="327537dd-ecfc-4dd2-be4f-f9c381c6904d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,26 +17,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/05.1_Creare_Utente.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/05.2_Accreditare_Utente.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/05.4_Revocare_Utente.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente.rst">
+        <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Overview_Nivola/2_Concetti_Base.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Certificazioni_Compliance.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/05.3_Verificare_Accrediti_Utente.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -55,16 +63,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Utente_form_crea.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Utente_elenco.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Utente_innesco_accredito.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -135,8 +133,8 @@
         <option value="$PROJECT_DIR$/Come_fare_per/05.2_Accreditare_Utente.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/05.1_Creare_Utente.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/05.3_Revocare_Utente.rst" />
-        <option value="$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente.rst" />
         <option value="$PROJECT_DIR$/Come_fare_per/05.3_Verificare_Accrediti_Utente.rst" />
+        <option value="$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente.rst" />
       </list>
     </option>
   </component>
@@ -159,11 +157,6 @@
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Come_fare_per" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,7 +208,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.22693452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
@@ -256,21 +248,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_connetti_link.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_tabstrip_utenti.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/DBAAS_utenti_dati.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Template-backend.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/img/Pulsante_connetti.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -403,10 +380,25 @@
     <entry file="file://$PROJECT_DIR$/Come_fare_per/05.4_Revocare_Utente.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/05.3_Verificare_Accrediti_Utente.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Come_fare_per/05.0_Creare_Accreditare_Utente.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Come_fare_per/05.3_Verificare_Accrediti_Utente.rst">
+    <entry file="file://$PROJECT_DIR$/Come_muovere_primi_passi/10_Passaggi_necessari.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overview_Nivola/2_Concetti_Base.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overview_Nivola/3_Certificazioni_Compliance.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linee_guida/1_Modelli_di_rete.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Come_fare_per/11.3_Gestire_VM.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
