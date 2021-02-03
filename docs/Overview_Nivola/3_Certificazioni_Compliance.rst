@@ -1,25 +1,16 @@
 .. _Certificazioni_Compliance:
 
 
-**Certificazioni e Compliance**
+**Certifications and Compliance**
 *******************************
 
-Per noi Sicurezza e Privacy sono fondamentali e così importanti
-che lo sviluppo della piattaforma Nivola è stato
-condotto tenendo in considerazione tre aspetti determinanti:
+For us, Security and Privacy are fundamental and so important that the development of the Nivola platform was conducted with three key aspects in mind:
 
-- **sicurezza informatica**
-- **organizzazione del servizio**
-- **affidabilità**.
+- **security**
+- **organisation of the service**
+- **reliability**
 
-Partendo da questi pilastri sono stati individuati servizi, processi,
-organizzazione e soluzioni informatiche che rispondessero appieno
-alle normative italiane ed internazionali in particolare per i
-servizi di cloud computing e per i data center che ospitano le
-Availability Zones Nivola inclusa la connettività attestata presso i
-data center di Torino e Vercelli. Applicando questi vincoli abbiamo
-ottenuto le più importanti certificazioni in ambito Cloud che ci
-rendono conformi ai maggiori standard di sicurezza e affidabilità.
+Starting from these pillars, we have identified services, processes, organisation and IT solutions that fully comply with Italian and international regulations, in particular for cloud computing services and the data centres that host the Nivola Availability Zones, including connectivity at the Turin and Vercelli data centres. By applying these constraints we have obtained the most important certifications in the Cloud field, which make us compliant with the highest standards of security and reliability.
 
 **ISO 9001:2015**
 
@@ -28,18 +19,11 @@ rendono conformi ai maggiori standard di sicurezza e affidabilità.
    :height: 200px
    :align: center
 
-La Certificazione assicura che il nostro sistema prevede la gestione
-sistematica dei rischi e delle opportunità, il monitoraggio costante
-dei processi aziendali per garantire standard di qualità,
-e il rispetto di tempi e costi del servizio nell’ambito di:
+Certification ensures that our system provides for the systematic management of risks and opportunities, the constant monitoring of business processes to ensure quality standards, and the adherence to service times and costs in the context of
 
--  progettazione, realizzazione, interconnessione, manutenzione,
-   addestramento, gestione e conduzione operativa di **sistemi
-   informativi automatizzati e di servizi informatici
-   applicativi, infrastrutturali e di rete;**
+-	design, implementation, interconnection, maintenance, training, management and operational management of **automated information systems and of application, infrastructure and network information services**;
 
--  progettazione e erogazione di **interventi formativi** e formazione
-   sui servizi ICT erogati.
+- design and delivery of **training interventions** and training on the ICT services provided.
 
 **ISO 27001:2013**
 
@@ -48,19 +32,7 @@ e il rispetto di tempi e costi del servizio nell’ambito di:
    :height: 200px
    :align: center
 
-Lo standard **ISO/IEC 27001** è l'unica norma internazionale soggetta a
-verifica e certificabile che definisce i **requisiti per un SGSI**
-(Sistema di Gestione della Sicurezza delle Informazioni) ed è
-progettata per garantire la selezione di controlli di sicurezza
-adeguati e proporzionati.
-Si basa su precisi requisiti atti a garantire la sicurezza nella
-gestione delle informazioni e nel trattamento dei rischi derivati.
-La certificazione ottenuta dal CSI Piemonte garantisce che tutti i
-servizi cloud a disposizione dei Clienti sono progettati per garantire
-la massima sicurezza nella gestione delle informazioni. L’ambito di
-certificazione include le attività di progettazione, realizzazione,
-erogazione e supporto di servizi di facility management per il
-Data Center e servizi di cloud computing.
+**ISO/IEC 27001** is the only auditable and certifiable international standard that defines **the requirements for an ISMS** (Information Security Management System) and is designed to ensure the selection of appropriate and proportionate security controls. It is based on precise requirements to ensure security in the management of information and the handling of derived risks. The certification obtained by CSI Piemonte ensures that all cloud services available to customers are designed to guarantee maximum security in information management. The scope of certification includes the design, implementation, delivery and support of facility management services for Data Centres and cloud computing services.
 
 
 **ISO 27017:2015**
@@ -70,13 +42,8 @@ Data Center e servizi di cloud computing.
    :height: 200px
    :align: center
 
-Lo standard **ISO/IEC 27017** rientra tra gli standard della serie
-ISO/IEC 27001 e **definisce controlli avanzati sia per fornitori,
-sia per i clienti di servizi cloud**. Chiarisce ruoli e responsabilità
-dei diversi attori in ambito cloud con l’obiettivo di garantire che
-i dati conservati in cloud computing siano sicuri e protetti. L’integrazione
-con la ISO 27017 è volta quindi **a dimostrare
-la capacità del CSI Piemonte di assicurare la protezione dei dati**.
+**ISO/IEC 27017** series of standards and **defines advanced controls for both providers and customers of cloud services**. It clarifies the roles and responsibilities of the different actors in the cloud with the aim of ensuring that data stored in cloud computing is safe and secure. The integration with ISO 27017 is therefore aimed at **demonstrating CSI Piemonte's ability to ensure data protection**.
+
 
 **ISO 27018:2014**
 
@@ -85,26 +52,16 @@ la capacità del CSI Piemonte di assicurare la protezione dei dati**.
    :height: 200px
    :align: center
 
-La Certificazione attesta che il Sistema Nivola è conforme alle direttive
-sulla tutela dei dati personali e quindi della privacy dei clienti che affidano le
-loro informazioni a un servizio Cloud.
+The Certification attests that the Nivola System complies with the directives on the protection of personal data and therefore the privacy of customers who entrust their information to a Cloud service.
 
-**E’ il codice di condotta per la protezione delle
-PII (Personally Identifiable information) nei servizi di public cloud per i cloud
-provider**
-è una linea guida per i fornitori di servizi cloud pubblici che vogliono migliorare
-la gestione dei dati personali.
+**The Code of Conduct for the Protection of Personally Identifiable Information (PII) in Public Cloud Services for Cloud Providers** is a guideline for public cloud service providers who want to improve their management of personal data.
 
-L’**obiettivo di questo standard** è quello di fornire una modalità strutturata,
-basata sul privacy by design, per far fronte alle principali questioni giuridiche,
-sia di natura legale che contrattuale, legate alla gestione dei dati personali in
-infrastrutture informatiche distribuite seguendo il modello del cloud pubblico.
-
-Le contromisure specifiche introdotte dalla ISO 27018 si basano sui principi internazionali definiti riguardo alla privacy. Questi principi sono stati utilizzati per guidare la progettazione, lo sviluppo, l'attuazione, il monitoraggio e la misurazione di politiche sulla privacy e controlli della privacy nei servizi di cloud computing offerti dal CSI Piemonte.
+The **objective of this standard** is to provide a structured way, based on privacy by design, to address the main legal and contractual issues related to the management of personal data in distributed computing infrastructures following the public cloud model.
+The specific countermeasures introduced by ISO 27018 are based on defined international privacy principles. These principles have been used to guide the design, development, implementation, monitoring and measurement of privacy policies and privacy controls in the cloud computing services offered by CSI Piemonte.
 
 
-L’integrazione con la ISO 27018 è volta a **dimostrare la capacità del CSI Piemonte
-di assicurare la protezione dei dati**.
+
+Integration with ISO 27018 is intended to **demonstrate CSI Piemonte's ability to ensure data protection**.
 
 **ISO 20000-1:2018**
 
@@ -113,15 +70,7 @@ di assicurare la protezione dei dati**.
    :height: 200px
    :align: center
 
-La Certificazione dimostra che il CSI, come Cloud Provider, attua
-tutte le best practices per stabilire, implementare, mantenere e
-migliorare un sistema di gestione dei servizi, un framework di
-riferimento per supportare il management nel ciclo di vita
-dell’erogazione dei servizi cloud.  Lo standard promuove l'utilizzo
-di un modello integrato a processi di gestione dei servizi IT che
-trova corrispondenza nel framework
-ITIL® (IT Infrastructure Library),
-standard adottato dal CSI Piemonte fin dai primi anni 2000
+The Certification demonstrates that CSI, as a Cloud Provider, implements all best practices to establish, implement, maintain and improve a service management system, a reference framework to support management in the lifecycle of cloud service delivery. The standard promotes the use of an integrated model of IT service management processes that corresponds to the ITIL® framework (IT Infrastructure Library), a standard adopted by CSI Piemonte since the early 2000s.
 
 **ISO 22301:2012**
 
@@ -130,11 +79,7 @@ standard adottato dal CSI Piemonte fin dai primi anni 2000
    :height: 200px
    :align: center
 
-La Certificazione riconosce che la capacità del CSI Piemonte in relazione ai servizi
-cloud erogati di mettere in atto comportamenti, raccomandazioni, processi, tecnologie
-al fine di garantire la resilienza dei servizi erogati a fronte di eventi che possono
-compromettere i servizi dei clienti e la stessa capacità di erogare servizi cloud in
-continuità.
+The Certification recognises the ability of CSI Piemonte in relation to the cloud services provided to put in place behaviours, recommendations, processes, technologies in order to ensure the resilience of the services provided in the face of events that may compromise customer services and the very ability to provide cloud services in continuity.
 
 **ISO 50001:2011**
 
@@ -143,18 +88,14 @@ continuità.
    :height: 200px
    :align: center
 
-La Certificazione determina che il nostro Sistema di Gestione dell’Energia è stato
-pianificato e realizzato nel rispetto della legislazione in materia energetica
-ed è volto a garantire l’efficienza energetica dei processi produttivi promuovendo:
+The Certification determines that our Energy Management System has been planned and implemented in compliance with energy legislation and is aimed at ensuring the energy efficiency of the production processes it promotes:
 
--  il risparmio energetico e la riduzione progressiva degli sprechi;
+-  energy saving and progressive reduction of waste;
 
--  l'ottimizzazione degli attuali usi energetici, in particolare per ciò
-   che riguarda il data center e il riscaldamento/condizionamento degli
-   edifici;
+-  optimisation of current energy uses, in particular in the data centre and heating/air conditioning of buildings;
 
--  una valutazione, nei processi di acquisto, degli aspetti relativi
-   all'efficienza energetica.
+-  evaluation of energy efficiency aspects in procurement processes
+
 
 **ANSI TIA 942 2017 Rating III**
 
@@ -164,22 +105,11 @@ ed è volto a garantire l’efficienza energetica dei processi produttivi promuo
    :align: center
 
 
-La capacità del nostro Data Center di garantire la continuità dei servizi erogati è
-garantita dall’attestato ottenuto. Il Rating III dimostra come i  Data Center che
-ospitano i servizi cloud Nivola sono dotati di sistemi altamente affidabili e
-resilienti. Tutte le componenti sono ridondate permettendo qualunque intervento
-manutentivo senza necessità di interruzione del servizio.
-L’uptime minimo garantito dal tier III è del 99,98% su base annua.
+The ability of our Data Center to guarantee the continuity of the services provided is guaranteed by the certificate obtained. Rating III demonstrates that the Data Centres hosting Nivola's cloud services are equipped with highly reliable and resilient systems. All components are redundant, allowing any maintenance intervention without the need of service interruption. The minimum uptime guaranteed by Tier III is 99.98% on an annual basis.
 
+**AGID CSP qualification - PA Cloud**
 
-**Qualificazione CSP AGID – Cloud della PA**
-
-L’accreditamento come Cloud Service Provider Tipo C qualificato da **AGID**
-ad erogare servizi cloud alla Pubblica Amministrazione italiana permette ai clienti
-di fruire di servizi sicuri ed affidabili. La qualificazione assicura che
-nell’erogazione dei nostri servizi adottiamo tutti gli standard previsti per offrire
-servizi digitali alla PA. Informazioni aggiuntive sono visionabili
-nel Cloud Marketplace di AGID. https://cloud.italia.it/marketplace/service/12
+Accreditation as a Type C Cloud Service Provider qualified by **AGID** to provide cloud services to the Italian Public Administration allows customers to benefit from secure and reliable services. The qualification ensures that in providing our services we adopt all the standards required to offer digital services to the PA. Additional information can be viewed in the AGID Cloud Marketplace. https://cloud.italia.it/marketplace/service/12
 
  |pic1|  |pic2|  |pic3|
 
