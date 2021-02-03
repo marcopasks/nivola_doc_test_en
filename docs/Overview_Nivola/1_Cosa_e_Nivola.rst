@@ -1,37 +1,17 @@
 .. _Cosa_e_Nivola:
 
-**Cosa è Nivola?**
-******************
+**What is Nivola?**
+*******************
 
-Nivola è una piattaforma di cloud computing completamente open source che
-semplifica l’utilizzo dei servizi da parte della pubblica
-amministrazione e delle imprese. Nivola è realizzata dal CSI Piemonte
-e mette a disposizione potenza di calcolo, storage,
-rete e database e molto altro. L'obbiettivo è quello di offrire ad ogni cliente
-la completa autonomia nella creazione del proprio sistema informativo e nella
-migrazione delle applicazioni, in assoluta sicurezza. I servizi sono facilmente
-scalabili, senza spese di licenza e di gestione dell’hardware. Ogni cliente può
-quindi creare in autonomia il proprio sistema informativo, pagandolo
-esclusivamente in base all’utilizzo, attraverso sistemi di rilevazione dei consumi effettivi
-
+Nivola is a completely open source cloud computing platform that simplifies the use of services by public administration and enterprises. Nivola is implemented by CSI Piemonte and provides computing power, storage, network and database and much more. The aim is to offer each customer complete autonomy in creating their own information system and migrating applications, in complete security. The services are easily scalable, with no licence fees or hardware management costs. Each customer can therefore independently create their own information system, paying for it solely on the basis of usage, through systems that measure actual consumption.
 
 **100% Open Source**
 --------------------
 
-Nivola è una piattaforma open source di proprietà della pubblica amministrazione che ne controlla l’evoluzione e può pianificarne
-gli sviluppi futuri. Questa libertà dalle tecnologie di mercato garantisce la stabilità necessaria per costruire un
-sistema informatico all’avanguardia e senza incorrere in investimenti aggiuntivi dovuti a lock-in tecnologici. Alla base dello
-sviluppo di Nivola c’è OpenStack, un insieme di strumenti software open source per creare e gestire servizi di cloud computing,
-secondo il modello Infrastructure as a Service (IaaS). Nato da un progetto della NASA e di Rackspace, oggi OpenStack è il frutto
-della collaborazione di migliaia di sviluppatori. Alla community partecipano più di 60.000 membri e oltre 600 aziende da più di
-180 paesi nel mondo. Nivola estende le funzionalità base di OpenStack con servizi e processi specifici per la PA e per le imprese  ed il codice è rilasciato alla community open source sotto licenza
-GPL v3, coinvolgendo il mondo della ricerca e le stesse amministrazioni interessate a sostenerne lo sviluppo.
+Nivola is an open source platform owned by the public administration, which controls its evolution and can plan future developments. This freedom from market technologies guarantees the stability needed to build a state-of-the-art IT system without incurring additional investment due to technological lock-ins. At the heart of Nivola's development is OpenStack, a set of open source software tools for creating and managing cloud computing services, according to the Infrastructure as a Service (IaaS) model. Born from a NASA and Rackspace project, OpenStack is now the result of the collaboration of thousands of developers. More than 60,000 members and over 600 companies from more than 180 countries participate in the community. Nivola extends the basic functionalities of OpenStack with specific services and processes for PA and enterprises and the code is released to the open source community under the GPL v3 licence, involving the research world and the administrations themselves interested in supporting its development.
 
 
-**Un mondo di servizi semplici e personalizzabili**
----------------------------------------------------
+**A world of simple and customisable services**
+-----------------------------------------------
 
-Nivola semplifica l’adozione, l’accesso e l’utilizzo di nuovi servizi applicativi in cloud, indipendentemente dal modello
-di sourcing scelto dall’amministrazione, sia esso di sviluppo interno, di acquisizione dal mercato o di riuso da altra
-amministrazione. Il Cliente ha a disposizione un ampio catalogo di servizi facilmente adattabili alle proprie esigenze,
-esposti attraverso le Application Program Interfaces (API), un insieme uniforme di funzionalità accessibili via software.
+Nivola simplifies the adoption, access and use of new application services in the cloud, regardless of the sourcing model chosen by the administration, be it internal development, acquisition from the market or reuse by another administration. The customer has at his disposal a wide catalogue of services easily adaptable to his needs, exposed through Application Program Interfaces (API), a uniform set of functionalities accessible via software.
