@@ -1,169 +1,128 @@
 .. _Service_Portal:
 
-**Il Service Portal**
-=====================
+**The Service Portal**
+======================
 
--  **Cosa è il SP**
+-  **What is SP**
 
--  **Accesso al Servizio**
+-  **Access to the Service**
 
--  **Interfaccia utente**
+-  **User interface**
 
-**Cosa è il SP**
+**What is SP**
 
-Il Nivola Service Portal (NSP) costituisce l'Area Riservata per i clienti ed
-integra in un'interfaccia web tutte le funzionalità offerte della
-piattaforma. Mette a disposizione tutta la gamma di funzioni realizzate
-per creare, controllare e gestire in autonomia i propri servizi cloud.
+The Nivola Service Portal (NSP) constitutes the Reserved Area for customers and integrates in a web interface all the functionalities offered by the platform. It provides the full range of functions designed to create, control and manage your own cloud services independently.
+Through a set of simple and intuitive graphical wizards, all the services offered by Nivola can be used by users, even those without specific technical skills. The user can constantly monitor the status of resources through integration with monitoring dashboards, information and reports on costs and consumption, can create new services and communicate with the *Nivola Support Center* using different communication channels.
 
-Attraverso un insieme di wizard grafici semplici ed intuitivi tutti i servizi
-offerti da Nivola sono utilizzabili  da
-parte degli utenti, anche da chi non possiede competenze tecniche specifiche.
-L’utente può tenere costantemente sotto controllo lo stato
-delle risorse tramite l’integrazione con i cruscotti di monitoraggio, le
-informazioni e i report sui costi e consumi, può creare nuovi servizi e
-mettersi con il *Nivola Support Center* utilizzando
-differenti canali di comunicazione.
 
-**Accesso al Servizio**
+**Access to the Service**
 
-Terminata la fase di accreditamento, per accedere al Nivola Service Portal
-è sufficiente collegarsi all'URL  https://portal.nivolapiemonte.it/ con
-le proprie credenziali scegliendo tra i seguenti sistemi di autenticazione:
+from the following authentication systems:
 
 1.	SPID
-2.	CIE - Carte di Identità Elettronica
-3.	TS-CNS - Sistema Tessere Sanitaria
+2.	CIE - Electronic Identity Cards
+3.	TS-CNS - Health Card System
 4.	PSNet
-5.	Sistema Piemonte
+5.	Piedmont system
 
-Indipendentemente dal sistema di autenticazione scelto dall'utente,
-il Nivola Service Portal procederà a
+Regardless of the authentication system chosen by the user, the Nivola Service Portal will proceed to
 
-1.	ridirigere l'utente verso l'Identity Provider corretto per la verifica delle credenziali
-2.	ricavare il Codice Fiscale dell'utente
-3.	autorizzare l'accesso alla piattaforma Nivola  in base al proprio profilo
+1.	redirect the user to the correct Identity Provider for verification of credentials
+2.	obtain the user's tax code
+3.	authorise access to the Nivola platform according to your profile
 
-Questa è la finestra che viene presentata all'utente al momento dell'accesso:
-
-
+This is the window that is presented to the user when logging in:
 
    |image0|
 
 
-In funzione della tipologia di Cliente, l'utente potrà scegliere tra
+Depending on the type of customer, the user can choose between
 
-•	Azienda, per le Imprese
-•	PA, per i clienti Pubblica Amministrazione
-•	CSI, per il personale CSI Piemonte
+•	Company
+•	PA, for Public Administration customers
+•	CSI Piedmont staff
 
+-  It is possible to access using SPID credentials or Piedmont system for public administration.
 
-
--  Azienda . E’ possibile accedere utilizzando credenziali SPID o
-      Sistema Piemonte per la pubblica amministrazione.
 
 ..
 
    |image1|
 
--  PA. E’ possibile accedere utilizzando credenziali SPID o RUPAR.
+-  PA. It can be accessed using SPID or RUPAR credentials.
 
 ..
 
    |image2|
 
-**Interfaccia utente**
+**User interface**
 
-Dopo :ref:`l'autenticazione <Processo di Accredito>` all’utente viene presentata la propria Home Page
-personalizzata. I contenuti visualizzati dipendono dal ruolo che riveste
-l’utente all’interno del Sistema.
+After :ref:`l'autenticazione <Processo di Accredito>` user is presented with their own personalised Home Page. The content displayed depends on the user's role in the system.
 
-La Home Page utente si distingue in 3 sezioni distinte.
+The User Home Page is divided into 3 distinct sections
 
-**1 – Barra di stato**
+
+**1 – Status bar**
 
 |image3|
 
-E’ posizionata in alto nel sistema, ed indica quale è l’utente e il
-profilo con cui l’utente è loggato nel sistema.
+It is located at the top of the system and indicates which user and which profile the user is logged into the system with.
 
-L’utente, se ha altri ruoli associati, può cambiare il profilo con cui
-agisce all’interno del sistema. Premendo su
+If the user has other associated roles, he can change the profile under which he acts within the system. By pressing on
 
 |image4|
 
-Viene presentato il menu “Cambia profilo” con cui l’utente può
-modificare il proprio profilo.
+The "Change profile" menu is presented, with which the user can change his profile
 
 |image5|
 
-|image6| Permette all’utente di contattare l’assistenza via chat.
+|image6| Allows the user to contact support via chat.
 
-Premere invece |image7| per accedere alla documentazione on line di
-Nivola.
+Press instead |image7| to access Nivola's online documentation.
 
-Per uscire dal sistema e chiudere la sessione di lavoro premere il
-simbolo |image8|
+To exit the system and close the work session press the symbol  |image8|
 
-**2- Menu di navigazione**
+**2- Menu navigation**
 
-Il menù laterale di sinistra contiene l’elenco dei servizi che l’utente
-può consultare e utilizzare in base al proprio profilo.
+The left-hand side menu contains the list of services that the user can consult and use according to his profile.
 
-Il menù di navigazione è composto da più sezioni in base alla tipologia
-dei servizi.
+The navigation menu consists of several sections according to the type of services.
 
-La prima sezione
+The first section
+
 
 |image9|
 
-permette di accedere a tutto il materiale informativo su Nivola tramite
-la voce “Documentazione”, permette di contattare l’assistenza tramite la
-voce “Assistenza” e di avere il dettaglio delle notizie e delle
-informazioni sulla piattaforma tramite “Notizie”.
+allows access to all the information material on Nivola via "Documentation", allows contacting assistance via "Assistance" and to have the details of news and information on the platform via "News".
 
-La sezione “Strumenti”
+The "Tools" section
 
 |image10|
 
-Contiene le voci di menu per poter accedere agli strumenti offerti dalla
-piattaforma ai suoi utenti. Da qui si potrà accedere ad esempio alle
-console di monitoraggio oppure ai sistemi di visualizzazione dei log.
+It contains the menu items for accessing the tools offered by the platform to its users. For example, the monitoring consoles or log display systems can be accessed from here.
 
-La sezione “Servizi” è il menu dei Servizi offerti dalla piattaforma
-Nivola. In questa voce l’utente troverà l’elenco di tutti i servizi su
-cui può operare all’interno di Nivola per crearsi le proprie risorse
-Cloud.
+The "Services" section is the menu of the services offered by the Nivola platform. In this item the user will find the list of all the services on which he can operate within Nivola to create his own Cloud resources.
+
 
 |image11|
 
-Nella Sezione “Amministrazione” vengono rese disponibili tutte quelle
-voci che permettono all’utente di gestire, in base al proprio profilo,
-la profilazione e l’accreditamento utente, oppure può visualizzare i
-dettagli della propria struttura organizzativa e accedere alle pagine di
-dettaglio dei costi e consumi del proprio Cloud.
+In the "Administration" section all those items are made available that allow the user to manage, according to his profile, user profiling and accreditation, or he can view the details of his organisational structure and access the pages detailing the costs and consumption of his Cloud.
 
 |image12|
 
 **3 - Home Page**
 
-E’ la pagina iniziale presentata all’utente della piattaforma. E’
-composta da un insieme di dashboard dinamiche visualizzate di default in
-base al profilo con cui si accede. Tramite questa home page l’utente può
-vedere in sintesi i consumi e lo stato dei propri servizi e consultare
-le ultime notizie pubblicate.
+This is the initial page presented to the platform user. It is composed of a set of dynamic dashboards displayed by default according to the profile with which it is accessed. Through this home page the user can see a summary of consumption and the status of their services and consult the latest news published.
 
 |image13|
 
-La Home Page è personalizzabile dall’utente che può impostarne la
-visualizzazione e la disposizione delle dashboard in base alle sue
-preferenze o priorità.
+The Home Page is customisable by the user, who can set the display and layout of the dashboards according to his preferences or priorities.
 
-Per attivare la modalità di modifica della Home Page premere
+To activate the Home Page edit mode, press
 
 |image14|
 
-A questo punto sarà possibile:
+At this point it will be possible:
 
 -  Disabilitare la visualizzazione di una dashboard. Per fare questo
    premere il simbolo evidenziato presente nella dashboard che vi vuole
@@ -171,13 +130,12 @@ A questo punto sarà possibile:
 
 |image15|
 
--  Spostare la dashboard all’interno del riquadro della HomePage. Per
-   far questo tenere premuto il mouse sulla barra blu della dashboard e
-   spostarla all’interno dell’area di lavoro. Rilasciare il mouse dopo
-   aver definito la nuova posizione.
+-  Disable the display of a dashboard. To do this, press the highlighted symbol on the dashboard that you no longer wish to view as it is of no interest.
 
-Per confermare le modifiche alla disposizione impostata è rendere
-effettiva la Home Page personalizzata è necessario premere
+-  Move the dashboard within the HomePage frame. To do this, hold down the mouse on the blue bar of the dashboard and move it within the workspace. Release the mouse once you have defined the new position.
+
+To confirm changes to the layout and make the personalised home page effective, press
+
 
 |image16|
 
