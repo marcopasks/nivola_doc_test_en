@@ -1,11 +1,10 @@
 .. _Passaggi_necessari:
 
-**Passaggi necessari**
-======================
+**Necessary steps**
+===================
 
 
-Per inizare a utilizzare la piattaforma **Nivola**
-è necessario procedere seguendo i seguenti passaggi.
+In order to start using the Nivola platform, you need to follow the steps below.
 
     1. :ref:`Processo di Accredito`
     2. :ref:`Completare i Livelli Organizzativi`
@@ -20,95 +19,65 @@ Per inizare a utilizzare la piattaforma **Nivola**
 
 .. _Processo di Accredito:
 
-**Processo di Accredito**
+**Accreditation Process**
 =========================
 
-Per poter utilizzare i servizi esposti dalla piattaforma Nivola è necessario accreditarsi secondo il seguente processo:
+In order to use the services exposed by the Nivola platform, it is necessary to be accredited according to the following process:
 
 
-    1. Contattare il proprio account di riferimento o andare alla sezione Contatti
-       raggiungibile dal sito www.nivolapiemonte.it. Una volta attivato il
-       contratto o l'utilizzo del servizio in modalità "Demo",
-       il Team di Supporto Nivola provvederà a contattare il referente del
-       Cliente per procedere con la creazione delle prime credenziali di accesso.
-    2. Dopo avere ricevuto l’offerta ufficiale protocollata, procedere
-       con l’emissione di un ordine al CSI-Piemonte.
-    3. Approvare e impegnare con una determina l’importo presente nell’offerta.
-    4. Inviare la documentazione tramite PEC all’indirizzo protocollo@cert.csi.it
-       indicando nell’oggetto dell’email:
-        a) Attivazione Servizi Nivola.
-        b) Numero di protocollo presente sull’offerta.
-        c) Nome dell’Ente.
-    5. Indicare un referente che sarà contattato dal nostro servizio di assistenza per i dettagli tecnici. Nel caso in cui  la persona cui rivolgersi, in caso di incident di sicurezza, sia diversa da quella indicata in precedenza, serve individuare un nominativo diverso, in ottemperanza alle norme di ultima introduzione in ambito di Data Breach.
+1.	Contact your reference account or go to the Contacts section accessible from the site www.nivolapiemonte.it. Once the contract or the use of the service in "Demo" mode has been activated, the Nivola Support Team will contact the customer's reference account to proceed with the creation of the first access credentials.
+2.	After receiving the official registered offer, proceed with issuing an order to CSI-Piemonte.
+3.	Approve and commit the amount in the offer by means of a decision.
+4.	Please send the documentation by PEC to protocollo@cert.csi.it, indicating in the subject line of the email:
+    a)	Activation of Nivola Services.
+    b)	Protocol number on the offer.
+    c)	Name of organisation.
+5.	Please indicate a contact person who will be contacted by our support service for technical details. If the person to be contacted in the event of a security incident is different from the person indicated above, a different contact person must be identified in accordance with the latest data breach regulations.
 
 
-
-Questi aspetti sono riportati nel manuale utente del servizio e nelle condizioni generali in cui è possibile trovare
-maggiori dettagli e informazioni anche inerenti la cessazione del servizio. Nel caso si presentasse questa evenienza
- il CSI si impegna a mettere a disposizione del Cliente i propri dati e successivamente di cancellarli.
+These aspects are set out in the service user manual and in the general terms and conditions, where you can find more details and information, including on the termination of the service. Should this occur the ISC undertakes to make its data available to the Customer and subsequently to delete them.
 
 .. image:: img/Richiesta_accredito.png
 
 
-Terminata la fase di richiesta si
-riceverà dal Team di Supporto la comunicazione via e-mail del **primo accredito**.
-In questo modo l'utente,
-sarà in grado di controllare la struttura organizzativa modellata dal Supporto e
-conferire ulteriori abilitazioni.
+At the end of the application phase you will receive an e-mail from the Support Team informing you of your **first accreditation**. In this way the user will be able to check the organisational structure modelled by Support and grant further accreditations.
 
 
 
 .. _Completare i Livelli Organizzativi:
 
-**Completare i Livelli Organizzativi**
-======================================
+**Completing the Organisational Levels**
+========================================
 
-La piattaforma si compone di 3 livelli organizzativi quello deputato ad ospitare i servizi è
-l'**account**.  Nel caso, l'**account** non fosse stato definito dal supporto, prima di crearlo sarà indispensabile
-individuare o creare una **Divisione** da cui farlo dipendere. La presenza dell'**Organizzazione**
-e della **Divisione** sono la condizione necessaria alla generazione dell'**account**.
+The platform consists of three organisational levels, the one hosting the services being the **account**. If the account has not been defined by the support, before creating it it will be necessary to identify or create a **Division** on which it depends. The presence of the **Organisation** and the Division are necessary conditions for the generation of the **account**.
 
 
 .. _Attivare Utenti:
 
-**Attivare Utenti**
-===================
+**Activate Users**
+==================
 
-Successivamente ad aver costituito la struttura organizzativa,
-sarà possibile indicare a **Nivola** gli **utenti** associati a **ruoli**
-che ad ogni livello, potranno agire sugli oggetti con compiti specifici.
+After having set up the organisational structure, it will be possible to indicate to **Nivola** the **users** associated with **roles** which, at each level, will be able to act on the objects with specific tasks.
 
 
 .. _Verificare i VPC:
 
-**Verificare i VPC**
-======================
-
-**TO DO**
+**Check VPCs**
+==============
+After creating the account and associating the users with the correct organisational profile, the correct configuration of their **VPCs (Virtual Private Cludes)** must be checked. Within their VPCs, users can manage and configure their own resources. The **VPC** guarantees the necessary isolation between the various organisations.
 
 
 .. _Verificare Security Group:
 
-**Verificare Security Group**
-=============================
+**Check Security Group**
+========================
 
-Nivola mette a disposizione alcuni SG pre-configurati ma è possibile
-modificarne le regole o creare nuovi SG in funzione delle specifiche esigenze.
-E' importante quindi verificarli ed eventualmente modificarli o integrarli
-prima di iniziare a creare i Servizi. Sarà in ogni caso sempre possibile
-modificare le regole di sicurezza anche successivamente alla creazione dei Servizi
-ma non è possibile spostare un Servizio da un SG ad un altro dopo la creazione. In questo caso sarà necessario
-distruggere il Servizio e ricrearlo nel SG corretto.
+Nivola provides some pre-configured SGs, but it is possible to modify their rules or create new SGs according to specific needs. "It is therefore important to check them and eventually modify or integrate them before starting to create the Services. In any case, it will always be possible to modify the security rules even after the Services have been created, but it is not possible to move a Service from one SG to another after it has been created. In this case it will be necessary to destroy the Service and recreate it in the correct SG.
 
 
 .. _Creare i Servizi:
 
-**Creare i Servizi**
+**Creating Services**
 ====================
-Dopo aver concluso i passaggi precedenti sarà possibile iniziare la creazione
-dei servizi tramite l'apposito menù del Service Portal. Il processo di creazione
-è sempre guidato attraverso un apposito wizard di creazione. Il processo può
-sempre essere interrotto prima della conferma finale ed è possibile
-accedere direttamente alla presente guida per maggiori informazioni.
-
+After completing the above steps, you can start creating services via the Service Portal menu. The creation process is always guided through a creation wizard. The process can always be interrupted before the final confirmation and you can directly access this guide for more information.
 
