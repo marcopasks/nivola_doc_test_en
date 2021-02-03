@@ -1,9 +1,7 @@
-**Come muovere i primi passi**
+**How to take your first steps**
 ##############################
 
-In questo capitolo sono descritti
-i passaggi fondamentali per iniziare ad utilizzare
-la piattaforma.
+This chapter describes the basic steps to start using the platform.
 
 .. toctree::
    :maxdepth: 2
