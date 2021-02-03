@@ -1,8 +1,7 @@
-**Come fare per**
-#################
+**How to**
+##########
 
-In questa sezione si trovano una serie di tutorial per iniziare fin da subito
-ad interagire con la piattaforma, attraverso il portale.
+In this section you will find a series of tutorials to get you started right away with the platform, through the portal.
 
 .. toctree::
    :maxdepth: 2
