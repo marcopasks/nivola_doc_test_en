@@ -1,164 +1,74 @@
 .. _Concetti_Base:
 
 
-**I concetti base**
-********************
+**Basic concepts**
+******************
 
-**Le availability zones**
-=========================
+**Availability zones**
+======================
 
-Sono le aree geografiche in cui risiedono i data center dei fornitori di servizi di cloud pubblico. Le aziende clienti
-scelgono una o più zone di disponibilità per i loro servizi a seconda delle esigenze aziendali. Le Availability Zones
-sono zone di disponibilità costituite da infrastrutture indipendenti, isolate e ospitate all'interno dei data center
-del CSI Piemonte. In fase di creazione dei propri servizi è possibile scegliere l'Availability zone
-in base a specifiche esigenze di distribuzione geografica mantenendo inalterata l'alta affidabilità.
+These are the geographical areas where the data centres of public cloud service providers reside. Corporate customers choose one or more Availability Zones for their services according to their business needs. Availability Zones are availability zones made up of independent, isolated infrastructures hosted within the CSI Piemonte data centres. When creating their services, it is possible to choose the Availability Zone according to specific geographic distribution needs while maintaining high reliability.
 
 
 .. image:: img/Availability-zones.png
 
 .. _struttura_Organizzativa:
 
-**La struttura organizzativa**
-==============================
+**The organisational structure**
+================================
 
-All'interno di Nivola sarà possibile modellare una struttura organizzativa su tre livelli
-in modo da permettere di attritbuire responsabilità e gestione dei servizi
-secondo una gerarchia precisa. Nell'**Account** sarà istanziata l'infrastruttura
-in modo da soddisfare il fabbisogno tecnologico e di sicurezza necessario. Alla **Divisione**
-è demandato il compito di controllo del consumo delle risorse degli Account che potrà creare
-in assoluta  autonomia. Il vertice della struttura è costituito dall'**Organizzazione**
-che avrà la visione completa dell'utilizzo della piattaforma con la possibilità di declinarla
-in base alle Divisioni e agli Account.
+Within Nivola it will be possible to model an organisational structure on three levels so as to allow the allocation of responsibilities and management of services according to a precise hierarchy. In the Account, the infrastructure will be set up to meet the necessary technological and security requirements. The Division is entrusted with the task of controlling the consumption of the resources of the Accounts, which it will be able to create autonomously. The top of the structure is the Organisation, which will have a complete vision of the use of the platform, with the possibility of adapting it to the Divisions and Accounts.
 
 
 
-La struttura organizzativa è la suddivisione gerarchica che permette di
-personalizzare i servizi, l'accesso o le impostazioni per diversi gruppi
-di utenti o dispositivi. Nella piattaforma Nivola la struttura
-organizzativa si articola su 3 livelli:
+The organisational structure is the hierarchical subdivision that allows customisation of services, access or settings for different groups of users or devices. In the Nivola platform the organisational structure is divided into 3 levels:
 
--  **Organizzazione**: è gerarchicamente l’entità organizzativa più
-   elevata e può coincidere con il nome del cliente ad esempio “Regione
-   Piemonte”, “Csi Piemonte” e così via. Nella piattaforma le risorse
-   sono a disposizione di varie organizzazioni, che sono però dal punto
-   di vista logico completamente separate e indipendenti;
+-  **Organisation**: it is hierarchically the highest organisational entity and may coincide with the name of the client e.g. "Regione Piemonte", "Csi Piemonte" and so on. In the platform, resources are available to various organisations, which are however logically completely separate and independent;;
 
--  **Divisione**: è il secondo livello organizzativo. Una organizzazione
-   può avere più divisioni. Il concetto di Divisione rappresenta quindi
-   una suddivisione logica dell’Organizzazione, e può riflettere dunque
-   una divisione di tipo territoriale, organizzativa o di tipo di
-   business; inoltre ciascuna Divisione controlla le risorse e i consumi
-   di ciascun Account all'interno della Divisione";
+-  **Division**: : is the second organisational level. An organisation may have several divisions. The concept of Division therefore represents a logical subdivision of the Organisation, and may therefore reflect a territorial, organisational or business type division; furthermore, each Division controls the resources and consumption of each Account within the Division";
 
--  **Account**: è l’ultimo livello organizzativo e dipende dalla
-   Divisione. Una Divisione contiene uno o più Account. L'Account è il livello
-   organizzativo all'interno del quale l'Utente potrà creare, controllare e
-   gestire i propri servizi. E' possibile creare molteplici Account con
-   lo scopo di separare progetti differenti, oppure distinguere ambienti
-   di sviluppo da quelli
-   di produzione oppure allo scopo di suddividere la rendicontazione dei consumi.
+-  **Account**: is the last organisational level and depends on the Division. A Division contains one or more Accounts. The Account is the organisational level within which the user can create, control and manage their services. "It is possible to create multiple accounts for the purpose of separating different projects, or to distinguish development environments from production environments, or to divide consumption reporting.
 
 
 .. image:: img/struttura-org.png
 
-Si noti che tutte le risorse e i servizi sono associabili solo a livello
-di Account. Non è possibile associare i servizi alle Divisioni o alle
-Organizzazioni. L’Account rappresenta quindi il contenitore in cui
-vengono implementati e resi disponibili tutti i servizi utente. La
-gestione delle risorse utente avverrà quindi a livello di Account con
-dei ruoli abilitati ad operare a questo livello.
+Note that all resources and services can only be associated at Account level. It is not possible to associate services with Divisions or Organisations. The Account is therefore the container in which all user services are implemented and made available. The management of user resources will therefore take place at Account level with roles enabled to operate at this level.
 
 .. image:: img/Org-ruoli.png
 
 .. _utenti-ruoli:
 
-**Utenti, ruoli ed Account**
+**Users, Roles and Account**
 ============================
 
+Several roles can be distinguished within the platform, which are related to the defined organisational structure. Each role can correspond to at least one user, and therefore at least one natural person performing that function. A person registered on the system can be associated with several roles even on different organisational structures. For example, a user may have different roles on accounts in different divisions.
+
+To date, the following user roles are implemented within the system.
+
+**Organisation Master**: this role represents users who can carry out administrative functions within the organisation, such as the creation of divisions and accounts within the organisation; it can also profile users to make them operational within its structure and possibly register users not yet present on the platform. The Organisation Master can monitor the costs and status of resources at all levels of his organisation (divisions and accounts) and view the related reports. However, he does not have access to the management functions (create/edit/delete) of the resources associated with the accounts of his organisation.
+
+**Division Master**: this role represents users who can perform administrative functions within the Division, such as the creation of accounts within their division; they can also profile users to make them operational within their structure and possibly register users not yet present on the platform. The Organisation Master can monitor the costs and status of resources at all levels of his organisational structure (accounts) and view the related reports. However, he does not have access to the management functions (create/edit/delete) of the resources associated with the accounts of his division.
+
+**Back Office Administrator**: user who, within the system, has privileges over BackOffice functions (registration of new Users, Accreditation, creation of organisational levels) and monitoring of costs and platform status. The BackOffice Administrator can profile users with roles at any level of the organisational structure. He can also access aggregated cost and consumption reports at any level. The role is usually associated to users of Csi Piemonte management and support groups.
+
+**Account Master**: user who can manage all resources within the account, over which he therefore has maximum privileges. The Account Master can therefore create/delete/edit resources, he can also manage resources created by other users in the account. The account master can view and access cost and consumption reports for his account. The Account Master can register new users within his account and can profile or revoke users who have already been granted access.
+
+**Account Viewer**: user who can view all resources within the Account, but does not have edit/delete privileges. The Account Viewer can therefore view the list of services active on the Account, and can view their details, but cannot activate new services or change their status. The Account Viewer can view and access reports of aggregate costs and consumption for the Account. The Account Viewer cannot register new users on the platform and cannot profile other users for access.
+
+The phase of introducing a new user is as follows: a master, within the limits of the privileges of his hierarchical level, can accredit a user registered on the platform by assigning him a role, thereby granting him permissions to perform certain functions which will place the new user in a certain group.
+
+The same operation can be carried out and delegated to the Backoffice operator.
+
+To sum up:
 
 
-Si possono distinguere più ruoli all’interno della piattaforma, che si
-correlano alla struttura organizzativa definita. Ad ogni ruolo può
-corrispondere almeno un utente, e quindi almeno una persona fisica che
-svolge quella funzione. Una persona registrata sul sistema può essere
-associata a più ruoli anche su strutture organizzative differenti. Ad
-esempio un utente può avere ruoli differenti su account anche di
-divisioni distinte.
+-  An Organisation Master may :ref:`accredit or revoke users <Creare_Accreditare_Utente>` within its own divisions or accounts.
 
-Ad oggi all’interno del sistema sono implementati i seguenti ruoli
-utente.
+-  A Division Master may :ref:`accredit or revoke users <Creare_Accreditare_Utente>` within his own accounts and division.
 
-**Master di Organizzazione**: questo ruolo rappresenta gli utenti che
-possono svolgere funzioni amministrative all’interno dell’Organizzazione
-quali la creazione, sempre all’interno dell’organizzazione di
-pertinenza, delle divisioni e degli account; può inoltre profilare gli
-utenti per renderli operativi all’interno della propria struttura ed
-eventualmente registrare utenti non ancora presenti sulla piattaforma.
-Il Master di Organizzazione può monitorare i costi e lo stato delle
-risorse a tutti i livelli della propria struttura organizzativa
-(divisioni e account) e visualizzarne i relativi report. Non ha però
-accesso alle funzioni di gestione (creazione/modifica/cancellazione)
-delle risorse associate agli account della propria organizzazione.
+-	An Account Master can  :ref:`accredit or revoke users <Creare_Accreditare_Utente>` within their account.
 
-**Master di Divisione**: questo ruolo rappresenta gli utenti che possono
-svolgere funzioni amministrative all’interno della Divisione quali la
-creazione, sempre all’interno della divisione di pertinenza, degli
-account; può inoltre profilare gli utenti per renderli operativi
-all’interno della propria struttura ed eventualmente ha la possibilità
-di registrare utenti non ancora presenti sulla piattaforma. Il Master di
-Organizzazione può monitorare i costi e lo stato delle risorse a tutti i
-livelli della propria struttura organizzativa (account) e visualizzarne
-i relativi report. Non ha però accesso alle funzioni di gestione
-(creazione/modifica/cancellazione) delle risorse associate agli account
-della propria divisione.
-
-**Amministratore di Back Office**: utente che all’interno del sistema ha
-privilegi sulle funzioni di BackOffice (registrazione nuovi Utenti,
-Accreditamento, creazione livelli organizzativi) e monitoraggio costi e
-stato della piattaforma. L’Amministratore di BackOffice può profilare
-utenti con ruoli a qualsiasi livello della struttura organizzativa. Può
-inoltre accedere ai report dei costi e consumi aggregati a qualsiasi
-livello. Il ruolo è solitamente associato a utenti dei gruppi di
-gestione e supporto Csi Piemonte.
-
-**Master di Account**: utente che all’interno dell’Account può gestire
-tutte le risorse, sulle quali ha quindi il massimo dei privilegi. Il
-Master di Account può quindi creare/cancellare/modificare le risorse,
-può anche gestire le risorse create da altri utenti nell’account. Il
-Master di Account può visualizzare e accedere ai report dei costi e dei
-consumi relativamente al proprio account. Il master di account non può
-registrare nuovi utenti all’interno del proprio account e non può
-profilare utenti già censiti ad accedervi.
-
-**Viewer di Account**: utente che all’interno dell’Account può visualizzare
-tutte le risorse, sulle quali non ha però privilegi di modifica/cancellazione.
-Il Viewer di Account può quindi visualizzare l'elenco dei servizi attivi
-sull'Account , può visualizzarne il dettaglio, ma non ha possibilità 
-di attivarne di nuovi e modificarne lo stato. 
-Il Viewer di Account può visualizzare e accedere ai report 
-dei costi e dei consumi aggregati dell'account. Il Viewer di account non può
-registrare nuovi utenti all’interno della piattaforma e non può
-profilare altri utenti ad accedervi.
-
-La fase di introduzione di un nuovo utente si articola in questo modo:
-un master, nel limite dei privilegi del suo livello gerarchico, può
-accreditare un utente registrato sulla piattaforma assegnandogli un
-ruolo, in questo modo gli concede dei permessi per svolgere determinate
-funzioni che faranno ricadere il nuovo utente in un determinato gruppo.
-
-La stessa operazione può essere effettuata e delegata all’operatore di
-Backoffice.
-
-Riassumendo:
-
--  Un Master di Organizzazione può :ref:`accreditare o revocare utenti <Creare_Accreditare_Utente>`
-   all’interno delle proprie divisioni o account
-
--  Un Master di Divisione può :ref:`accreditare o revocare utenti <Creare_Accreditare_Utente>` all’interno
-   dei propri account.
-
--  L’Amministratore di Backoffice può :ref:`accreditare o revocare ruoli <Creare_Accreditare_Utente>` agli
-   utenti a qualsiasi livello della struttura gerarchica.
+-  The Backoffice Administrator can :ref:`accredit or revoke users <Creare_Accreditare_Utente>` at any level of the hierarchical structure
 
 
 
