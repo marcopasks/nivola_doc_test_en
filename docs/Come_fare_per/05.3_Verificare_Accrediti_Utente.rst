@@ -1,29 +1,25 @@
 .. _Verificare_Accredi_Utente:
 
-**Verificare Accrediti dell' Utente**
-#####################################
+**Verify User Credits**
+#######################
 
-La funzione per la **Verificare Accrediti dell' Utente**
-è attivabile dal pulsante **Elenco utenti registrati**
-
+The function for the **User's Credit Check** can be activated from the **Registered Users List** button
 
    .. image:: img/Utente_innesco_accredito.png
 
-Dall'elenco selezionare l'utente, del quale
-si necessita consultare il dettaglio, mettendo una spunta sulla Checkbox relativa
+From the list, select the user whose details you wish to consult by ticking the relevant checkbox.
 
   .. image:: img/Utente_elenco.png
 
-Premere sul pulsante **Visualizza dettagli utente**
+Press on the **View User Details** button
 
   .. image:: img/Pulsante_visualizza_dettagli.png
 
-La prima pagina, esposta dal portale, è quella relativa all'**Anagrafica**
+The first page displayed by the portal is the **Profile** page.
 
   .. image:: img/Utente_form_anagrafica.png
 
-Sfruttando il tabstrip sarà visibile l'elenco
-dei **Ruoli e i Permessi** attribuiti all'utente.
+Using the tabstrip, the list of **Roles and Permissions** assigned to the user will be displayed.
 
   .. image:: img/Utente_form_ruoli.png
 
