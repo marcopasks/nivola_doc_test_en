@@ -4,11 +4,13 @@
 ###############
 
 The **Create a User** function can be activated mainly in these two ways:
-1. 1.	From the left-hand side of the screen, click on the label **Register New User** in the **Administration** group
+
+1.	From the left-hand side of the screen, click on the label **Register New User** in the **Administration** group
 
    .. image:: img/Utente_innesco_damenu.png
 
-2. 2.	From the **Registered Users** list, press the
+
+2.	From the **Registered Users** list, press the
 
    .. image:: img/Utente_pulsante_add.png
 
