@@ -1,9 +1,9 @@
 .. _Creare_Accreditare_Utente:
 
-**Gestire un Utente**
-#####################
+**Managing a User**
+###################
 
-Sono le funzioni per gestire il ciclo di vita degli utenti nel Portale Nivola.
+These are the functions for managing the user lifecycle in the Nivola Portal.
 
 .. toctree::
    :maxdepth: 2
