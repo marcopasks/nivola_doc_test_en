@@ -16,6 +16,7 @@ Press the **Accredit User** button
   .. image:: img/Utente_pulsante_accredito.png
 
 In the new form, using the Combo Boxes, indicate your **Role, Organisation, Division, Account** and press the **Accredit** button
+
   .. image:: img/Utente_form_accredito.png
 
 The user will be accredited in the organisational level and role indicated.
