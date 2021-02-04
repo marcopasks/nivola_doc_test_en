@@ -3,21 +3,19 @@
 **Accredit User**
 #################
 
-La funzione **Accreditamento di utente** è attivabile dall'elenco **Utenti Registrati**
+The **User Accreditation** function can be activated from the **Registered Users** list
 
    .. image:: img/Utente_innesco_accredito.png
 
-Dall'elenco selezionare l'utente da accreditare mettendo una spunta sulla Checkbox relativa
+From the list, select the user to be credited by ticking the relevant checkbox.
 
   .. image:: img/Utente_elenco.png
 
-Premere sul pulsante **Accredita utente**
+Press the **Accredit User** button
 
   .. image:: img/Utente_pulsante_accredito.png
 
-Nella nuova form, sfruttando le Combo Box, indicare **Ruolo**, **Organizzazione**,
-**Divisione**, **Account** e premere il tasto **Accredita**
-
+In the new form, using the Combo Boxes, indicate your **Role, Organisation, Division, Account** and press the **Accredit** button
   .. image:: img/Utente_form_accredito.png
 
-L'utente sarà accreditato nel livello organizzativo e nel ruolo indicati.
+The user will be accredited in the organisational level and role indicated.
