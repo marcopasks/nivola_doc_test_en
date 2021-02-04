@@ -1,7 +1,7 @@
 .. _Accreditare_Utente:
 
-**Accreditare Utente**
-######################
+**Accredit User**
+#################
 
 La funzione **Accreditamento di utente** è attivabile dall'elenco **Utenti Registrati**
 
